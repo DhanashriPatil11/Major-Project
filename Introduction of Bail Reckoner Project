@@ -1,0 +1,36 @@
+Title : Bail Reckoner 
+Domain : AI and ML 
+Application : The Bail Reckoner project has several practical applications in the 
+legal and judicial system, particularly in streamlining bail-related decision-
+making for undertrial prisoners, legal aid providers, and judicial authorities. 
+Hardware and Software Requirement : 
+
+a) Hardware Requirement : 
+Component Specifications 
+Processor Intel i3 or AMD equivalent
+RAM 8 GB
+Storage 256 GB SSD
+ 
+b) Software Requirement : 
+Component Specifications 
+Operating System Intel i3 or AMD equivalent
+Frontend Technologies HTML,CSS and JavaScript
+Backend Language Python Flask
+Dataset Undertial_priosner.csv, 
+judicial_authority.csv, 
+Legal_aid_provider.csv
+Database SQL
+IDE VSCode
+Input Required for Project…
+
+Abstract : 
+The Bail Reckoner is an AI-driven legal assistance system designed to predict bail 
+eligibility and streamline the judicial process for undertrial prisoners, legal aid 
+providers, and judicial authorities. It leverages machine learning models to analyze case 
+details, offense severity, and legal precedents, providing an automated assessment of 
+bail eligibility. Additionally, the system generates AI-powered bail applications, 
+reducing manual effort and ensuring accuracy. Built with React.js for the frontend, 
+Flask (Python) for the backend, and MySQL/Oracle for database management, it 
+ensures seamless data handling. By automating key aspects of bail determination, the 
+Bail Reckoner enhances efficiency, transparency, and accessibility in the judicial 
+system.
