@@ -7,21 +7,19 @@ making for undertrial prisoners, legal aid providers, and judicial authorities.
 ##Hardware and Software Requirement :
 
 **a) Hardware Requirement :** 
-|Component | Specifications | 
+|**Component | Specifications** | 
 |**Processor** | Intel i3 or AMD equivalent |
 |**RAM** | 8 GB |
 |**Storage** | 256 GB SSD |
 
  
 **b) Software Requirement :** 
-|**Component** | Specifications |  
+|**Component** | **Specifications** |  
 |**Operating System** | Intel i3 or AMD equivalent|
 |**Frontend Technologies** |  Next.js(React + TyprScript).Tailwind CSS |
 |**Backend Language** | Python Flask |
-|**Dataset**| Undertial_priosner.csv |
-            | judicial_authority.csv |
-            | Legal_aid_provider.csv |
-|**Database**| SQL |
+|**Dataset** | Undertial_priosner.csv,judicial_authority.csv,Legal_aid_provider.csv |
+|**Database** | SQL |
 |**IDE** | VSCode |
 
 ##Input Required for Project :
