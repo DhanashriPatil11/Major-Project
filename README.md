@@ -26,12 +26,12 @@ Under the esteemed guidance of **Prof. Dr. P. S. Sanjekar Mam**
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React.js  
-- **Backend:** Flask (Python) / Node.js (Exploring options)  
+- **Frontend:** Next.js (React.js + TypeScript)  
+- **Backend:** Flask (Python) 
 - **Database:** MySQL  
 - **AI/ML Models:** Rule-based / Decision-tree model  
 - **NLP:** Legal text processing  
 
 ---
 
-## 📂 Repository Structure  
+
