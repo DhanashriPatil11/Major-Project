@@ -12,7 +12,7 @@ Under the esteemed guidance of **Prof. Dr. P. S. Sanjekar Mam**
 
 ## 🖼️ Project Preview  
 <div align="center">
-    <img src="https://github.com/DhanashriPatil11/Major-Project/blob/main/judicial.jpg?raw=true" alt="Bail Reckoner Preview" width="80%">
+    <img src="https://github.com/DhanashriPatil11/Major-Project/blob/main/Images/judicial.jpg?raw=true">
 </div>  
 
 ---
