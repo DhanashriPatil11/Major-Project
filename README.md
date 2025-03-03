@@ -1,4 +1,4 @@
-# 🚀 **<div align="center">Bail Reckoner</div>**  
+# 🚀 **<div align="center">Bail Reckoner</div>** 
 
 ### 📌 *A Collaborative Repository for the Major Project of TYAIML Students*  
 Under the esteemed guidance of **Prof. Dr. P. S. Sanjekar Mam**  
