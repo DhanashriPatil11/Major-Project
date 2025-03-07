@@ -1,0 +1,1001 @@
+Case ID,Case Number,Name of Undertrial,Selected Crimes,Imprisonment Served (in years),Bail Bond (in Rs.),Surety Bond (in Rs.)
+1,263433,Sneha Roy,"Cyber Crimes, Crimes Against Women",8,72506,36438
+2,257273,Ananya Sen,Theft and Robbery,10,64874,43525
+3,248435,Ananya Sen,Murder,12,58273,35173
+4,221526,Ananya Sen,Theft and Robbery,3,90587,18696
+5,230685,Rahul Gupta,Murder,13,27866,40611
+6,262827,Kiran Malhotra,Murder,13,72446,13010
+7,255741,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",11,89469,23313
+8,201158,Kiran Malhotra,Drug Trafficking,6,85827,19342
+9,265483,Kiran Malhotra,Murder,4,54898,15763
+10,251984,Deepak Joshi,Financial Fraud,7,22203,18933
+11,208441,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",5,32988,13519
+12,205520,Kiran Malhotra,Drug Trafficking,9,39996,20470
+13,244876,Deepak Joshi,Drug Trafficking,14,88013,23714
+14,243081,Rahul Gupta,Human Trafficking,3,83238,45248
+15,215466,Rahul Gupta,Murder,11,67835,19407
+16,213083,Manoj Tiwari,Murder,15,78016,37215
+17,214956,Ananya Sen,Murder,15,61261,33389
+18,204305,Ananya Sen,Murder,8,41126,12299
+19,234531,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",13,77226,19343
+20,224493,Sneha Roy,Theft and Robbery,10,57993,10404
+21,272561,Manoj Tiwari,Drug Trafficking,11,40716,27669
+22,233648,Sneha Roy,Theft and Robbery,1,92775,15953
+23,256560,Deepak Joshi,Human Trafficking,2,28237,47802
+24,281300,Deepak Joshi,Murder,13,79887,30536
+25,291205,Kiran Malhotra,Drug Trafficking,2,82862,45140
+26,290360,Sneha Roy,"Cyber Crimes, Crimes Against Women",3,46838,16665
+27,226972,Manoj Tiwari,Financial Fraud,1,76444,43252
+28,213155,Rahul Gupta,Financial Fraud,4,94955,29687
+29,246908,Sandeep Yadav,Drug Trafficking,2,21603,23350
+30,240401,Deepak Joshi,Drug Trafficking,6,36212,39482
+31,291217,Sneha Roy,Theft and Robbery,14,98813,37271
+32,247537,Manoj Tiwari,Theft and Robbery,12,40827,12791
+33,295250,Ananya Sen,Financial Fraud,8,61151,22768
+34,223711,Ananya Sen,"Cyber Crimes, Crimes Against Women",8,43475,33815
+35,252160,Kiran Malhotra,Murder,5,27851,23316
+36,291048,Sneha Roy,Financial Fraud,1,28489,10486
+37,209150,Sneha Roy,Murder,7,33433,34116
+38,271751,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",5,75933,22362
+39,299483,Kiran Malhotra,Financial Fraud,1,91103,19584
+40,202716,Sneha Roy,Human Trafficking,7,76816,21586
+41,247411,Manoj Tiwari,Theft and Robbery,6,43628,18539
+42,268446,Ananya Sen,Murder,15,88411,29054
+43,262434,Rahul Gupta,Drug Trafficking,12,77044,11922
+44,271713,Sneha Roy,Drug Trafficking,11,67864,36272
+45,243532,Manoj Tiwari,Financial Fraud,4,72922,14318
+46,277042,Sandeep Yadav,Financial Fraud,2,98593,27871
+47,258437,Kiran Malhotra,Theft and Robbery,3,77356,19450
+48,253665,Manoj Tiwari,Drug Trafficking,4,86920,26166
+49,277434,Sandeep Yadav,Human Trafficking,4,67586,45395
+50,252196,Sandeep Yadav,Murder,13,21316,24885
+51,260984,Sneha Roy,"Cyber Crimes, Crimes Against Women",10,45835,38680
+52,287021,Rahul Gupta,Drug Trafficking,11,58256,23920
+53,264515,Manoj Tiwari,Financial Fraud,3,37791,19796
+54,292154,Sneha Roy,Murder,1,54179,37621
+55,297929,Rahul Gupta,Murder,4,47852,17667
+56,285343,Sneha Roy,"Cyber Crimes, Crimes Against Women",15,43916,25009
+57,282562,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",6,52448,42664
+58,270870,Deepak Joshi,Murder,11,84833,25129
+59,262666,Rahul Gupta,"Cyber Crimes, Crimes Against Women",3,94583,48841
+60,275283,Ananya Sen,Human Trafficking,6,65556.78051,39196
+61,288238,Sneha Roy,"Cyber Crimes, Crimes Against Women",2,76248,16291
+62,260192,Manoj Tiwari,Human Trafficking,14,42994,29379
+63,291845,Manoj Tiwari,Murder,1,60335,27428
+64,271145,Manoj Tiwari,Theft and Robbery,13,20129,24403
+65,232465,Rahul Gupta,Financial Fraud,3,56688,44143
+66,250328,Sandeep Yadav,Theft and Robbery,15,45543,43683
+67,275174,Sneha Roy,Financial Fraud,12,28463,43830
+68,289253,Ananya Sen,"Cyber Crimes, Crimes Against Women",8,34958,26727
+69,238145,Manoj Tiwari,Murder,13,95850,37760
+70,222017,Kiran Malhotra,Murder,12,60969,17442
+71,217431,Ananya Sen,Financial Fraud,7,66571,41776
+72,212874,Sneha Roy,"Cyber Crimes, Crimes Against Women",2,68426,23429
+73,220030,Sandeep Yadav,Drug Trafficking,9,54158,12504
+74,205137,Kiran Malhotra,Murder,15,78315,36518
+75,216988,Rahul Gupta,Theft and Robbery,5,45713,31744
+76,277342,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",10,46580,44588
+77,291745,Ananya Sen,Drug Trafficking,8,46422,32953
+78,243487,Sneha Roy,Human Trafficking,11,65762,32474
+79,278222,Kiran Malhotra,Theft and Robbery,2,34279,49865
+80,234402,Sneha Roy,"Cyber Crimes, Crimes Against Women",7,29176,44794
+81,246537,Sneha Roy,"Cyber Crimes, Crimes Against Women",3,23099,16855
+82,296249,Kiran Malhotra,Murder,2,67315,38746
+83,274147,Sneha Roy,Theft and Robbery,5,85870,32147
+84,258913,Manoj Tiwari,Financial Fraud,8,78724,47063
+85,214528,Sandeep Yadav,Drug Trafficking,13,21086,26725
+86,228210,Sneha Roy,Financial Fraud,4,71785,14155
+87,280221,Rahul Gupta,Murder,14,47823,20976
+88,290237,Manoj Tiwari,Drug Trafficking,10,27605,45890
+89,247289,Rahul Gupta,Murder,14,88273,25029
+90,290696,Rahul Gupta,Drug Trafficking,9,75314,30582
+91,225665,Sandeep Yadav,Theft and Robbery,2,26132,20982
+92,226478,Deepak Joshi,Theft and Robbery,8,81001,47028
+93,241433,Sandeep Yadav,Financial Fraud,7,41390,14814
+94,275888,Sneha Roy,Theft and Robbery,10,143626.875,44962
+95,202992,Sneha Roy,"Cyber Crimes, Crimes Against Women",15,90814,15504
+96,272164,Sandeep Yadav,Theft and Robbery,15,88347,32388
+97,285730,Deepak Joshi,Murder,6,65556.78051,11616
+98,207035,Rahul Gupta,Murder,12,31680,10944
+99,264010,Deepak Joshi,"Cyber Crimes, Crimes Against Women",10,29815,34036
+100,228741,Ananya Sen,Theft and Robbery,3,26588,37262
+101,285345,Rahul Gupta,Theft and Robbery,4,143626.875,46123
+102,289317,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",11,65556.78051,21627
+103,280997,Sneha Roy,"Cyber Crimes, Crimes Against Women",8,75300,13354
+104,213172,Sneha Roy,Theft and Robbery,14,97042,18856
+105,238866,Deepak Joshi,Murder,11,60962,28540
+106,226222,Kiran Malhotra,Murder,6,28237,32699
+107,236916,Ananya Sen,Drug Trafficking,7,59280,14883
+108,298091,Ananya Sen,Theft and Robbery,8,36764,11586
+109,246520,Sandeep Yadav,Theft and Robbery,11,96013,39475
+110,280392,Sneha Roy,"Cyber Crimes, Crimes Against Women",2,84302,18505
+111,266752,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",4,40193,11601
+112,296924,Rahul Gupta,Drug Trafficking,11,85226,16081
+113,237413,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",1,26253,25551
+114,257375,Deepak Joshi,Human Trafficking,12,42841,20719
+115,227634,Sneha Roy,Theft and Robbery,13,88085,46620
+116,293479,Kiran Malhotra,Drug Trafficking,14,27040,23018
+117,293265,Ananya Sen,Murder,8,62365,34580
+118,220638,Sneha Roy,"Cyber Crimes, Crimes Against Women",15,77540,20217
+119,214291,Kiran Malhotra,Murder,9,36933,44582
+120,246527,Sneha Roy,Financial Fraud,13,49613,31867
+121,253037,Manoj Tiwari,Human Trafficking,15,45376,18422
+122,293694,Sandeep Yadav,Financial Fraud,11,73544,19114
+123,225055,Rahul Gupta,"Cyber Crimes, Crimes Against Women",5,60637,48370
+124,246678,Sneha Roy,Theft and Robbery,7,94593,37385
+125,221138,Deepak Joshi,Financial Fraud,15,76965,27380
+126,265215,Kiran Malhotra,Financial Fraud,14,46726,44226
+127,270973,Deepak Joshi,Human Trafficking,2,45991,29419
+128,295089,Deepak Joshi,Drug Trafficking,8,67208,13253
+129,283199,Sneha Roy,"Cyber Crimes, Crimes Against Women",7,27552,39276
+130,258221,Sneha Roy,Drug Trafficking,13,72068,20891
+131,275480,Ananya Sen,Murder,15,98111,48401
+132,297565,Kiran Malhotra,Theft and Robbery,11,22309,49027
+133,289901,Deepak Joshi,"Cyber Crimes, Crimes Against Women",5,37393,22874
+134,291915,Sneha Roy,Human Trafficking,8,66945,30758
+135,297703,Rahul Gupta,Theft and Robbery,13,98415,47471
+136,253047,Sneha Roy,Murder,8,59731,35677
+137,209759,Deepak Joshi,Theft and Robbery,8,53872,15860
+138,286119,Kiran Malhotra,Theft and Robbery,6,98344,42854
+139,223324,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",7,73616,42868
+140,286719,Kiran Malhotra,Drug Trafficking,8,65556.78051,48789
+141,234916,Sandeep Yadav,Drug Trafficking,13,41466,46628
+142,203954,Kiran Malhotra,Drug Trafficking,1,69808,12468
+143,279047,Sandeep Yadav,Drug Trafficking,2,65630,34956
+144,247293,Sneha Roy,"Cyber Crimes, Crimes Against Women",5,66383,20649
+145,221624,Sandeep Yadav,Human Trafficking,2,49643,35362
+146,223905,Ananya Sen,Human Trafficking,3,47215,40494
+147,225234,Rahul Gupta,Human Trafficking,12,46921,39592
+148,218073,Manoj Tiwari,Drug Trafficking,5,77383,35819
+149,255517,Sneha Roy,Murder,12,33530,33795
+150,231686,Sandeep Yadav,Drug Trafficking,6,53274,25127
+151,217506,Sneha Roy,Murder,7,40414,24633
+152,224999,Ananya Sen,"Cyber Crimes, Crimes Against Women",4,88321,12212
+153,276533,Deepak Joshi,Murder,2,72523,19443
+154,281880,Deepak Joshi,Theft and Robbery,1,44525,26538
+155,295052,Rahul Gupta,Human Trafficking,3,78998,47378
+156,280852,Deepak Joshi,Financial Fraud,7,48675,23486
+157,289962,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",8,83860,27361
+158,292671,Manoj Tiwari,Murder,14,44726,23460
+159,216218,Manoj Tiwari,Drug Trafficking,11,58114,10257
+160,259899,Rahul Gupta,Financial Fraud,10,77806,28372
+161,275422,Manoj Tiwari,Murder,2,62544,48321
+162,258841,Deepak Joshi,Drug Trafficking,13,29614,21959
+163,238694,Sneha Roy,Theft and Robbery,11,41078,16019
+164,252386,Rahul Gupta,Human Trafficking,3,59528,45331
+165,262688,Deepak Joshi,Murder,1,60295,47862
+166,298208,Manoj Tiwari,Murder,4,79879,43756
+167,268869,Rahul Gupta,Financial Fraud,8,36668,16475
+168,214524,Kiran Malhotra,Theft and Robbery,9,88849,36763
+169,281020,Deepak Joshi,Human Trafficking,8,36043,48501
+170,284500,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",10,35596,12997
+171,201902,Rahul Gupta,Human Trafficking,4,31900,29192
+172,290630,Kiran Malhotra,Theft and Robbery,12,55244,23839
+173,293063,Sandeep Yadav,Theft and Robbery,6,28354,32936
+174,288611,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",2,27575,23896
+175,245190,Sneha Roy,Financial Fraud,8,44293,44874
+176,271581,Manoj Tiwari,Murder,1,44895,15360
+177,201624,Rahul Gupta,Drug Trafficking,1,81860,34563
+178,226408,Rahul Gupta,Drug Trafficking,9,24877,12922
+179,222444,Rahul Gupta,Murder,4,96639,32856
+180,235377,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",13,56424,23677
+181,217317,Ananya Sen,Financial Fraud,1,68272,15656
+182,218375,Manoj Tiwari,Financial Fraud,1,68041,49783
+183,275663,Ananya Sen,Murder,14,45716,35215
+184,262836,Ananya Sen,Murder,11,63991,44334
+185,220870,Deepak Joshi,Financial Fraud,9,74424,11719
+186,266166,Sneha Roy,Theft and Robbery,4,39695,30189
+187,216830,Rahul Gupta,Human Trafficking,3,24183,24843
+188,268572,Sneha Roy,Drug Trafficking,9,24494,27590
+189,293653,Kiran Malhotra,Theft and Robbery,9,26192,32421
+190,204639,Deepak Joshi,Drug Trafficking,2,76407,15744
+191,242805,Sneha Roy,Murder,14,58480,11174
+192,288218,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",13,57041,14832
+193,287119,Kiran Malhotra,Drug Trafficking,8,84165,40984
+194,271495,Sneha Roy,Human Trafficking,15,26416,32601
+195,223169,Rahul Gupta,Human Trafficking,6,94657,25551
+196,223883,Kiran Malhotra,Murder,8,70256,11190
+197,269776,Sandeep Yadav,Drug Trafficking,6,78847,21765
+198,247115,Deepak Joshi,Theft and Robbery,8,76179,25607
+199,253853,Sneha Roy,Financial Fraud,3,65556.78051,23585
+200,239335,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",10,71859,21242
+201,212377,Sandeep Yadav,Drug Trafficking,12,72375,21352
+202,257040,Ananya Sen,Drug Trafficking,11,59261,15321
+203,208854,Kiran Malhotra,Theft and Robbery,10,68725,36359
+204,234978,Rahul Gupta,"Cyber Crimes, Crimes Against Women",4,45842,31049
+205,265867,Ananya Sen,"Cyber Crimes, Crimes Against Women",6,61998,28259
+206,283635,Rahul Gupta,Murder,14,48543,38378
+207,207687,Sneha Roy,Human Trafficking,3,26308,37149
+208,280101,Ananya Sen,Murder,14,99615,26363
+209,219726,Rahul Gupta,Drug Trafficking,11,43640,40937
+210,276003,Manoj Tiwari,Human Trafficking,11,44401,39425
+211,208745,Sandeep Yadav,Financial Fraud,8,66645,45787
+212,233837,Ananya Sen,Financial Fraud,5,26686,42760
+213,209837,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",1,67574,26761
+214,262858,Rahul Gupta,Theft and Robbery,5,74061,20863
+215,261540,Ananya Sen,Drug Trafficking,8,68611,28381
+216,263536,Rahul Gupta,Financial Fraud,5,84967,17253
+217,286140,Rahul Gupta,Human Trafficking,15,29375,40284
+218,226293,Kiran Malhotra,Theft and Robbery,1,91960,22131
+219,216008,Ananya Sen,Murder,12,32431,19932
+220,224514,Deepak Joshi,Theft and Robbery,11,95343,12898
+221,224210,Deepak Joshi,Drug Trafficking,12,91350,21981
+222,283207,Deepak Joshi,Drug Trafficking,3,27232,43666
+223,210281,Kiran Malhotra,Murder,15,93339,22513
+224,225945,Rahul Gupta,Drug Trafficking,1,53020,17856
+225,299986,Sandeep Yadav,Theft and Robbery,14,82483,37872
+226,274564,Rahul Gupta,Human Trafficking,2,60756,29149
+227,291423,Rahul Gupta,"Cyber Crimes, Crimes Against Women",1,86863,16259
+228,239377,Deepak Joshi,Drug Trafficking,13,20522,15696
+229,251080,Manoj Tiwari,Drug Trafficking,1,91788,34716
+230,278037,Sandeep Yadav,Financial Fraud,6,53990,34674
+231,250540,Manoj Tiwari,Theft and Robbery,10,50117,31106
+232,290322,Rahul Gupta,"Cyber Crimes, Crimes Against Women",2,78093,14587
+233,298002,Rahul Gupta,Human Trafficking,13,76259,27667
+234,243884,Rahul Gupta,Theft and Robbery,4,32735,10799
+235,279746,Manoj Tiwari,Murder,14,64575,23264
+236,238673,Rahul Gupta,Drug Trafficking,3,65556.78051,39569
+237,252894,Sandeep Yadav,Theft and Robbery,13,60821,25353
+238,217878,Kiran Malhotra,Financial Fraud,14,58608,17004
+239,205300,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",14,92809,29326
+240,287269,Sneha Roy,Theft and Robbery,13,83357,44074
+241,211151,Ananya Sen,"Cyber Crimes, Crimes Against Women",12,26316,24473
+242,285201,Deepak Joshi,Human Trafficking,8,95882,34470
+243,269713,Deepak Joshi,"Cyber Crimes, Crimes Against Women",14,81676,14296
+244,276797,Manoj Tiwari,Drug Trafficking,4,24522,12151
+245,257414,Sneha Roy,Financial Fraud,2,39203,18111
+246,221224,Deepak Joshi,Theft and Robbery,9,26234,31152
+247,237565,Rahul Gupta,Financial Fraud,7,75627,21207
+248,248574,Deepak Joshi,Drug Trafficking,4,51391,38897
+249,264648,Sandeep Yadav,Financial Fraud,12,56322,10915
+250,245364,Kiran Malhotra,Financial Fraud,9,76561,31635
+251,245911,Ananya Sen,Murder,2,40260,14710
+252,263819,Ananya Sen,Drug Trafficking,11,50593,43386
+253,257660,Manoj Tiwari,Human Trafficking,1,42202,42618
+254,283123,Rahul Gupta,Drug Trafficking,15,38038,15287
+255,228277,Ananya Sen,Drug Trafficking,5,98151,20306
+256,264605,Deepak Joshi,Theft and Robbery,8,92959,20156
+257,260140,Kiran Malhotra,Drug Trafficking,1,78152,37661
+258,246988,Sandeep Yadav,Murder,3,99962,27278
+259,221090,Rahul Gupta,Murder,14,70436,15459
+260,244302,Rahul Gupta,Drug Trafficking,7,94466,27867
+261,225414,Manoj Tiwari,Financial Fraud,7,73255,42067
+262,217419,Manoj Tiwari,Drug Trafficking,15,43040,37766
+263,207468,Kiran Malhotra,Theft and Robbery,12,36630,45564
+264,201020,Sandeep Yadav,Financial Fraud,1,40081,44165
+265,218633,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",5,73311,1003.1
+266,212101,Ananya Sen,Murder,14,66130,46252
+267,275398,Ananya Sen,Human Trafficking,11,21359,37343
+268,253572,Sneha Roy,Human Trafficking,9,26345,46483
+269,295110,Kiran Malhotra,Drug Trafficking,9,78653,11716
+270,283302,Sneha Roy,Murder,9,79017,33955
+271,276272,Manoj Tiwari,Drug Trafficking,4,76091,26261
+272,255474,Rahul Gupta,Murder,14,54939,41937
+273,278322,Manoj Tiwari,Human Trafficking,8,28006,39996
+274,261587,Rahul Gupta,Murder,2,22225,20707
+275,246860,Kiran Malhotra,Drug Trafficking,4,98570,24090
+276,243831,Deepak Joshi,Financial Fraud,1,29030,15442
+277,258168,Rahul Gupta,Financial Fraud,3,25281,12374
+278,203422,Kiran Malhotra,Drug Trafficking,1,65556.78051,32283
+279,273945,Kiran Malhotra,Human Trafficking,9,92649,13533
+280,247996,Ananya Sen,Theft and Robbery,14,21831,36602
+281,284266,Rahul Gupta,Drug Trafficking,8,51032,41324
+282,219584,Ananya Sen,Financial Fraud,11,53577,30382
+283,264832,Sandeep Yadav,Murder,3,37631,43891
+284,261380,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",3,22802,20925
+285,284673,Deepak Joshi,Drug Trafficking,13,40768,17202
+286,203963,Sneha Roy,Theft and Robbery,6,47525,13660
+287,277003,Sneha Roy,Financial Fraud,8,70148,31714
+288,243153,Deepak Joshi,Drug Trafficking,13,75095,27058
+289,292295,Deepak Joshi,Murder,7,65123,37945
+290,210088,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",2,59880,45762
+291,285019,Sandeep Yadav,Theft and Robbery,8,26961,38465
+292,232378,Kiran Malhotra,Drug Trafficking,9,86115,49481
+293,240763,Rahul Gupta,Drug Trafficking,12,28055,21176
+294,299777,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",5,89710,19710
+295,242232,Sneha Roy,Murder,14,54832,47812
+296,251760,Rahul Gupta,Murder,13,75967,35577
+297,249394,Sneha Roy,Drug Trafficking,10,39109,43106
+298,208439,Manoj Tiwari,Drug Trafficking,5,75311,46494
+299,289795,Sandeep Yadav,Drug Trafficking,15,80609,20625
+300,283155,Ananya Sen,Human Trafficking,1,65556.78051,24120
+301,249604,Sneha Roy,Theft and Robbery,8,69189,18140
+302,202161,Rahul Gupta,Theft and Robbery,13,92604,12609
+303,281021,Kiran Malhotra,Theft and Robbery,8,99278,18812
+304,277838,Rahul Gupta,Human Trafficking,10,63655,26602
+305,277964,Ananya Sen,Murder,4,24592,23859
+306,228628,Kiran Malhotra,Theft and Robbery,2,80396,18514
+307,285956,Kiran Malhotra,Financial Fraud,9,23053,47001
+308,251985,Sandeep Yadav,Human Trafficking,3,87798,22701
+309,222405,Ananya Sen,Drug Trafficking,10,68653,31534
+310,208488,Sandeep Yadav,Human Trafficking,7,74417,49662
+311,269587,Manoj Tiwari,Financial Fraud,10,71689,10460
+312,262316,Sandeep Yadav,Theft and Robbery,8,66189,11517
+313,231715,Rahul Gupta,Murder,8,65556.78051,23034
+314,226329,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",3,27998,35469
+315,209911,Ananya Sen,Murder,10,89428,26813
+316,234542,Deepak Joshi,Human Trafficking,12,50529,48850
+317,228627,Rahul Gupta,Murder,9,48589,45218
+318,231524,Deepak Joshi,Drug Trafficking,4,24624,43607
+319,216541,Rahul Gupta,"Cyber Crimes, Crimes Against Women",14,61548,41013
+320,227120,Ananya Sen,Drug Trafficking,8,26361,22431
+321,237136,Deepak Joshi,Financial Fraud,6,80525,48725
+322,287497,Sandeep Yadav,Financial Fraud,2,56787,41451
+323,240779,Ananya Sen,Murder,10,94589,40595
+324,246349,Deepak Joshi,Murder,14,46909,29768
+325,294786,Ananya Sen,Human Trafficking,14,78333,38937
+326,236417,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",11,71273,43313
+327,290828,Kiran Malhotra,Drug Trafficking,6,40576,10660
+328,214313,Kiran Malhotra,Drug Trafficking,10,56867,21970
+329,201580,Manoj Tiwari,Theft and Robbery,2,65556.78051,23061
+330,205251,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",12,77979,21766
+331,229185,Rahul Gupta,Drug Trafficking,9,29670,20802
+332,210636,Deepak Joshi,Murder,15,92893,27070
+333,290565,Manoj Tiwari,Financial Fraud,12,88160,43728
+334,224786,Deepak Joshi,Theft and Robbery,1,47986,21772
+335,231851,Kiran Malhotra,Drug Trafficking,6,25058,41683
+336,287984,Deepak Joshi,Financial Fraud,15,86164,12317
+337,256015,Deepak Joshi,Theft and Robbery,1,84598,12775
+338,299904,Sandeep Yadav,Drug Trafficking,6,59538,28375
+339,208146,Ananya Sen,Murder,8,78393,43483
+340,252701,Ananya Sen,Drug Trafficking,15,26980,21105
+341,276904,Sandeep Yadav,Financial Fraud,10,26914,28902
+342,293072,Ananya Sen,"Cyber Crimes, Crimes Against Women",4,46564,19341
+343,263409,Manoj Tiwari,Drug Trafficking,15,80946,37363
+344,271330,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",14,85652,17314
+345,264433,Sneha Roy,"Cyber Crimes, Crimes Against Women",12,61552,21715
+346,223354,Rahul Gupta,Financial Fraud,14,49842,38107
+347,259809,Deepak Joshi,Theft and Robbery,4,65556.78051,33688
+348,228186,Rahul Gupta,Drug Trafficking,11,52424,45275
+349,284684,Rahul Gupta,Drug Trafficking,12,88482,45397
+350,214540,Ananya Sen,Financial Fraud,15,88317,31897
+351,200077,Deepak Joshi,Drug Trafficking,12,34188,15204
+352,203042,Deepak Joshi,Financial Fraud,13,36607,45948
+353,207602,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",5,24815,49276
+354,239221,Sneha Roy,Financial Fraud,1,92243,30174
+355,221141,Sneha Roy,"Cyber Crimes, Crimes Against Women",14,34968,14055
+356,258082,Rahul Gupta,Financial Fraud,1,36747,49101
+357,260945,Sandeep Yadav,Theft and Robbery,12,74525,21009
+358,290612,Rahul Gupta,Financial Fraud,1,30073,47981
+359,217313,Manoj Tiwari,Human Trafficking,14,84144,47390
+360,273806,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",3,87863,25255
+361,292738,Rahul Gupta,Human Trafficking,1,59359,11591
+362,296460,Kiran Malhotra,Theft and Robbery,14,38562,16892
+363,291465,Deepak Joshi,Drug Trafficking,10,60486,14034
+364,263911,Ananya Sen,Human Trafficking,6,48292,43318
+365,293490,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",13,34549,35354
+366,296003,Sandeep Yadav,Murder,13,95059,48447
+367,297210,Manoj Tiwari,Drug Trafficking,10,45136,25362
+368,293895,Rahul Gupta,Theft and Robbery,6,22640,14407
+369,238211,Kiran Malhotra,Theft and Robbery,6,90866,24343
+370,293146,Manoj Tiwari,Financial Fraud,2,94464,22775
+371,232993,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",15,65556.78051,31171
+372,248328,Kiran Malhotra,Murder,8,39304,34221
+373,273750,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",10,69256,38048
+374,219082,Ananya Sen,Human Trafficking,8,82949,19143
+375,248015,Kiran Malhotra,Murder,3,34055,43182
+376,213966,Deepak Joshi,Murder,5,66242,11348
+377,246208,Manoj Tiwari,Theft and Robbery,6,85921,36458
+378,250368,Rahul Gupta,Financial Fraud,14,76906,24077
+379,290249,Ananya Sen,"Cyber Crimes, Crimes Against Women",6,50076,22843
+380,275443,Sneha Roy,Drug Trafficking,15,86060,33192
+381,204715,Sandeep Yadav,Theft and Robbery,15,99371,37808
+382,289406,Ananya Sen,Financial Fraud,15,67426,22176
+383,266081,Manoj Tiwari,Murder,10,73076,19814
+384,234685,Deepak Joshi,Drug Trafficking,1,60526,30402
+385,294442,Rahul Gupta,Drug Trafficking,6,33711,28784
+386,270583,Deepak Joshi,Human Trafficking,7,25778,22448
+387,241944,Deepak Joshi,Human Trafficking,12,80582,35818
+388,271109,Rahul Gupta,Murder,1,72933,27008
+389,209663,Manoj Tiwari,Human Trafficking,12,97306,28780
+390,270489,Manoj Tiwari,Drug Trafficking,10,96769,38008
+391,234385,Sneha Roy,Murder,5,63822,21421
+392,207920,Deepak Joshi,"Cyber Crimes, Crimes Against Women",14,46861,37251
+393,205578,Manoj Tiwari,Drug Trafficking,5,45582,13945
+394,230054,Kiran Malhotra,Human Trafficking,5,46715,1003.1
+395,222792,Rahul Gupta,Theft and Robbery,5,54422,37895
+396,239703,Sneha Roy,Financial Fraud,3,93983,21287
+397,294526,Ananya Sen,Theft and Robbery,14,72349,10934
+398,203585,Ananya Sen,Theft and Robbery,9,63749,36789
+399,240834,Sneha Roy,"Cyber Crimes, Crimes Against Women",5,88221,34547
+400,235370,Kiran Malhotra,Human Trafficking,10,60073,39249
+401,204776,Sneha Roy,Human Trafficking,7,84636,27323
+402,247417,Sandeep Yadav,Theft and Robbery,15,55313,48707
+403,234682,Ananya Sen,Financial Fraud,2,61459,18357
+404,270861,Ananya Sen,"Cyber Crimes, Crimes Against Women",1,59089,48998
+405,293458,Deepak Joshi,Financial Fraud,15,39297,24540
+406,258060,Ananya Sen,Murder,3,96410,10637
+407,259754,Ananya Sen,Human Trafficking,7,83571,23019
+408,224532,Deepak Joshi,"Cyber Crimes, Crimes Against Women",11,87644,49285
+409,264567,Rahul Gupta,Drug Trafficking,12,40957,38338
+410,254255,Ananya Sen,"Cyber Crimes, Crimes Against Women",1,92586,36567
+411,260994,Manoj Tiwari,Theft and Robbery,11,38783,33396
+412,292136,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",8,92720,47118
+413,241038,Manoj Tiwari,Theft and Robbery,12,47462,12261
+414,239948,Manoj Tiwari,Murder,7,63631,27141
+415,240294,Ananya Sen,Theft and Robbery,2,33316,27166
+416,225856,Deepak Joshi,"Cyber Crimes, Crimes Against Women",2,58464,17183
+417,266481,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",10,22684,11346
+418,278916,Sandeep Yadav,Murder,10,30335,31594
+419,244623,Ananya Sen,Financial Fraud,12,22794,44213
+420,278039,Sneha Roy,Human Trafficking,11,68513,27215
+421,259856,Sandeep Yadav,Human Trafficking,13,59596,15596
+422,208745,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",10,44506,32982
+423,242345,Deepak Joshi,Financial Fraud,6,32906,48532
+424,293396,Sneha Roy,Financial Fraud,15,38459,28275
+425,299503,Deepak Joshi,Human Trafficking,15,27248,28058
+426,284380,Sandeep Yadav,Drug Trafficking,12,64318,37236
+427,272284,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",14,85953,28897
+428,260076,Kiran Malhotra,Financial Fraud,14,68051,41266
+429,245678,Sandeep Yadav,Human Trafficking,13,24882,48085
+430,256791,Ananya Sen,Financial Fraud,10,88139,16137
+431,227733,Sneha Roy,Murder,5,51940,47586
+432,225181,Ananya Sen,"Cyber Crimes, Crimes Against Women",15,81638,25248
+433,232784,Ananya Sen,Murder,12,61412,36075
+434,251358,Deepak Joshi,Financial Fraud,9,20330,43103
+435,216565,Sandeep Yadav,Theft and Robbery,4,79001,48802
+436,204620,Deepak Joshi,Drug Trafficking,12,85910,15505
+437,297929,Manoj Tiwari,Murder,6,82253,39757
+438,288405,Ananya Sen,Theft and Robbery,1,42635,37470
+439,253863,Sneha Roy,Financial Fraud,14,27758,14429
+440,216842,Manoj Tiwari,Drug Trafficking,1,65556.78051,11285
+441,255318,Sandeep Yadav,Murder,15,26307,23303
+442,229995,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",12,60858,19582
+443,283180,Deepak Joshi,Murder,6,41226,33842
+444,214246,Rahul Gupta,Theft and Robbery,4,24313,11167
+445,271298,Kiran Malhotra,Murder,6,47277,18102
+446,251381,Deepak Joshi,Theft and Robbery,10,73210,45837
+447,252267,Rahul Gupta,Drug Trafficking,4,44097,42474
+448,266055,Sneha Roy,Murder,13,63292,35736
+449,259925,Sneha Roy,Financial Fraud,7,89028,40944
+450,217770,Kiran Malhotra,Murder,13,51020,42475
+451,270759,Manoj Tiwari,Human Trafficking,14,46028,32921
+452,255900,Rahul Gupta,Murder,7,39779,27702
+453,270874,Manoj Tiwari,Financial Fraud,15,77455,48653
+454,285687,Sandeep Yadav,Theft and Robbery,12,97418,19166
+455,238856,Sneha Roy,Theft and Robbery,9,62404,45934
+456,254974,Ananya Sen,Theft and Robbery,2,44163,42827
+457,263388,Ananya Sen,Human Trafficking,14,58109,49891
+458,245287,Ananya Sen,"Cyber Crimes, Crimes Against Women",14,78680,33542
+459,269469,Deepak Joshi,"Cyber Crimes, Crimes Against Women",15,67500,36301
+460,242867,Sneha Roy,Financial Fraud,11,49845,46314
+461,203754,Manoj Tiwari,Murder,3,45319,19183
+462,238989,Sandeep Yadav,Murder,12,82270,31298
+463,296148,Rahul Gupta,Financial Fraud,5,87111,34256
+464,272466,Rahul Gupta,"Cyber Crimes, Crimes Against Women",1,54394,46110
+465,218602,Deepak Joshi,Human Trafficking,1,91573,41885
+466,235759,Deepak Joshi,Human Trafficking,14,86565,31291
+467,210164,Rahul Gupta,"Cyber Crimes, Crimes Against Women",11,94223,35522
+468,222122,Sneha Roy,Financial Fraud,1,67792,48219
+469,212415,Rahul Gupta,Human Trafficking,3,93403,25009
+470,297618,Ananya Sen,Drug Trafficking,13,70421,12471
+471,240168,Manoj Tiwari,Theft and Robbery,14,70546,15335
+472,227350,Rahul Gupta,Financial Fraud,13,28909,16733
+473,254279,Ananya Sen,Murder,3,44771,29636
+474,207185,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",15,78724,15558
+475,220959,Kiran Malhotra,Murder,15,78145,48215
+476,244913,Deepak Joshi,Murder,12,20101,19971
+477,292619,Deepak Joshi,Theft and Robbery,4,25972,32011
+478,296399,Sneha Roy,Theft and Robbery,13,44367,41499
+479,271015,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",10,95267,49784
+480,229935,Sandeep Yadav,Murder,13,96475,12354
+481,294082,Deepak Joshi,Murder,6,94029,24482
+482,232098,Rahul Gupta,Financial Fraud,3,83589,23189
+483,225225,Ananya Sen,"Cyber Crimes, Crimes Against Women",12,57498,42062
+484,260997,Sandeep Yadav,Drug Trafficking,4,96273,26692
+485,294944,Sandeep Yadav,Human Trafficking,11,92144,18784
+486,238120,Rahul Gupta,Theft and Robbery,1,36951,12610
+487,231444,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",2,24004,47038
+488,266050,Rahul Gupta,Theft and Robbery,15,83414,14743
+489,260988,Sneha Roy,Theft and Robbery,12,84142,32072
+490,252732,Sandeep Yadav,Financial Fraud,1,32221,33609
+491,297856,Deepak Joshi,Murder,1,65443,21856
+492,299338,Kiran Malhotra,Theft and Robbery,8,26784,25874
+493,252660,Sandeep Yadav,Financial Fraud,6,30440,44162
+494,248981,Ananya Sen,Theft and Robbery,5,69487,48645
+495,248262,Deepak Joshi,Drug Trafficking,3,23405,37250
+496,248844,Kiran Malhotra,Financial Fraud,4,49458,19217
+497,207223,Sandeep Yadav,Theft and Robbery,2,95156,45900
+498,237810,Sneha Roy,Murder,6,90837,46019
+499,270221,Sneha Roy,Murder,10,49753,21916
+500,224890,Manoj Tiwari,Murder,14,65556.78051,35968
+501,250068,Kiran Malhotra,Human Trafficking,4,89796,18707
+502,200731,Rahul Gupta,Drug Trafficking,14,37944,10055
+503,266809,Deepak Joshi,Financial Fraud,15,69105,46416
+504,207544,Manoj Tiwari,Financial Fraud,8,94058,25514
+505,210075,Deepak Joshi,Drug Trafficking,13,22434,47402
+506,226634,Ananya Sen,Human Trafficking,10,92766,21630
+507,236559,Kiran Malhotra,Murder,2,91919,43787
+508,209764,Sneha Roy,Murder,11,57514,47716
+509,291715,Manoj Tiwari,Murder,14,98404,12070
+510,223731,Ananya Sen,Human Trafficking,12,73162,49464
+511,226379,Rahul Gupta,"Cyber Crimes, Crimes Against Women",10,48141,16212
+512,245116,Rahul Gupta,Theft and Robbery,2,46518,41082
+513,231023,Rahul Gupta,"Cyber Crimes, Crimes Against Women",8,78144,42571
+514,257936,Kiran Malhotra,Human Trafficking,8,37934,49268
+515,272844,Deepak Joshi,Theft and Robbery,15,59540,21024
+516,213191,Sneha Roy,Murder,12,27116,42230
+517,274498,Sandeep Yadav,Financial Fraud,10,99811,36088
+518,285949,Sneha Roy,Murder,9,96086,48186
+519,281554,Manoj Tiwari,Murder,12,89128,10031
+520,237805,Rahul Gupta,"Cyber Crimes, Crimes Against Women",3,36104,47894
+521,250288,Deepak Joshi,Theft and Robbery,12,37991,13619
+522,255861,Rahul Gupta,Theft and Robbery,8,79720,31964
+523,238877,Rahul Gupta,Drug Trafficking,4,35160,18150
+524,222186,Sneha Roy,"Cyber Crimes, Crimes Against Women",3,69350,41579
+525,236087,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",15,99461,30149
+526,232181,Ananya Sen,Murder,11,28988,37179
+527,216235,Sandeep Yadav,Human Trafficking,6,38018,30892
+528,222226,Ananya Sen,Theft and Robbery,8,78578,31572
+529,269109,Rahul Gupta,"Cyber Crimes, Crimes Against Women",12,91761,45233
+530,287431,Manoj Tiwari,Drug Trafficking,4,44824,13315
+531,253038,Ananya Sen,Murder,6,41607,14680
+532,229691,Manoj Tiwari,Financial Fraud,1,87828,37480
+533,247315,Sandeep Yadav,Drug Trafficking,10,97187,22895
+534,258105,Rahul Gupta,Murder,10,85323,38629
+535,271174,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",15,87618,21276
+536,230145,Kiran Malhotra,Theft and Robbery,15,88966,44612
+537,245565,Sneha Roy,"Cyber Crimes, Crimes Against Women",9,43023,28377
+538,230442,Ananya Sen,Murder,7,64885,23881
+539,267625,Ananya Sen,Theft and Robbery,8,79858,34429
+540,275325,Kiran Malhotra,Human Trafficking,12,21545,16306
+541,202122,Ananya Sen,"Cyber Crimes, Crimes Against Women",3,23238,44009
+542,281105,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",14,39920,27383
+543,258117,Sandeep Yadav,Murder,14,44166,34924
+544,297771,Sneha Roy,Theft and Robbery,5,71129,33865
+545,297489,Sandeep Yadav,Theft and Robbery,3,82892,49851
+546,243135,Manoj Tiwari,Human Trafficking,14,76744,49061
+547,292881,Sneha Roy,Murder,14,89509,38039
+548,216809,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",4,58193,11742
+549,226674,Ananya Sen,Financial Fraud,5,55097,29372
+550,233896,Deepak Joshi,Drug Trafficking,8,82358,16453
+551,291327,Rahul Gupta,"Cyber Crimes, Crimes Against Women",10,36852,10951
+552,240118,Manoj Tiwari,Murder,1,51167,13588
+553,212388,Deepak Joshi,Theft and Robbery,12,78617,33524
+554,231277,Rahul Gupta,Drug Trafficking,13,73738,44784
+555,203706,Rahul Gupta,Financial Fraud,1,89265,10366
+556,267719,Ananya Sen,Drug Trafficking,4,76937,33887
+557,215428,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",4,74816,41895
+558,217126,Rahul Gupta,Human Trafficking,11,45304,36358
+559,244346,Kiran Malhotra,Murder,5,77902,36742
+560,224955,Deepak Joshi,"Cyber Crimes, Crimes Against Women",5,37549,10863
+561,290450,Deepak Joshi,Murder,14,52784,22184
+562,293946,Kiran Malhotra,Theft and Robbery,4,43188,36200
+563,201579,Kiran Malhotra,Theft and Robbery,12,143626.875,47169
+564,295198,Kiran Malhotra,Drug Trafficking,3,91867,13463
+565,237623,Deepak Joshi,Human Trafficking,2,33402,38242
+566,282416,Ananya Sen,Human Trafficking,9,86199,27118
+567,230013,Ananya Sen,Human Trafficking,2,20925,15784
+568,295455,Sandeep Yadav,Theft and Robbery,5,84722,14346
+569,282458,Deepak Joshi,Drug Trafficking,9,78539,34578
+570,254017,Kiran Malhotra,Murder,9,53479,42544
+571,272023,Manoj Tiwari,Human Trafficking,2,74528,37127
+572,219983,Ananya Sen,"Cyber Crimes, Crimes Against Women",12,28590,31274
+573,278453,Manoj Tiwari,Drug Trafficking,12,86375,36215
+574,294145,Kiran Malhotra,Financial Fraud,13,39737,33639
+575,261297,Kiran Malhotra,Financial Fraud,13,89292,35976
+576,259737,Ananya Sen,Financial Fraud,10,68439,38073
+577,290606,Deepak Joshi,Murder,7,93924,48874
+578,275658,Deepak Joshi,Human Trafficking,6,58368,45091
+579,279552,Rahul Gupta,Human Trafficking,6,78050,32846
+580,284940,Sandeep Yadav,Theft and Robbery,2,75124,43027
+581,201044,Sneha Roy,Drug Trafficking,8,68809,10732
+582,291864,Ananya Sen,Drug Trafficking,12,80444,47346
+583,294443,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",13,95483,43197
+584,274176,Rahul Gupta,Financial Fraud,9,33194,47293
+585,247214,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",5,65556.78051,10642
+586,270372,Manoj Tiwari,Drug Trafficking,7,97936,29037
+587,267001,Rahul Gupta,Financial Fraud,2,55529,25403
+588,205659,Ananya Sen,"Cyber Crimes, Crimes Against Women",15,71799,17380
+589,218230,Ananya Sen,Theft and Robbery,15,92850,38414
+590,257736,Rahul Gupta,Murder,7,87012,12164
+591,287253,Sandeep Yadav,Financial Fraud,2,35336,26667
+592,272433,Manoj Tiwari,Murder,12,57655,18249
+593,265561,Sandeep Yadav,Drug Trafficking,8,25274,25567
+594,206816,Ananya Sen,Human Trafficking,10,29298,17551
+595,228018,Kiran Malhotra,Theft and Robbery,9,82255,12223
+596,297788,Sneha Roy,Financial Fraud,9,69493,39883
+597,211176,Kiran Malhotra,Murder,6,97502,49883
+598,253587,Deepak Joshi,Drug Trafficking,3,58113,35917
+599,245949,Manoj Tiwari,Financial Fraud,4,27237,35386
+600,290643,Sandeep Yadav,Theft and Robbery,7,82615,20069
+601,281292,Sneha Roy,Financial Fraud,9,27651,26325
+602,281860,Rahul Gupta,Drug Trafficking,14,65556.78051,39288
+603,251578,Deepak Joshi,Murder,6,67996,27617
+604,287942,Kiran Malhotra,Drug Trafficking,5,65786,30955
+605,238157,Rahul Gupta,Murder,12,90225,41159
+606,262604,Sandeep Yadav,Murder,14,36096,23051
+607,227306,Deepak Joshi,Human Trafficking,5,26645,31369
+608,290030,Sneha Roy,"Cyber Crimes, Crimes Against Women",4,36608,39008
+609,209965,Kiran Malhotra,Theft and Robbery,7,37803,36448
+610,207047,Deepak Joshi,Murder,15,96868,16375
+611,229921,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",5,53218,18209
+612,294669,Deepak Joshi,Human Trafficking,1,82599,10386
+613,216471,Manoj Tiwari,Human Trafficking,11,22173,39245
+614,226048,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",13,90271,30029
+615,283677,Kiran Malhotra,Financial Fraud,9,29863,16411
+616,296507,Sneha Roy,Murder,10,68534,45437
+617,290798,Sandeep Yadav,Financial Fraud,1,94736,24374
+618,256175,Manoj Tiwari,Theft and Robbery,1,25576,48829
+619,271142,Kiran Malhotra,Murder,9,42030,12839
+620,215257,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",6,86674,43091
+621,202921,Ananya Sen,Murder,9,25868,45733
+622,248230,Manoj Tiwari,Drug Trafficking,9,65556.78051,19933
+623,218234,Ananya Sen,Financial Fraud,11,23246,19614
+624,204771,Sneha Roy,Financial Fraud,12,77638,10802
+625,202816,Deepak Joshi,Drug Trafficking,6,48973,47915
+626,273302,Sneha Roy,Human Trafficking,8,63487,24237
+627,230688,Sneha Roy,Murder,8,30985,41771
+628,234229,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",12,66986,32867
+629,217842,Sneha Roy,Drug Trafficking,9,98958,15387
+630,220133,Deepak Joshi,Drug Trafficking,14,88145,37228
+631,229280,Kiran Malhotra,Drug Trafficking,15,96604,30946
+632,254306,Ananya Sen,Theft and Robbery,5,36286,15224
+633,249059,Sandeep Yadav,Human Trafficking,5,91192,11816
+634,222315,Sandeep Yadav,Murder,1,91742,18621
+635,263444,Rahul Gupta,Drug Trafficking,8,28157,24190
+636,275647,Ananya Sen,Human Trafficking,9,25716,29441
+637,286142,Sandeep Yadav,Theft and Robbery,8,87757,48427
+638,250232,Deepak Joshi,Theft and Robbery,4,21364,11933
+639,239404,Sandeep Yadav,Financial Fraud,5,49708,42133
+640,244915,Rahul Gupta,Drug Trafficking,11,64829,46416
+641,201962,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",2,89155,49666
+642,233186,Manoj Tiwari,Drug Trafficking,15,71193,13301
+643,219168,Deepak Joshi,"Cyber Crimes, Crimes Against Women",5,48109,29462
+644,212527,Manoj Tiwari,Financial Fraud,9,59933,16866
+645,273004,Rahul Gupta,Murder,8,56276,30460
+646,240626,Deepak Joshi,Murder,2,83268,29102
+647,207218,Ananya Sen,"Cyber Crimes, Crimes Against Women",7,27258,45180
+648,252448,Ananya Sen,"Cyber Crimes, Crimes Against Women",13,55986,28255
+649,299782,Ananya Sen,Human Trafficking,5,87332,39911
+650,284069,Sneha Roy,Theft and Robbery,1,99375,23052
+651,275438,Kiran Malhotra,Human Trafficking,5,86534,49389
+652,293228,Kiran Malhotra,Human Trafficking,13,78650,20482
+653,287785,Sneha Roy,Human Trafficking,6,87326,42447
+654,279078,Ananya Sen,Human Trafficking,7,97837,14659
+655,235842,Sandeep Yadav,Drug Trafficking,10,46071,25842
+656,223879,Rahul Gupta,Theft and Robbery,13,36532,10429
+657,257696,Sneha Roy,Drug Trafficking,4,77657,26253
+658,298620,Kiran Malhotra,Drug Trafficking,1,43966,21348
+659,227706,Manoj Tiwari,Murder,15,70195,15022
+660,269427,Deepak Joshi,Human Trafficking,6,25230,20759
+661,297212,Kiran Malhotra,Theft and Robbery,8,75659,39520
+662,207615,Kiran Malhotra,Theft and Robbery,3,65728,24706
+663,260147,Sneha Roy,Theft and Robbery,12,54958,24011
+664,269902,Manoj Tiwari,Murder,7,83254,28541
+665,290370,Deepak Joshi,Financial Fraud,15,85667,30968
+666,207902,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",15,32521,24934
+667,268378,Manoj Tiwari,Drug Trafficking,2,44388,28993
+668,244547,Rahul Gupta,"Cyber Crimes, Crimes Against Women",8,39255,35294
+669,236027,Deepak Joshi,"Cyber Crimes, Crimes Against Women",10,58562,39476
+670,273479,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",5,59164,28102
+671,240946,Deepak Joshi,Murder,2,87716,14370
+672,282072,Deepak Joshi,Drug Trafficking,13,26695,18672
+673,243317,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",6,44451,37783
+674,249044,Deepak Joshi,Human Trafficking,3,28934,46082
+675,256160,Deepak Joshi,Theft and Robbery,4,44311,29138
+676,266184,Deepak Joshi,"Cyber Crimes, Crimes Against Women",3,22340,23253
+677,255804,Rahul Gupta,Theft and Robbery,9,30267,21774
+678,229427,Sandeep Yadav,Murder,9,60078,42489
+679,273353,Sneha Roy,Murder,8,30723,39613
+680,266913,Sneha Roy,Drug Trafficking,7,76030,29662
+681,217381,Manoj Tiwari,Financial Fraud,4,61910,25817
+682,288101,Rahul Gupta,Financial Fraud,7,57565,47376
+683,200059,Kiran Malhotra,Financial Fraud,15,67733,36859
+684,204742,Sneha Roy,Theft and Robbery,9,87293,40709
+685,284750,Kiran Malhotra,Drug Trafficking,1,99898,35921
+686,247466,Manoj Tiwari,Murder,12,93432,1003.1
+687,276609,Sandeep Yadav,Human Trafficking,10,61644,22027
+688,285791,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",12,65556.78051,14869
+689,246897,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",4,31448,16340
+690,270336,Sneha Roy,"Cyber Crimes, Crimes Against Women",7,30848,21389
+691,209935,Kiran Malhotra,Murder,7,58437,27383
+692,263973,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",10,30459,15202
+693,299378,Manoj Tiwari,Theft and Robbery,11,143626.875,49089
+694,243381,Rahul Gupta,Theft and Robbery,11,84901,15369
+695,287523,Rahul Gupta,"Cyber Crimes, Crimes Against Women",2,73510,10703
+696,235833,Deepak Joshi,Theft and Robbery,9,76887,48122
+697,272705,Sneha Roy,Murder,1,89382,42096
+698,245769,Deepak Joshi,Financial Fraud,3,34896,10472
+699,228174,Rahul Gupta,Drug Trafficking,10,58955,21727
+700,289195,Deepak Joshi,Human Trafficking,3,52349,39744
+701,294089,Kiran Malhotra,Drug Trafficking,5,23374,35559
+702,274313,Rahul Gupta,Murder,1,24396,43714
+703,221405,Kiran Malhotra,Human Trafficking,2,26457,47956
+704,297689,Deepak Joshi,Theft and Robbery,5,38032,38699
+705,298621,Rahul Gupta,Murder,3,31613,38407
+706,229384,Manoj Tiwari,Murder,3,73929,11650
+707,245527,Ananya Sen,Murder,7,84733,39550
+708,238252,Sandeep Yadav,Theft and Robbery,15,63451,13129
+709,218972,Manoj Tiwari,Human Trafficking,10,98226,34342
+710,293189,Ananya Sen,Human Trafficking,11,94876,17575
+711,259932,Rahul Gupta,Theft and Robbery,7,91425,48828
+712,265298,Sneha Roy,Drug Trafficking,1,93427,16239
+713,252857,Deepak Joshi,Theft and Robbery,13,42552,17471
+714,265752,Sandeep Yadav,Murder,6,50199,28218
+715,288698,Ananya Sen,Financial Fraud,6,67155,38360
+716,280975,Kiran Malhotra,Theft and Robbery,13,68990,11158
+717,248976,Sneha Roy,Drug Trafficking,14,70775,47138
+718,258136,Kiran Malhotra,Theft and Robbery,7,57403,46931
+719,285885,Kiran Malhotra,Drug Trafficking,11,78795,44083
+720,288446,Manoj Tiwari,Human Trafficking,11,99206,27164
+721,235702,Deepak Joshi,Human Trafficking,12,43801,38226
+722,201199,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",13,75401,44125
+723,212472,Kiran Malhotra,Murder,8,77038,40894
+724,288172,Deepak Joshi,Human Trafficking,4,29132,24313
+725,239521,Manoj Tiwari,Drug Trafficking,3,38695,30022
+726,218192,Kiran Malhotra,Theft and Robbery,14,90289,18235
+727,202365,Kiran Malhotra,Human Trafficking,15,36158,28886
+728,215263,Ananya Sen,Murder,1,83455,37948
+729,286997,Sandeep Yadav,Theft and Robbery,9,99265,42717
+730,298710,Manoj Tiwari,Human Trafficking,10,143626.875,36148
+731,202661,Deepak Joshi,"Cyber Crimes, Crimes Against Women",7,31092,11063
+732,204049,Kiran Malhotra,Murder,4,64422,33874
+733,253771,Kiran Malhotra,Human Trafficking,12,64271,26069
+734,211836,Sandeep Yadav,Drug Trafficking,10,21707,28634
+735,201708,Deepak Joshi,Theft and Robbery,2,76557,32204
+736,242814,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",7,99949,39803
+737,217713,Kiran Malhotra,Financial Fraud,3,25757,27746
+738,239277,Ananya Sen,Financial Fraud,8,64912,27031
+739,215131,Sandeep Yadav,Human Trafficking,15,30763,1003.1
+740,270741,Sneha Roy,Murder,5,93559,47767
+741,210983,Sneha Roy,Theft and Robbery,8,46415,48440
+742,277450,Kiran Malhotra,Theft and Robbery,12,30279,45829
+743,215184,Sneha Roy,Murder,10,58432,16337
+744,277334,Deepak Joshi,Human Trafficking,15,87201,33135
+745,232541,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",15,95959,16172
+746,284262,Sandeep Yadav,Murder,6,96684,42656
+747,270573,Deepak Joshi,Murder,1,52867,16028
+748,222659,Sneha Roy,Financial Fraud,14,77653,48587
+749,207264,Ananya Sen,Human Trafficking,6,30951,31384
+750,200478,Ananya Sen,Drug Trafficking,1,44352,22437
+751,241351,Sneha Roy,Human Trafficking,9,30293,38476
+752,256608,Ananya Sen,Financial Fraud,2,97676,11137
+753,265963,Rahul Gupta,Financial Fraud,10,34170,39432
+754,290859,Sneha Roy,Drug Trafficking,8,86521,25194
+755,210156,Rahul Gupta,Theft and Robbery,11,41149,46771
+756,274405,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",13,89399,30818
+757,242895,Rahul Gupta,Financial Fraud,2,81251,18968
+758,209618,Sandeep Yadav,Drug Trafficking,9,28260,46494
+759,217555,Sandeep Yadav,Drug Trafficking,15,32327,31610
+760,287571,Ananya Sen,Financial Fraud,5,20753,14730
+761,285791,Ananya Sen,Murder,6,41022,14529
+762,289658,Sneha Roy,Drug Trafficking,8,26631,31728
+763,246457,Ananya Sen,Human Trafficking,11,35414,29439
+764,287078,Rahul Gupta,Financial Fraud,8,59648,37821
+765,224932,Sandeep Yadav,Theft and Robbery,15,63665,40462
+766,286034,Kiran Malhotra,Theft and Robbery,9,49490,13858
+767,280604,Sandeep Yadav,Human Trafficking,2,88543,45388
+768,214394,Manoj Tiwari,Theft and Robbery,12,70493,20491
+769,227762,Deepak Joshi,Drug Trafficking,5,44533,40925
+770,242386,Kiran Malhotra,Drug Trafficking,2,62426,14126
+771,264380,Manoj Tiwari,Murder,9,52161,11708
+772,209246,Deepak Joshi,Murder,3,57796,37964
+773,260877,Rahul Gupta,Theft and Robbery,3,80166,40973
+774,225139,Sneha Roy,Human Trafficking,1,51938,29412
+775,289109,Sandeep Yadav,Financial Fraud,2,29036,16696
+776,210370,Manoj Tiwari,Murder,2,76600,45889
+777,254415,Kiran Malhotra,Human Trafficking,9,23449,43965
+778,250545,Ananya Sen,Theft and Robbery,6,55091,43551
+779,226367,Sneha Roy,"Cyber Crimes, Crimes Against Women",14,25754,29157
+780,291306,Manoj Tiwari,Human Trafficking,8,38019,20631
+781,221495,Rahul Gupta,Drug Trafficking,12,24126,26522
+782,214264,Sandeep Yadav,Drug Trafficking,6,89610,16058
+783,299753,Rahul Gupta,Drug Trafficking,4,53826,48895
+784,237897,Sandeep Yadav,Human Trafficking,1,90073,45413
+785,276395,Sandeep Yadav,Theft and Robbery,3,70734,20556
+786,292590,Sneha Roy,Human Trafficking,15,42280,12231
+787,265591,Sandeep Yadav,Human Trafficking,2,69658,36426
+788,256466,Deepak Joshi,Drug Trafficking,4,90582,21373
+789,285251,Manoj Tiwari,Theft and Robbery,8,95755,15955
+790,213192,Rahul Gupta,"Cyber Crimes, Crimes Against Women",4,34771,27277
+791,255273,Rahul Gupta,Human Trafficking,12,92844,45940
+792,293890,Kiran Malhotra,Financial Fraud,4,83033,39291
+793,278626,Rahul Gupta,Financial Fraud,12,29090,23688
+794,242819,Kiran Malhotra,Financial Fraud,9,78647,10545
+795,231729,Ananya Sen,Financial Fraud,5,39320,28753
+796,272584,Sandeep Yadav,Drug Trafficking,10,71417,34680
+797,257206,Manoj Tiwari,Human Trafficking,11,30226,10479
+798,262553,Manoj Tiwari,Drug Trafficking,1,47378,13290
+799,227732,Deepak Joshi,Theft and Robbery,4,65426,14336
+800,230565,Ananya Sen,"Cyber Crimes, Crimes Against Women",14,95058,16125
+801,257549,Manoj Tiwari,Theft and Robbery,8,87325,19995
+802,266224,Ananya Sen,"Cyber Crimes, Crimes Against Women",3,25351,44178
+803,238759,Sneha Roy,Human Trafficking,11,89122,29608
+804,275304,Sandeep Yadav,Financial Fraud,5,30345,35338
+805,232908,Ananya Sen,"Cyber Crimes, Crimes Against Women",9,48821,34011
+806,206586,Manoj Tiwari,Human Trafficking,2,50566,36047
+807,255840,Sneha Roy,Financial Fraud,10,51086,41282
+808,286370,Kiran Malhotra,Human Trafficking,4,29281,36772
+809,268969,Kiran Malhotra,Drug Trafficking,15,34756,18036
+810,288733,Deepak Joshi,Drug Trafficking,6,30219,25368
+811,249159,Sandeep Yadav,Drug Trafficking,14,43154,19859
+812,281467,Sneha Roy,Drug Trafficking,8,21471,42357
+813,282054,Kiran Malhotra,Financial Fraud,3,44288,18418
+814,231929,Manoj Tiwari,Human Trafficking,3,85421,28310
+815,293863,Rahul Gupta,Murder,6,42942,40215
+816,242324,Manoj Tiwari,Theft and Robbery,14,45231,19055
+817,218715,Kiran Malhotra,Financial Fraud,5,98673,38914
+818,240562,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",11,87501,24137
+819,277092,Ananya Sen,Drug Trafficking,14,91999,36807
+820,287877,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",3,22866,25620
+821,247162,Manoj Tiwari,Drug Trafficking,1,92171,30293
+822,255548,Deepak Joshi,Drug Trafficking,5,78112,27282
+823,251840,Kiran Malhotra,Drug Trafficking,6,95198,25700
+824,259281,Sandeep Yadav,Financial Fraud,6,33186,22359
+825,293734,Deepak Joshi,Murder,14,68874,21425
+826,213281,Kiran Malhotra,Human Trafficking,7,73362,38883
+827,250651,Manoj Tiwari,Murder,4,38595,33388
+828,292889,Sneha Roy,Drug Trafficking,5,27443,12496
+829,259374,Deepak Joshi,Financial Fraud,1,95023,27152
+830,265593,Deepak Joshi,Murder,13,20432,18412
+831,265171,Rahul Gupta,Financial Fraud,10,79314,48874
+832,213798,Ananya Sen,Financial Fraud,8,50561,42856
+833,218847,Ananya Sen,Murder,2,65222,37809
+834,207375,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",10,52165,13211
+835,249973,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",12,20863,23590
+836,204339,Ananya Sen,Murder,8,88281,38288
+837,272721,Manoj Tiwari,Financial Fraud,9,44547,29665
+838,210525,Manoj Tiwari,Human Trafficking,2,65556.78051,16812
+839,268614,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",5,76472,43747
+840,278698,Rahul Gupta,"Cyber Crimes, Crimes Against Women",11,38758,12651
+841,207670,Rahul Gupta,Human Trafficking,5,92381,30036
+842,252709,Kiran Malhotra,Drug Trafficking,2,67267,47485
+843,269787,Sneha Roy,Human Trafficking,12,48774,27222
+844,207960,Deepak Joshi,"Cyber Crimes, Crimes Against Women",9,42057,19894
+845,268821,Deepak Joshi,"Cyber Crimes, Crimes Against Women",6,41528,27262
+846,252571,Ananya Sen,Murder,14,99517,13577
+847,202660,Sandeep Yadav,Financial Fraud,11,29594,49403
+848,218766,Ananya Sen,Financial Fraud,10,47423,17744
+849,297121,Kiran Malhotra,Theft and Robbery,11,57599,10259
+850,207711,Ananya Sen,Theft and Robbery,6,94146,43548
+851,243286,Sandeep Yadav,Theft and Robbery,6,52497,43068
+852,281754,Sneha Roy,Theft and Robbery,14,69995,18424
+853,268060,Sandeep Yadav,Drug Trafficking,2,68957,28783
+854,286264,Deepak Joshi,Financial Fraud,11,94491,17932
+855,287813,Deepak Joshi,Drug Trafficking,11,49680,38744
+856,265628,Manoj Tiwari,Theft and Robbery,7,89457,48145
+857,252832,Sneha Roy,Human Trafficking,15,96677,35864
+858,244157,Ananya Sen,Murder,12,58241,21397
+859,261296,Deepak Joshi,Human Trafficking,3,74768,42719
+860,212639,Sandeep Yadav,Drug Trafficking,8,41138,42104
+861,227264,Rahul Gupta,Financial Fraud,12,89119,20497
+862,265879,Sandeep Yadav,Theft and Robbery,15,87073,25381
+863,276666,Sneha Roy,Drug Trafficking,5,67216,16159
+864,239937,Sneha Roy,Drug Trafficking,8,30102,35842
+865,250222,Rahul Gupta,Human Trafficking,6,25470,41854
+866,254130,Kiran Malhotra,Murder,9,96179,16553
+867,276096,Deepak Joshi,"Cyber Crimes, Crimes Against Women",9,32667,26670
+868,293104,Manoj Tiwari,Financial Fraud,1,30772,27227
+869,288903,Ananya Sen,Human Trafficking,8,80510,45547
+870,215066,Sandeep Yadav,Financial Fraud,9,51611,16503
+871,215749,Rahul Gupta,Drug Trafficking,6,77083,19836
+872,275502,Rahul Gupta,Murder,8,25588,20522
+873,243347,Deepak Joshi,Drug Trafficking,13,94923,46000
+874,299712,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",8,23886,13442
+875,243914,Sandeep Yadav,Theft and Robbery,13,44803,20766
+876,239346,Deepak Joshi,Human Trafficking,15,89699,12169
+877,296274,Sneha Roy,Drug Trafficking,12,75233,13297
+878,233399,Rahul Gupta,Human Trafficking,13,95156,33478
+879,285015,Sandeep Yadav,Theft and Robbery,3,97140,23214
+880,255994,Sneha Roy,"Cyber Crimes, Crimes Against Women",13,54508,41855
+881,220232,Rahul Gupta,Theft and Robbery,3,59958,40432
+882,240260,Manoj Tiwari,Human Trafficking,14,49817,32315
+883,202234,Sneha Roy,Drug Trafficking,9,45345,25517
+884,241015,Rahul Gupta,Murder,8,49083,22069
+885,216867,Ananya Sen,Murder,5,98577,30440
+886,223095,Rahul Gupta,Theft and Robbery,2,62846,18072
+887,245897,Kiran Malhotra,Theft and Robbery,5,50386,36113
+888,214150,Ananya Sen,"Cyber Crimes, Crimes Against Women",11,80020,46182
+889,234694,Sneha Roy,Financial Fraud,3,35318,13704
+890,214913,Sneha Roy,Drug Trafficking,4,56094,15445
+891,233374,Ananya Sen,"Cyber Crimes, Crimes Against Women",7,61346,11683
+892,276907,Kiran Malhotra,Theft and Robbery,15,82035,43284
+893,273415,Kiran Malhotra,Financial Fraud,5,90041,11978
+894,263078,Deepak Joshi,"Cyber Crimes, Crimes Against Women",11,89794,11756
+895,233621,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",8,72761,38696
+896,200716,Deepak Joshi,Financial Fraud,7,94671,40223
+897,281150,Sandeep Yadav,Drug Trafficking,13,73193,40912
+898,249653,Deepak Joshi,"Cyber Crimes, Crimes Against Women",1,55255,14884
+899,254462,Deepak Joshi,"Cyber Crimes, Crimes Against Women",9,68908,32988
+900,265552,Ananya Sen,Theft and Robbery,8,77622,33991
+901,273234,Sneha Roy,Theft and Robbery,15,97596,21604
+902,267542,Rahul Gupta,Theft and Robbery,12,65556.78051,42834
+903,236724,Sneha Roy,Theft and Robbery,12,65556.78051,38093
+904,277982,Rahul Gupta,Drug Trafficking,10,32915,25158
+905,294899,Rahul Gupta,Human Trafficking,2,46848,39388
+906,220238,Sandeep Yadav,Murder,8,63166,38383
+907,251455,Manoj Tiwari,Theft and Robbery,10,88849,21084
+908,204895,Manoj Tiwari,Human Trafficking,15,24621,35119
+909,224860,Deepak Joshi,Murder,5,59373,14873
+910,292248,Kiran Malhotra,Financial Fraud,4,23787,32393
+911,256015,Manoj Tiwari,Financial Fraud,12,98432,36286
+912,254957,Rahul Gupta,Financial Fraud,13,91972,39791
+913,265301,Deepak Joshi,Financial Fraud,1,49427,18074
+914,287493,Deepak Joshi,Financial Fraud,5,91008,40937
+915,283872,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",8,26194,37269
+916,279979,Kiran Malhotra,"Cyber Crimes, Crimes Against Women",13,53772,17066
+917,236406,Rahul Gupta,Human Trafficking,3,83264,17513
+918,236032,Deepak Joshi,"Cyber Crimes, Crimes Against Women",10,98671,25679
+919,210866,Kiran Malhotra,Murder,15,68974,32873
+920,273153,Ananya Sen,Theft and Robbery,11,21648,23022
+921,221524,Ananya Sen,Financial Fraud,2,46004,20656
+922,276379,Rahul Gupta,Financial Fraud,11,24678,35013
+923,249523,Kiran Malhotra,Drug Trafficking,11,56263,35050
+924,260585,Sneha Roy,Murder,2,39933,36012
+925,263038,Kiran Malhotra,Human Trafficking,8,65556.78051,1003.1
+926,252779,Rahul Gupta,Drug Trafficking,7,82130,17182
+927,251375,Ananya Sen,Theft and Robbery,3,38171,49501
+928,241706,Sandeep Yadav,Theft and Robbery,5,62760,18456
+929,254532,Ananya Sen,Financial Fraud,1,61835,11859
+930,296250,Manoj Tiwari,Financial Fraud,5,70869,23073
+931,236522,Sneha Roy,Theft and Robbery,4,81501,10754
+932,278843,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",14,58541,10410
+933,255708,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",10,89765,40268
+934,261920,Sneha Roy,Drug Trafficking,7,79615,45956
+935,274292,Sandeep Yadav,Murder,6,24872,27616
+936,260311,Deepak Joshi,"Cyber Crimes, Crimes Against Women",6,67896,31932
+937,292548,Manoj Tiwari,Theft and Robbery,9,25345,14555
+938,246972,Deepak Joshi,Murder,14,28373,38932
+939,284482,Manoj Tiwari,Financial Fraud,8,94408,23650
+940,247561,Rahul Gupta,Human Trafficking,7,41718,20693
+941,294122,Kiran Malhotra,Murder,2,80713,40468
+942,283946,Manoj Tiwari,Theft and Robbery,5,58304,34806
+943,273126,Manoj Tiwari,"Cyber Crimes, Crimes Against Women",14,85480,45248
+944,247906,Manoj Tiwari,Drug Trafficking,2,21850,14755
+945,261659,Manoj Tiwari,Murder,15,91127,31936
+946,229548,Sandeep Yadav,Theft and Robbery,12,41365,43282
+947,268724,Rahul Gupta,"Cyber Crimes, Crimes Against Women",11,77761,30139
+948,206362,Manoj Tiwari,Human Trafficking,7,65556.78051,21240
+949,206072,Rahul Gupta,Theft and Robbery,10,59436,10713
+950,239791,Ananya Sen,Human Trafficking,1,75234,17924
+951,251457,Sneha Roy,Drug Trafficking,5,45390,46055
+952,228149,Ananya Sen,"Cyber Crimes, Crimes Against Women",4,90128,29892
+953,209570,Ananya Sen,"Cyber Crimes, Crimes Against Women",15,22314,28308
+954,263449,Sneha Roy,"Cyber Crimes, Crimes Against Women",8,51438,47811
+955,233037,Sandeep Yadav,Drug Trafficking,3,74922,30443
+956,258529,Ananya Sen,Human Trafficking,5,43214,20427
+957,272263,Sneha Roy,Theft and Robbery,7,36386,14345
+958,273383,Sandeep Yadav,"Cyber Crimes, Crimes Against Women",12,38882,25750
+959,280209,Ananya Sen,Murder,2,73224,37319
+960,293695,Kiran Malhotra,Human Trafficking,9,64670,40500
+961,227437,Rahul Gupta,Human Trafficking,9,91724,31737
+962,283041,Sandeep Yadav,Murder,3,40391,30881
+963,280998,Kiran Malhotra,Theft and Robbery,8,82895,38168
+964,249944,Sandeep Yadav,Drug Trafficking,9,39359,32935
+965,271801,Sneha Roy,Human Trafficking,8,91078,17654
+966,224848,Sneha Roy,Human Trafficking,15,87631,11443
+967,234904,Manoj Tiwari,Murder,7,43806,41764
+968,297351,Deepak Joshi,Human Trafficking,14,70230,39548
+969,223604,Ananya Sen,"Cyber Crimes, Crimes Against Women",6,29641,20637
+970,222255,Sneha Roy,Theft and Robbery,10,21924,41845
+971,280487,Sandeep Yadav,Drug Trafficking,4,31748,15523
+972,203805,Sneha Roy,"Cyber Crimes, Crimes Against Women",11,97143,30020
+973,244228,Manoj Tiwari,Murder,11,44703,32671
+974,208808,Sandeep Yadav,Drug Trafficking,8,69782,33548
+975,270702,Ananya Sen,Murder,12,65556.78051,47468
+976,239126,Deepak Joshi,Financial Fraud,9,42521,48676
+977,273938,Manoj Tiwari,Financial Fraud,9,57530,23125
+978,220244,Ananya Sen,Drug Trafficking,9,83904,30055
+979,290774,Ananya Sen,Human Trafficking,14,71327,37829
+980,292613,Sandeep Yadav,Human Trafficking,6,23220,10413
+981,231228,Sneha Roy,Human Trafficking,2,21024,15207
+982,244353,Rahul Gupta,Theft and Robbery,11,89055,20218
+983,204605,Sandeep Yadav,Murder,14,42096,42962
+984,285344,Ananya Sen,Financial Fraud,1,60208,25555
+985,298684,Manoj Tiwari,Human Trafficking,5,48316,29694
+986,211077,Manoj Tiwari,Financial Fraud,13,73447,40860
+987,271701,Deepak Joshi,Theft and Robbery,12,65556.78051,33734
+988,278709,Ananya Sen,Murder,2,40966,29633
+989,234244,Rahul Gupta,Theft and Robbery,7,76419,27901
+990,278244,Deepak Joshi,Theft and Robbery,2,97943,43582
+991,223080,Rahul Gupta,Murder,13,23030,31905
+992,226885,Manoj Tiwari,Financial Fraud,11,73171,41131
+993,275919,Rahul Gupta,Murder,13,24563,46394
+994,299052,Sneha Roy,"Cyber Crimes, Crimes Against Women",9,52132,37940
+995,261906,Deepak Joshi,Murder,14,94575,11012
+996,265371,Deepak Joshi,Murder,9,83791,28972
+997,222210,Sandeep Yadav,Drug Trafficking,14,73049,46650
+998,219190,Sneha Roy,Theft and Robbery,3,48937,30632
+999,289521,Deepak Joshi,Human Trafficking,2,78354,13022
+1000,234484,Sandeep Yadav,Murder,11,95765,11490
