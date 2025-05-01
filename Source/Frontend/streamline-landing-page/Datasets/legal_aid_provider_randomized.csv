@@ -1,0 +1,1001 @@
+case_id,statute,offense_category,penalty,risk_of_escape,risk_of_influence,surety_bond_required,personal_bond_required,Lawyer Name,Client Name,Client ID,Case Details
+1,NDPS,Crimes Against Children,Fine,False,False,True,False,Vikram Choudhary,Sneha Roy,1001,Case details here
+2,SCST Act,Crimes Against Children,Both,False,False,True,True,Neha Singh,Ananya Sen,1002,Case details here
+3,PMLA,Crimes Against Children,Fine,False,False,False,False,Vikram Choudhary,Ananya Sen,1003,Case details here
+4,SCST Act,Crimes Against Children,Both,False,False,False,False,Rajesh Kumar,Ananya Sen,1004,Case details here
+5,SCST Act,Offences Against the State,Imprisonment,False,False,False,True,Neha Singh,Rahul Gupta,1005,Case details here
+6,CrPC,Offences Against the State,Imprisonment,False,True,True,True,Neha Singh,Kiran Malhotra,1006,Case details here
+7,PMLA,Crimes Against Foreigners,Both,False,True,True,False,Rajesh Kumar,Sandeep Yadav,1007,Case details here
+8,PMLA,Crimes Against SCs and STs,Imprisonment,False,False,False,False,Amit Sharma,Kiran Malhotra,1008,Case details here
+9,PMLA,Cyber Crime,Imprisonment,False,True,True,True,Vikram Choudhary,Kiran Malhotra,1009,Case details here
+10,SCST Act,Crimes Against Children,Imprisonment,False,True,True,False,Anil Kapoor,Deepak Joshi,1010,Case details here
+11,NDPS,Crimes Against Foreigners,Imprisonment,False,True,False,True,Amit Sharma,Sandeep Yadav,1011,Case details here
+12,PMLA,Crimes Against SCs and STs,Both,False,False,False,False,Neha Singh,Kiran Malhotra,1012,Case details here
+13,SCST Act,Cyber Crime,Fine,False,True,False,False,Neha Singh,Deepak Joshi,1013,Case details here
+14,CrPC,Economic Offence,Fine,False,True,True,True,Amit Sharma,Rahul Gupta,1014,Case details here
+15,NDPS,Crimes Against Women,Imprisonment,False,True,True,True,Neha Singh,Rahul Gupta,1015,Case details here
+16,CrPC,Offences Against the State,Fine,False,False,True,True,Amit Sharma,Manoj Tiwari,1016,Case details here
+17,NDPS,Economic Offence,Fine,True,True,True,False,Priya Verma,Ananya Sen,1017,Case details here
+18,SCST Act,Cyber Crime,Imprisonment,False,True,True,False,Rajesh Kumar,Ananya Sen,1018,Case details here
+19,IPC,Economic Offence,Imprisonment,True,False,False,False,Neha Singh,Kiran Malhotra,1019,Case details here
+20,NDPS,Crimes Against Women,Fine,False,False,True,False,Priya Verma,Sneha Roy,1020,Case details here
+21,CrPC,Crimes Against Foreigners,Both,False,True,True,True,Priya Verma,Manoj Tiwari,1021,Case details here
+22,SCST Act,Cyber Crime,Imprisonment,True,True,True,False,Anil Kapoor,Sneha Roy,1022,Case details here
+23,NDPS,Economic Offence,Both,False,False,False,False,Neha Singh,Deepak Joshi,1023,Case details here
+24,IPC,Offences Against the State,Fine,True,False,False,False,Anil Kapoor,Deepak Joshi,1024,Case details here
+25,IPC,Offences Against the State,Imprisonment,True,False,False,True,Rajesh Kumar,Kiran Malhotra,1025,Case details here
+26,PMLA,Crimes Against SCs and STs,Both,True,False,True,False,Vikram Choudhary,Sneha Roy,1026,Case details here
+27,PMLA,Economic Offence,Imprisonment,False,False,False,False,Vikram Choudhary,Manoj Tiwari,1027,Case details here
+28,CrPC,Crimes Against Children,Fine,False,False,False,True,Priya Verma,Rahul Gupta,1028,Case details here
+29,NDPS,Economic Offence,Both,False,False,False,False,Neha Singh,Sandeep Yadav,1029,Case details here
+30,NDPS,Crimes Against Foreigners,Fine,True,True,True,False,Neha Singh,Deepak Joshi,1030,Case details here
+31,PMLA,Cyber Crime,Fine,True,False,False,True,Neha Singh,Sneha Roy,1031,Case details here
+32,NDPS,Cyber Crime,Imprisonment,False,False,True,False,Amit Sharma,Manoj Tiwari,1032,Case details here
+33,NDPS,Crimes Against Foreigners,Both,False,True,True,False,Sunita Mehta,Ananya Sen,1033,Case details here
+34,IPC,Economic Offence,Fine,False,False,False,False,Vikram Choudhary,Ananya Sen,1034,Case details here
+35,PMLA,Crimes Against Foreigners,Fine,False,False,True,True,Vikram Choudhary,Kiran Malhotra,1035,Case details here
+36,SCST Act,Crimes Against Women,Both,False,True,False,False,Priya Verma,Sneha Roy,1036,Case details here
+37,PMLA,Crimes Against Foreigners,Fine,True,False,True,False,Amit Sharma,Sneha Roy,1037,Case details here
+38,SCST Act,Offences Against the State,Fine,True,True,False,True,Priya Verma,Kiran Malhotra,1038,Case details here
+39,IPC,Crimes Against Foreigners,Both,True,True,False,True,Amit Sharma,Kiran Malhotra,1039,Case details here
+40,CrPC,Cyber Crime,Both,False,True,False,False,Rajesh Kumar,Sneha Roy,1040,Case details here
+41,NDPS,Offences Against the State,Both,True,True,True,False,Priya Verma,Manoj Tiwari,1041,Case details here
+42,IPC,Cyber Crime,Both,True,False,False,False,Sunita Mehta,Ananya Sen,1042,Case details here
+43,NDPS,Crimes Against SCs and STs,Imprisonment,True,True,True,False,Anil Kapoor,Rahul Gupta,1043,Case details here
+44,CrPC,Crimes Against Children,Both,True,True,False,True,Priya Verma,Sneha Roy,1044,Case details here
+45,CrPC,Cyber Crime,Imprisonment,True,False,True,False,Vikram Choudhary,Manoj Tiwari,1045,Case details here
+46,IPC,Offences Against the State,Imprisonment,False,True,True,True,Rajesh Kumar,Sandeep Yadav,1046,Case details here
+47,CrPC,Crimes Against SCs and STs,Imprisonment,True,True,False,True,Anil Kapoor,Kiran Malhotra,1047,Case details here
+48,SCST Act,Cyber Crime,Fine,False,True,False,False,Vikram Choudhary,Manoj Tiwari,1048,Case details here
+49,CrPC,Crimes Against Women,Imprisonment,False,True,False,False,Priya Verma,Sandeep Yadav,1049,Case details here
+50,NDPS,Crimes Against Foreigners,Imprisonment,False,False,False,True,Sunita Mehta,Sandeep Yadav,1050,Case details here
+51,NDPS,Crimes Against Children,Fine,False,True,False,True,Rajesh Kumar,Sneha Roy,1051,Case details here
+52,NDPS,Cyber Crime,Fine,False,False,True,False,Vikram Choudhary,Rahul Gupta,1052,Case details here
+53,NDPS,Crimes Against SCs and STs,Fine,True,False,False,True,Anil Kapoor,Manoj Tiwari,1053,Case details here
+54,SCST Act,Crimes Against Women,Both,True,True,False,False,Rajesh Kumar,Sneha Roy,1054,Case details here
+55,PMLA,Economic Offence,Fine,False,True,True,False,Anil Kapoor,Rahul Gupta,1055,Case details here
+56,IPC,Crimes Against SCs and STs,Fine,False,True,False,True,Sunita Mehta,Sneha Roy,1056,Case details here
+57,NDPS,Crimes Against Foreigners,Imprisonment,False,True,False,True,Vikram Choudhary,Sandeep Yadav,1057,Case details here
+58,CrPC,Crimes Against SCs and STs,Fine,True,False,True,False,Rajesh Kumar,Deepak Joshi,1058,Case details here
+59,NDPS,Crimes Against Women,Both,False,False,False,True,Priya Verma,Rahul Gupta,1059,Case details here
+60,CrPC,Crimes Against SCs and STs,Fine,True,False,False,False,Anil Kapoor,Ananya Sen,1060,Case details here
+61,CrPC,Crimes Against Women,Both,False,True,False,False,Rajesh Kumar,Sneha Roy,1061,Case details here
+62,NDPS,Cyber Crime,Fine,True,False,True,False,Amit Sharma,Manoj Tiwari,1062,Case details here
+63,SCST Act,Crimes Against Women,Fine,False,True,False,True,Rajesh Kumar,Manoj Tiwari,1063,Case details here
+64,CrPC,Crimes Against Women,Fine,True,True,True,False,Neha Singh,Manoj Tiwari,1064,Case details here
+65,CrPC,Crimes Against Children,Fine,False,True,False,False,Anil Kapoor,Rahul Gupta,1065,Case details here
+66,NDPS,Crimes Against Women,Both,True,True,True,False,Anil Kapoor,Sandeep Yadav,1066,Case details here
+67,CrPC,Crimes Against Women,Both,True,True,False,False,Amit Sharma,Sneha Roy,1067,Case details here
+68,CrPC,Economic Offence,Imprisonment,True,False,True,False,Amit Sharma,Ananya Sen,1068,Case details here
+69,NDPS,Cyber Crime,Both,True,False,True,False,Anil Kapoor,Manoj Tiwari,1069,Case details here
+70,NDPS,Crimes Against Foreigners,Fine,True,True,True,False,Priya Verma,Kiran Malhotra,1070,Case details here
+71,IPC,Crimes Against Children,Imprisonment,True,False,True,False,Sunita Mehta,Ananya Sen,1071,Case details here
+72,SCST Act,Economic Offence,Imprisonment,True,True,True,False,Sunita Mehta,Sneha Roy,1072,Case details here
+73,SCST Act,Offences Against the State,Imprisonment,False,True,True,False,Neha Singh,Sandeep Yadav,1073,Case details here
+74,CrPC,Cyber Crime,Fine,False,True,False,False,Anil Kapoor,Kiran Malhotra,1074,Case details here
+75,SCST Act,Cyber Crime,Both,False,False,False,True,Vikram Choudhary,Rahul Gupta,1075,Case details here
+76,CrPC,Offences Against the State,Fine,False,True,True,False,Rajesh Kumar,Manoj Tiwari,1076,Case details here
+77,IPC,Crimes Against Foreigners,Imprisonment,False,True,True,False,Rajesh Kumar,Ananya Sen,1077,Case details here
+78,NDPS,Crimes Against Women,Fine,True,False,True,False,Priya Verma,Sneha Roy,1078,Case details here
+79,NDPS,Economic Offence,Fine,True,False,True,True,Priya Verma,Kiran Malhotra,1079,Case details here
+80,NDPS,Crimes Against SCs and STs,Both,True,False,False,False,Amit Sharma,Sneha Roy,1080,Case details here
+81,SCST Act,Crimes Against Children,Both,True,True,True,True,Anil Kapoor,Sneha Roy,1081,Case details here
+82,IPC,Crimes Against SCs and STs,Imprisonment,True,True,False,False,Vikram Choudhary,Kiran Malhotra,1082,Case details here
+83,SCST Act,Offences Against the State,Fine,False,False,False,False,Amit Sharma,Sneha Roy,1083,Case details here
+84,SCST Act,Cyber Crime,Fine,False,True,True,True,Neha Singh,Manoj Tiwari,1084,Case details here
+85,IPC,Crimes Against Foreigners,Both,False,False,True,False,Amit Sharma,Sandeep Yadav,1085,Case details here
+86,IPC,Cyber Crime,Fine,False,False,False,True,Anil Kapoor,Sneha Roy,1086,Case details here
+87,IPC,Crimes Against Children,Fine,True,True,False,True,Rajesh Kumar,Rahul Gupta,1087,Case details here
+88,IPC,Cyber Crime,Fine,True,True,True,False,Anil Kapoor,Manoj Tiwari,1088,Case details here
+89,NDPS,Cyber Crime,Both,True,False,True,False,Amit Sharma,Rahul Gupta,1089,Case details here
+90,PMLA,Crimes Against Children,Imprisonment,False,False,True,False,Sunita Mehta,Rahul Gupta,1090,Case details here
+91,PMLA,Economic Offence,Imprisonment,True,False,False,False,Anil Kapoor,Sandeep Yadav,1091,Case details here
+92,IPC,Economic Offence,Fine,False,False,False,True,Sunita Mehta,Deepak Joshi,1092,Case details here
+93,PMLA,Crimes Against Children,Imprisonment,True,True,True,True,Vikram Choudhary,Sandeep Yadav,1093,Case details here
+94,PMLA,Crimes Against Foreigners,Both,True,False,False,False,Priya Verma,Sneha Roy,1094,Case details here
+95,IPC,Offences Against the State,Both,False,False,False,True,Anil Kapoor,Sneha Roy,1095,Case details here
+96,PMLA,Cyber Crime,Imprisonment,True,False,True,True,Vikram Choudhary,Sandeep Yadav,1096,Case details here
+97,SCST Act,Crimes Against Foreigners,Imprisonment,True,True,True,False,Amit Sharma,Deepak Joshi,1097,Case details here
+98,CrPC,Cyber Crime,Fine,False,True,False,True,Rajesh Kumar,Rahul Gupta,1098,Case details here
+99,CrPC,Offences Against the State,Imprisonment,True,False,False,True,Neha Singh,Deepak Joshi,1099,Case details here
+100,IPC,Economic Offence,Fine,False,True,True,False,Neha Singh,Ananya Sen,1100,Case details here
+101,NDPS,Crimes Against Foreigners,Fine,True,True,True,True,Rajesh Kumar,Rahul Gupta,1101,Case details here
+102,IPC,Crimes Against Women,Both,True,True,True,False,Priya Verma,Sandeep Yadav,1102,Case details here
+103,NDPS,Crimes Against Women,Both,True,False,True,True,Priya Verma,Sneha Roy,1103,Case details here
+104,CrPC,Crimes Against Women,Both,True,False,True,False,Sunita Mehta,Sneha Roy,1104,Case details here
+105,IPC,Economic Offence,Both,True,True,False,True,Priya Verma,Deepak Joshi,1105,Case details here
+106,SCST Act,Economic Offence,Imprisonment,True,False,False,True,Neha Singh,Kiran Malhotra,1106,Case details here
+107,PMLA,Offences Against the State,Both,True,False,False,False,Sunita Mehta,Ananya Sen,1107,Case details here
+108,NDPS,Cyber Crime,Imprisonment,True,True,False,False,Priya Verma,Ananya Sen,1108,Case details here
+109,PMLA,Offences Against the State,Both,False,True,True,False,Neha Singh,Sandeep Yadav,1109,Case details here
+110,PMLA,Offences Against the State,Imprisonment,False,False,True,False,Sunita Mehta,Sneha Roy,1110,Case details here
+111,IPC,Economic Offence,Fine,True,True,True,True,Rajesh Kumar,Kiran Malhotra,1111,Case details here
+112,PMLA,Crimes Against Women,Imprisonment,True,False,False,True,Vikram Choudhary,Rahul Gupta,1112,Case details here
+113,SCST Act,Crimes Against SCs and STs,Imprisonment,False,False,False,True,Priya Verma,Manoj Tiwari,1113,Case details here
+114,PMLA,Cyber Crime,Both,True,True,False,False,Priya Verma,Deepak Joshi,1114,Case details here
+115,IPC,Economic Offence,Imprisonment,True,False,True,True,Sunita Mehta,Sneha Roy,1115,Case details here
+116,SCST Act,Crimes Against Women,Fine,False,False,False,True,Priya Verma,Kiran Malhotra,1116,Case details here
+117,CrPC,Crimes Against Foreigners,Fine,True,True,True,False,Vikram Choudhary,Ananya Sen,1117,Case details here
+118,PMLA,Crimes Against SCs and STs,Both,True,True,True,False,Amit Sharma,Sneha Roy,1118,Case details here
+119,IPC,Crimes Against SCs and STs,Fine,False,True,True,True,Vikram Choudhary,Kiran Malhotra,1119,Case details here
+120,CrPC,Economic Offence,Imprisonment,True,False,True,False,Priya Verma,Sneha Roy,1120,Case details here
+121,CrPC,Crimes Against Children,Fine,True,True,True,True,Neha Singh,Manoj Tiwari,1121,Case details here
+122,NDPS,Cyber Crime,Both,False,True,True,True,Rajesh Kumar,Sandeep Yadav,1122,Case details here
+123,SCST Act,Crimes Against SCs and STs,Imprisonment,True,True,False,False,Neha Singh,Rahul Gupta,1123,Case details here
+124,PMLA,Economic Offence,Both,False,True,True,True,Anil Kapoor,Sneha Roy,1124,Case details here
+125,IPC,Economic Offence,Imprisonment,True,False,True,False,Vikram Choudhary,Deepak Joshi,1125,Case details here
+126,NDPS,Crimes Against Women,Fine,True,False,False,False,Sunita Mehta,Kiran Malhotra,1126,Case details here
+127,SCST Act,Crimes Against Foreigners,Both,False,True,True,True,Vikram Choudhary,Deepak Joshi,1127,Case details here
+128,NDPS,Crimes Against Children,Both,False,False,False,True,Vikram Choudhary,Deepak Joshi,1128,Case details here
+129,SCST Act,Cyber Crime,Imprisonment,True,True,False,True,Rajesh Kumar,Sneha Roy,1129,Case details here
+130,SCST Act,Offences Against the State,Both,False,True,False,False,Vikram Choudhary,Sneha Roy,1130,Case details here
+131,PMLA,Crimes Against Foreigners,Imprisonment,False,False,True,True,Vikram Choudhary,Ananya Sen,1131,Case details here
+132,SCST Act,Crimes Against Foreigners,Imprisonment,True,False,True,False,Neha Singh,Kiran Malhotra,1132,Case details here
+133,NDPS,Crimes Against Women,Imprisonment,True,True,False,False,Neha Singh,Deepak Joshi,1133,Case details here
+134,SCST Act,Crimes Against SCs and STs,Imprisonment,True,True,True,True,Vikram Choudhary,Sneha Roy,1134,Case details here
+135,PMLA,Crimes Against SCs and STs,Fine,False,False,True,False,Neha Singh,Rahul Gupta,1135,Case details here
+136,PMLA,Crimes Against Women,Imprisonment,False,True,False,True,Neha Singh,Sneha Roy,1136,Case details here
+137,NDPS,Economic Offence,Both,False,False,False,True,Rajesh Kumar,Deepak Joshi,1137,Case details here
+138,CrPC,Crimes Against SCs and STs,Fine,False,True,True,True,Rajesh Kumar,Kiran Malhotra,1138,Case details here
+139,CrPC,Crimes Against Children,Both,True,True,False,True,Amit Sharma,Manoj Tiwari,1139,Case details here
+140,SCST Act,Cyber Crime,Fine,False,False,False,True,Vikram Choudhary,Kiran Malhotra,1140,Case details here
+141,IPC,Crimes Against Foreigners,Imprisonment,True,False,False,True,Rajesh Kumar,Sandeep Yadav,1141,Case details here
+142,SCST Act,Crimes Against Foreigners,Fine,False,False,True,True,Neha Singh,Kiran Malhotra,1142,Case details here
+143,NDPS,Crimes Against Children,Fine,True,False,True,False,Amit Sharma,Sandeep Yadav,1143,Case details here
+144,NDPS,Crimes Against SCs and STs,Both,True,False,True,True,Rajesh Kumar,Sneha Roy,1144,Case details here
+145,NDPS,Crimes Against Foreigners,Both,True,False,False,False,Priya Verma,Sandeep Yadav,1145,Case details here
+146,NDPS,Offences Against the State,Imprisonment,False,False,True,False,Rajesh Kumar,Ananya Sen,1146,Case details here
+147,NDPS,Cyber Crime,Fine,True,True,False,False,Anil Kapoor,Rahul Gupta,1147,Case details here
+148,PMLA,Cyber Crime,Fine,True,True,True,True,Sunita Mehta,Manoj Tiwari,1148,Case details here
+149,CrPC,Crimes Against Foreigners,Fine,False,True,True,False,Rajesh Kumar,Sneha Roy,1149,Case details here
+150,NDPS,Crimes Against Women,Imprisonment,True,False,False,False,Vikram Choudhary,Sandeep Yadav,1150,Case details here
+151,IPC,Crimes Against Foreigners,Imprisonment,False,False,True,True,Anil Kapoor,Sneha Roy,1151,Case details here
+152,IPC,Crimes Against Women,Imprisonment,False,False,False,True,Rajesh Kumar,Ananya Sen,1152,Case details here
+153,IPC,Crimes Against Foreigners,Imprisonment,True,True,True,False,Anil Kapoor,Deepak Joshi,1153,Case details here
+154,IPC,Offences Against the State,Imprisonment,True,False,True,True,Priya Verma,Deepak Joshi,1154,Case details here
+155,PMLA,Economic Offence,Both,False,False,False,True,Neha Singh,Rahul Gupta,1155,Case details here
+156,IPC,Cyber Crime,Fine,True,True,False,True,Amit Sharma,Deepak Joshi,1156,Case details here
+157,NDPS,Crimes Against Foreigners,Fine,False,False,False,True,Anil Kapoor,Kiran Malhotra,1157,Case details here
+158,SCST Act,Offences Against the State,Fine,False,True,True,False,Vikram Choudhary,Manoj Tiwari,1158,Case details here
+159,IPC,Crimes Against Women,Fine,False,True,True,True,Neha Singh,Manoj Tiwari,1159,Case details here
+160,PMLA,Crimes Against Women,Fine,True,False,True,True,Anil Kapoor,Rahul Gupta,1160,Case details here
+161,PMLA,Cyber Crime,Fine,False,False,False,True,Neha Singh,Manoj Tiwari,1161,Case details here
+162,IPC,Crimes Against Children,Fine,True,False,False,False,Rajesh Kumar,Deepak Joshi,1162,Case details here
+163,SCST Act,Crimes Against Foreigners,Fine,True,True,False,False,Rajesh Kumar,Sneha Roy,1163,Case details here
+164,IPC,Crimes Against SCs and STs,Both,True,True,True,True,Neha Singh,Rahul Gupta,1164,Case details here
+165,PMLA,Crimes Against Women,Fine,True,True,True,True,Sunita Mehta,Deepak Joshi,1165,Case details here
+166,CrPC,Economic Offence,Both,False,False,False,False,Anil Kapoor,Manoj Tiwari,1166,Case details here
+167,NDPS,Economic Offence,Imprisonment,True,False,True,True,Sunita Mehta,Rahul Gupta,1167,Case details here
+168,PMLA,Crimes Against Women,Fine,False,False,False,True,Sunita Mehta,Kiran Malhotra,1168,Case details here
+169,IPC,Crimes Against Children,Imprisonment,False,False,True,False,Rajesh Kumar,Deepak Joshi,1169,Case details here
+170,NDPS,Crimes Against Children,Imprisonment,True,True,True,True,Neha Singh,Kiran Malhotra,1170,Case details here
+171,IPC,Offences Against the State,Imprisonment,False,True,False,True,Amit Sharma,Rahul Gupta,1171,Case details here
+172,IPC,Economic Offence,Both,False,True,True,False,Amit Sharma,Kiran Malhotra,1172,Case details here
+173,CrPC,Offences Against the State,Imprisonment,True,True,True,False,Anil Kapoor,Sandeep Yadav,1173,Case details here
+174,NDPS,Economic Offence,Imprisonment,False,False,False,True,Anil Kapoor,Kiran Malhotra,1174,Case details here
+175,NDPS,Crimes Against Foreigners,Imprisonment,False,False,False,False,Anil Kapoor,Sneha Roy,1175,Case details here
+176,CrPC,Crimes Against Foreigners,Fine,False,False,True,True,Priya Verma,Manoj Tiwari,1176,Case details here
+177,PMLA,Crimes Against SCs and STs,Fine,False,True,False,True,Anil Kapoor,Rahul Gupta,1177,Case details here
+178,IPC,Crimes Against Foreigners,Both,True,True,True,True,Neha Singh,Rahul Gupta,1178,Case details here
+179,SCST Act,Crimes Against SCs and STs,Both,False,False,False,False,Vikram Choudhary,Rahul Gupta,1179,Case details here
+180,IPC,Crimes Against Foreigners,Fine,False,False,True,False,Sunita Mehta,Sandeep Yadav,1180,Case details here
+181,IPC,Cyber Crime,Both,False,True,True,True,Amit Sharma,Ananya Sen,1181,Case details here
+182,PMLA,Crimes Against Foreigners,Fine,False,False,False,True,Priya Verma,Manoj Tiwari,1182,Case details here
+183,IPC,Offences Against the State,Imprisonment,True,True,True,False,Neha Singh,Ananya Sen,1183,Case details here
+184,CrPC,Crimes Against Women,Imprisonment,False,True,True,False,Priya Verma,Ananya Sen,1184,Case details here
+185,CrPC,Offences Against the State,Both,True,True,False,False,Priya Verma,Deepak Joshi,1185,Case details here
+186,NDPS,Crimes Against Women,Fine,False,False,False,True,Neha Singh,Sneha Roy,1186,Case details here
+187,SCST Act,Crimes Against Children,Fine,True,False,True,False,Amit Sharma,Rahul Gupta,1187,Case details here
+188,IPC,Offences Against the State,Both,True,True,False,False,Sunita Mehta,Sneha Roy,1188,Case details here
+189,IPC,Crimes Against Children,Fine,True,False,False,True,Priya Verma,Kiran Malhotra,1189,Case details here
+190,PMLA,Crimes Against SCs and STs,Imprisonment,True,True,True,True,Vikram Choudhary,Deepak Joshi,1190,Case details here
+191,CrPC,Crimes Against SCs and STs,Both,True,True,True,True,Sunita Mehta,Sneha Roy,1191,Case details here
+192,SCST Act,Cyber Crime,Both,False,True,False,False,Amit Sharma,Manoj Tiwari,1192,Case details here
+193,NDPS,Crimes Against Foreigners,Fine,False,True,False,True,Sunita Mehta,Kiran Malhotra,1193,Case details here
+194,CrPC,Offences Against the State,Both,False,False,False,True,Vikram Choudhary,Sneha Roy,1194,Case details here
+195,NDPS,Crimes Against Children,Fine,True,True,True,True,Neha Singh,Rahul Gupta,1195,Case details here
+196,PMLA,Crimes Against Women,Fine,False,True,True,True,Amit Sharma,Kiran Malhotra,1196,Case details here
+197,PMLA,Crimes Against SCs and STs,Fine,True,False,True,False,Amit Sharma,Sandeep Yadav,1197,Case details here
+198,IPC,Crimes Against Foreigners,Fine,True,True,True,True,Amit Sharma,Deepak Joshi,1198,Case details here
+199,SCST Act,Crimes Against SCs and STs,Fine,False,True,True,False,Rajesh Kumar,Sneha Roy,1199,Case details here
+200,NDPS,Crimes Against Women,Both,False,False,True,False,Vikram Choudhary,Manoj Tiwari,1200,Case details here
+201,CrPC,Crimes Against Foreigners,Imprisonment,True,False,True,False,Neha Singh,Sandeep Yadav,1201,Case details here
+202,PMLA,Crimes Against Foreigners,Imprisonment,True,False,False,True,Priya Verma,Ananya Sen,1202,Case details here
+203,IPC,Crimes Against Children,Both,False,True,False,False,Sunita Mehta,Kiran Malhotra,1203,Case details here
+204,IPC,Crimes Against Children,Both,False,False,True,True,Amit Sharma,Rahul Gupta,1204,Case details here
+205,NDPS,Offences Against the State,Imprisonment,False,False,True,True,Neha Singh,Ananya Sen,1205,Case details here
+206,PMLA,Offences Against the State,Imprisonment,False,True,True,True,Vikram Choudhary,Rahul Gupta,1206,Case details here
+207,SCST Act,Economic Offence,Imprisonment,True,True,False,False,Priya Verma,Sneha Roy,1207,Case details here
+208,PMLA,Economic Offence,Imprisonment,False,True,True,True,Anil Kapoor,Ananya Sen,1208,Case details here
+209,NDPS,Cyber Crime,Imprisonment,False,True,False,True,Rajesh Kumar,Rahul Gupta,1209,Case details here
+210,NDPS,Crimes Against SCs and STs,Fine,False,True,False,True,Anil Kapoor,Manoj Tiwari,1210,Case details here
+211,PMLA,Offences Against the State,Both,True,False,False,False,Amit Sharma,Sandeep Yadav,1211,Case details here
+212,NDPS,Crimes Against Children,Fine,True,False,False,False,Anil Kapoor,Ananya Sen,1212,Case details here
+213,PMLA,Crimes Against Women,Imprisonment,True,False,False,False,Priya Verma,Sandeep Yadav,1213,Case details here
+214,CrPC,Crimes Against Children,Imprisonment,True,True,True,True,Neha Singh,Rahul Gupta,1214,Case details here
+215,PMLA,Crimes Against SCs and STs,Imprisonment,False,True,True,False,Vikram Choudhary,Ananya Sen,1215,Case details here
+216,PMLA,Economic Offence,Fine,True,True,False,True,Amit Sharma,Rahul Gupta,1216,Case details here
+217,NDPS,Crimes Against Children,Fine,False,False,True,True,Anil Kapoor,Rahul Gupta,1217,Case details here
+218,NDPS,Cyber Crime,Imprisonment,False,False,False,False,Sunita Mehta,Kiran Malhotra,1218,Case details here
+219,IPC,Crimes Against SCs and STs,Fine,False,True,False,True,Neha Singh,Ananya Sen,1219,Case details here
+220,IPC,Economic Offence,Fine,False,False,True,False,Amit Sharma,Deepak Joshi,1220,Case details here
+221,CrPC,Crimes Against Women,Imprisonment,True,True,True,True,Rajesh Kumar,Deepak Joshi,1221,Case details here
+222,IPC,Economic Offence,Fine,True,False,True,False,Neha Singh,Deepak Joshi,1222,Case details here
+223,PMLA,Crimes Against Foreigners,Both,True,False,True,True,Amit Sharma,Kiran Malhotra,1223,Case details here
+224,NDPS,Cyber Crime,Both,False,False,True,True,Vikram Choudhary,Rahul Gupta,1224,Case details here
+225,IPC,Crimes Against SCs and STs,Both,False,True,False,True,Priya Verma,Sandeep Yadav,1225,Case details here
+226,IPC,Crimes Against Women,Both,False,False,True,True,Priya Verma,Rahul Gupta,1226,Case details here
+227,CrPC,Cyber Crime,Imprisonment,False,False,True,True,Amit Sharma,Rahul Gupta,1227,Case details here
+228,CrPC,Economic Offence,Imprisonment,False,True,True,False,Sunita Mehta,Deepak Joshi,1228,Case details here
+229,PMLA,Cyber Crime,Imprisonment,True,False,False,True,Rajesh Kumar,Manoj Tiwari,1229,Case details here
+230,NDPS,Crimes Against SCs and STs,Both,False,True,True,False,Vikram Choudhary,Sandeep Yadav,1230,Case details here
+231,CrPC,Offences Against the State,Both,True,True,False,False,Priya Verma,Manoj Tiwari,1231,Case details here
+232,IPC,Cyber Crime,Fine,False,True,True,False,Vikram Choudhary,Rahul Gupta,1232,Case details here
+233,NDPS,Crimes Against Foreigners,Fine,False,True,True,True,Priya Verma,Rahul Gupta,1233,Case details here
+234,NDPS,Cyber Crime,Both,True,True,False,True,Amit Sharma,Rahul Gupta,1234,Case details here
+235,IPC,Economic Offence,Both,True,False,True,True,Sunita Mehta,Manoj Tiwari,1235,Case details here
+236,CrPC,Economic Offence,Both,False,True,True,False,Priya Verma,Rahul Gupta,1236,Case details here
+237,IPC,Crimes Against Women,Both,False,True,False,True,Sunita Mehta,Sandeep Yadav,1237,Case details here
+238,NDPS,Economic Offence,Fine,False,True,True,True,Rajesh Kumar,Kiran Malhotra,1238,Case details here
+239,SCST Act,Crimes Against Children,Both,False,True,False,False,Neha Singh,Sandeep Yadav,1239,Case details here
+240,SCST Act,Crimes Against SCs and STs,Fine,True,False,False,False,Amit Sharma,Sneha Roy,1240,Case details here
+241,PMLA,Crimes Against SCs and STs,Both,False,True,False,False,Vikram Choudhary,Ananya Sen,1241,Case details here
+242,IPC,Offences Against the State,Both,True,False,False,False,Vikram Choudhary,Deepak Joshi,1242,Case details here
+243,IPC,Offences Against the State,Both,False,True,False,False,Vikram Choudhary,Deepak Joshi,1243,Case details here
+244,PMLA,Crimes Against SCs and STs,Fine,True,False,True,False,Neha Singh,Manoj Tiwari,1244,Case details here
+245,PMLA,Crimes Against Foreigners,Fine,True,True,True,True,Amit Sharma,Sneha Roy,1245,Case details here
+246,PMLA,Offences Against the State,Imprisonment,False,True,True,False,Vikram Choudhary,Deepak Joshi,1246,Case details here
+247,NDPS,Crimes Against Women,Both,True,False,False,True,Anil Kapoor,Rahul Gupta,1247,Case details here
+248,IPC,Economic Offence,Imprisonment,False,True,False,True,Amit Sharma,Deepak Joshi,1248,Case details here
+249,NDPS,Crimes Against SCs and STs,Imprisonment,True,False,False,True,Amit Sharma,Sandeep Yadav,1249,Case details here
+250,PMLA,Offences Against the State,Fine,False,True,False,False,Amit Sharma,Kiran Malhotra,1250,Case details here
+251,IPC,Crimes Against SCs and STs,Fine,True,False,True,True,Sunita Mehta,Ananya Sen,1251,Case details here
+252,NDPS,Crimes Against Children,Imprisonment,False,True,True,False,Amit Sharma,Ananya Sen,1252,Case details here
+253,NDPS,Cyber Crime,Both,False,True,False,False,Anil Kapoor,Manoj Tiwari,1253,Case details here
+254,PMLA,Economic Offence,Fine,True,False,False,True,Rajesh Kumar,Rahul Gupta,1254,Case details here
+255,IPC,Crimes Against SCs and STs,Both,True,True,True,False,Amit Sharma,Ananya Sen,1255,Case details here
+256,PMLA,Cyber Crime,Both,True,True,False,True,Vikram Choudhary,Deepak Joshi,1256,Case details here
+257,IPC,Offences Against the State,Imprisonment,True,True,False,True,Priya Verma,Kiran Malhotra,1257,Case details here
+258,SCST Act,Cyber Crime,Imprisonment,False,True,False,False,Priya Verma,Sandeep Yadav,1258,Case details here
+259,CrPC,Economic Offence,Imprisonment,True,True,True,True,Sunita Mehta,Rahul Gupta,1259,Case details here
+260,CrPC,Crimes Against SCs and STs,Imprisonment,False,True,True,True,Priya Verma,Rahul Gupta,1260,Case details here
+261,CrPC,Crimes Against Children,Fine,True,False,False,True,Amit Sharma,Manoj Tiwari,1261,Case details here
+262,PMLA,Crimes Against Foreigners,Fine,False,False,True,False,Anil Kapoor,Manoj Tiwari,1262,Case details here
+263,SCST Act,Offences Against the State,Imprisonment,False,False,False,True,Amit Sharma,Kiran Malhotra,1263,Case details here
+264,IPC,Crimes Against SCs and STs,Fine,False,True,False,False,Rajesh Kumar,Sandeep Yadav,1264,Case details here
+265,NDPS,Economic Offence,Imprisonment,False,False,True,False,Rajesh Kumar,Sandeep Yadav,1265,Case details here
+266,IPC,Offences Against the State,Both,True,True,False,True,Neha Singh,Ananya Sen,1266,Case details here
+267,NDPS,Crimes Against Women,Both,True,True,False,True,Priya Verma,Ananya Sen,1267,Case details here
+268,IPC,Cyber Crime,Both,False,True,True,False,Neha Singh,Sneha Roy,1268,Case details here
+269,SCST Act,Crimes Against Foreigners,Imprisonment,True,True,False,False,Vikram Choudhary,Kiran Malhotra,1269,Case details here
+270,NDPS,Economic Offence,Both,True,False,False,True,Priya Verma,Sneha Roy,1270,Case details here
+271,PMLA,Crimes Against Women,Fine,False,True,False,True,Neha Singh,Manoj Tiwari,1271,Case details here
+272,IPC,Crimes Against SCs and STs,Both,True,False,True,False,Sunita Mehta,Rahul Gupta,1272,Case details here
+273,IPC,Crimes Against Children,Both,True,True,False,False,Neha Singh,Manoj Tiwari,1273,Case details here
+274,NDPS,Offences Against the State,Both,True,False,True,False,Vikram Choudhary,Rahul Gupta,1274,Case details here
+275,PMLA,Cyber Crime,Fine,False,False,False,False,Vikram Choudhary,Kiran Malhotra,1275,Case details here
+276,PMLA,Offences Against the State,Imprisonment,True,False,False,False,Priya Verma,Deepak Joshi,1276,Case details here
+277,SCST Act,Crimes Against Foreigners,Fine,False,False,False,True,Sunita Mehta,Rahul Gupta,1277,Case details here
+278,PMLA,Crimes Against SCs and STs,Imprisonment,True,False,False,False,Rajesh Kumar,Kiran Malhotra,1278,Case details here
+279,PMLA,Offences Against the State,Imprisonment,True,False,True,False,Rajesh Kumar,Kiran Malhotra,1279,Case details here
+280,PMLA,Cyber Crime,Both,True,True,True,True,Priya Verma,Ananya Sen,1280,Case details here
+281,CrPC,Crimes Against SCs and STs,Imprisonment,False,False,False,True,Vikram Choudhary,Rahul Gupta,1281,Case details here
+282,SCST Act,Offences Against the State,Fine,False,True,False,False,Anil Kapoor,Ananya Sen,1282,Case details here
+283,IPC,Crimes Against Children,Fine,True,False,False,False,Neha Singh,Sandeep Yadav,1283,Case details here
+284,NDPS,Economic Offence,Imprisonment,False,True,False,True,Rajesh Kumar,Kiran Malhotra,1284,Case details here
+285,IPC,Crimes Against SCs and STs,Both,True,False,False,False,Neha Singh,Deepak Joshi,1285,Case details here
+286,SCST Act,Economic Offence,Both,False,False,False,False,Sunita Mehta,Sneha Roy,1286,Case details here
+287,NDPS,Crimes Against SCs and STs,Fine,False,True,False,True,Vikram Choudhary,Sneha Roy,1287,Case details here
+288,SCST Act,Crimes Against Children,Both,True,False,False,False,Anil Kapoor,Deepak Joshi,1288,Case details here
+289,PMLA,Economic Offence,Imprisonment,True,False,True,True,Neha Singh,Deepak Joshi,1289,Case details here
+290,NDPS,Crimes Against Women,Imprisonment,True,False,True,True,Vikram Choudhary,Manoj Tiwari,1290,Case details here
+291,PMLA,Cyber Crime,Fine,True,True,True,True,Anil Kapoor,Sandeep Yadav,1291,Case details here
+292,IPC,Crimes Against Women,Imprisonment,False,False,False,True,Vikram Choudhary,Kiran Malhotra,1292,Case details here
+293,IPC,Offences Against the State,Fine,False,True,False,False,Neha Singh,Rahul Gupta,1293,Case details here
+294,NDPS,Crimes Against Children,Imprisonment,False,False,False,True,Neha Singh,Kiran Malhotra,1294,Case details here
+295,NDPS,Crimes Against Women,Fine,True,False,True,False,Neha Singh,Sneha Roy,1295,Case details here
+296,SCST Act,Crimes Against SCs and STs,Both,True,True,False,False,Vikram Choudhary,Rahul Gupta,1296,Case details here
+297,SCST Act,Offences Against the State,Imprisonment,False,False,True,False,Priya Verma,Sneha Roy,1297,Case details here
+298,PMLA,Offences Against the State,Imprisonment,True,False,False,False,Sunita Mehta,Manoj Tiwari,1298,Case details here
+299,NDPS,Crimes Against Women,Fine,False,True,True,False,Anil Kapoor,Sandeep Yadav,1299,Case details here
+300,IPC,Crimes Against Women,Fine,False,False,True,True,Neha Singh,Ananya Sen,1300,Case details here
+301,SCST Act,Crimes Against Children,Imprisonment,False,True,True,True,Amit Sharma,Sneha Roy,1301,Case details here
+302,SCST Act,Cyber Crime,Fine,False,True,False,True,Neha Singh,Rahul Gupta,1302,Case details here
+303,IPC,Crimes Against Women,Imprisonment,False,True,True,True,Neha Singh,Kiran Malhotra,1303,Case details here
+304,SCST Act,Crimes Against Foreigners,Both,True,False,False,False,Amit Sharma,Rahul Gupta,1304,Case details here
+305,PMLA,Crimes Against Women,Fine,True,True,False,True,Anil Kapoor,Ananya Sen,1305,Case details here
+306,NDPS,Economic Offence,Imprisonment,True,True,False,False,Rajesh Kumar,Kiran Malhotra,1306,Case details here
+307,IPC,Crimes Against SCs and STs,Both,False,False,False,False,Anil Kapoor,Kiran Malhotra,1307,Case details here
+308,NDPS,Crimes Against Foreigners,Both,False,True,False,True,Vikram Choudhary,Sandeep Yadav,1308,Case details here
+309,SCST Act,Crimes Against Foreigners,Imprisonment,False,False,True,True,Rajesh Kumar,Ananya Sen,1309,Case details here
+310,SCST Act,Economic Offence,Fine,False,False,False,True,Priya Verma,Sandeep Yadav,1310,Case details here
+311,IPC,Economic Offence,Imprisonment,True,False,False,True,Vikram Choudhary,Manoj Tiwari,1311,Case details here
+312,PMLA,Offences Against the State,Both,True,False,False,False,Priya Verma,Sandeep Yadav,1312,Case details here
+313,CrPC,Cyber Crime,Imprisonment,False,True,False,False,Priya Verma,Rahul Gupta,1313,Case details here
+314,IPC,Crimes Against SCs and STs,Fine,False,True,False,True,Amit Sharma,Manoj Tiwari,1314,Case details here
+315,CrPC,Crimes Against Children,Both,False,True,True,False,Priya Verma,Ananya Sen,1315,Case details here
+316,CrPC,Crimes Against Foreigners,Imprisonment,True,True,True,False,Sunita Mehta,Deepak Joshi,1316,Case details here
+317,PMLA,Crimes Against Children,Fine,True,True,False,False,Anil Kapoor,Rahul Gupta,1317,Case details here
+318,CrPC,Crimes Against Women,Both,True,False,True,True,Neha Singh,Deepak Joshi,1318,Case details here
+319,CrPC,Crimes Against Women,Fine,False,True,True,False,Sunita Mehta,Rahul Gupta,1319,Case details here
+320,PMLA,Crimes Against Children,Both,False,True,False,True,Priya Verma,Ananya Sen,1320,Case details here
+321,CrPC,Crimes Against Women,Imprisonment,True,True,True,True,Priya Verma,Deepak Joshi,1321,Case details here
+322,CrPC,Cyber Crime,Fine,False,False,False,False,Anil Kapoor,Sandeep Yadav,1322,Case details here
+323,CrPC,Economic Offence,Both,True,False,True,False,Sunita Mehta,Ananya Sen,1323,Case details here
+324,IPC,Crimes Against Women,Fine,False,True,True,True,Priya Verma,Deepak Joshi,1324,Case details here
+325,IPC,Offences Against the State,Fine,True,False,True,False,Amit Sharma,Ananya Sen,1325,Case details here
+326,IPC,Crimes Against Women,Imprisonment,False,True,False,False,Neha Singh,Manoj Tiwari,1326,Case details here
+327,PMLA,Crimes Against SCs and STs,Fine,True,True,True,True,Vikram Choudhary,Kiran Malhotra,1327,Case details here
+328,SCST Act,Cyber Crime,Both,True,False,True,True,Neha Singh,Kiran Malhotra,1328,Case details here
+329,CrPC,Crimes Against SCs and STs,Both,True,False,False,True,Neha Singh,Manoj Tiwari,1329,Case details here
+330,CrPC,Crimes Against SCs and STs,Both,True,True,False,True,Amit Sharma,Sandeep Yadav,1330,Case details here
+331,PMLA,Offences Against the State,Both,True,True,True,False,Priya Verma,Rahul Gupta,1331,Case details here
+332,CrPC,Cyber Crime,Imprisonment,True,False,False,False,Anil Kapoor,Deepak Joshi,1332,Case details here
+333,IPC,Cyber Crime,Fine,False,True,True,True,Sunita Mehta,Manoj Tiwari,1333,Case details here
+334,SCST Act,Cyber Crime,Imprisonment,False,False,True,True,Anil Kapoor,Deepak Joshi,1334,Case details here
+335,NDPS,Cyber Crime,Fine,False,True,False,True,Vikram Choudhary,Kiran Malhotra,1335,Case details here
+336,CrPC,Cyber Crime,Fine,True,False,False,False,Rajesh Kumar,Deepak Joshi,1336,Case details here
+337,IPC,Offences Against the State,Fine,True,True,False,True,Anil Kapoor,Deepak Joshi,1337,Case details here
+338,NDPS,Crimes Against Women,Imprisonment,False,True,True,False,Anil Kapoor,Sandeep Yadav,1338,Case details here
+339,SCST Act,Crimes Against SCs and STs,Fine,True,False,False,True,Vikram Choudhary,Ananya Sen,1339,Case details here
+340,NDPS,Cyber Crime,Imprisonment,True,True,True,True,Anil Kapoor,Ananya Sen,1340,Case details here
+341,IPC,Crimes Against Foreigners,Both,True,True,False,True,Amit Sharma,Sandeep Yadav,1341,Case details here
+342,NDPS,Crimes Against Women,Both,True,False,True,False,Priya Verma,Ananya Sen,1342,Case details here
+343,PMLA,Crimes Against Women,Fine,True,True,False,False,Rajesh Kumar,Manoj Tiwari,1343,Case details here
+344,NDPS,Crimes Against SCs and STs,Imprisonment,False,True,True,False,Neha Singh,Sandeep Yadav,1344,Case details here
+345,CrPC,Offences Against the State,Both,False,True,False,True,Neha Singh,Sneha Roy,1345,Case details here
+346,CrPC,Crimes Against Children,Imprisonment,False,False,True,False,Amit Sharma,Rahul Gupta,1346,Case details here
+347,PMLA,Crimes Against Children,Imprisonment,False,False,False,False,Anil Kapoor,Deepak Joshi,1347,Case details here
+348,IPC,Crimes Against Women,Fine,False,False,False,True,Sunita Mehta,Rahul Gupta,1348,Case details here
+349,CrPC,Economic Offence,Both,True,True,True,True,Rajesh Kumar,Rahul Gupta,1349,Case details here
+350,SCST Act,Economic Offence,Fine,True,True,False,False,Vikram Choudhary,Ananya Sen,1350,Case details here
+351,CrPC,Crimes Against SCs and STs,Fine,True,True,True,False,Vikram Choudhary,Deepak Joshi,1351,Case details here
+352,CrPC,Crimes Against Children,Both,True,True,True,False,Neha Singh,Deepak Joshi,1352,Case details here
+353,IPC,Crimes Against Women,Both,False,False,False,False,Amit Sharma,Kiran Malhotra,1353,Case details here
+354,NDPS,Offences Against the State,Imprisonment,False,True,True,True,Vikram Choudhary,Sneha Roy,1354,Case details here
+355,CrPC,Crimes Against Children,Both,False,True,False,True,Priya Verma,Sneha Roy,1355,Case details here
+356,PMLA,Crimes Against Women,Imprisonment,True,True,False,True,Rajesh Kumar,Rahul Gupta,1356,Case details here
+357,NDPS,Crimes Against Women,Imprisonment,False,False,True,False,Vikram Choudhary,Sandeep Yadav,1357,Case details here
+358,SCST Act,Cyber Crime,Imprisonment,True,True,False,False,Vikram Choudhary,Rahul Gupta,1358,Case details here
+359,IPC,Offences Against the State,Both,False,True,True,True,Vikram Choudhary,Manoj Tiwari,1359,Case details here
+360,SCST Act,Cyber Crime,Fine,False,True,True,True,Amit Sharma,Manoj Tiwari,1360,Case details here
+361,NDPS,Crimes Against SCs and STs,Imprisonment,True,True,False,False,Amit Sharma,Rahul Gupta,1361,Case details here
+362,NDPS,Cyber Crime,Fine,True,True,False,False,Neha Singh,Kiran Malhotra,1362,Case details here
+363,NDPS,Crimes Against Foreigners,Fine,False,False,True,True,Priya Verma,Deepak Joshi,1363,Case details here
+364,SCST Act,Cyber Crime,Both,False,True,True,True,Anil Kapoor,Ananya Sen,1364,Case details here
+365,NDPS,Crimes Against Foreigners,Fine,True,True,False,True,Amit Sharma,Kiran Malhotra,1365,Case details here
+366,SCST Act,Crimes Against Children,Fine,False,True,False,False,Sunita Mehta,Sandeep Yadav,1366,Case details here
+367,NDPS,Economic Offence,Both,False,True,False,False,Sunita Mehta,Manoj Tiwari,1367,Case details here
+368,PMLA,Crimes Against Women,Imprisonment,True,True,False,False,Rajesh Kumar,Rahul Gupta,1368,Case details here
+369,NDPS,Crimes Against Foreigners,Fine,False,True,True,False,Rajesh Kumar,Kiran Malhotra,1369,Case details here
+370,SCST Act,Offences Against the State,Both,True,True,False,False,Priya Verma,Manoj Tiwari,1370,Case details here
+371,CrPC,Cyber Crime,Fine,False,True,True,False,Rajesh Kumar,Sandeep Yadav,1371,Case details here
+372,NDPS,Crimes Against Foreigners,Fine,True,True,True,True,Rajesh Kumar,Kiran Malhotra,1372,Case details here
+373,CrPC,Offences Against the State,Imprisonment,False,True,False,True,Neha Singh,Manoj Tiwari,1373,Case details here
+374,PMLA,Economic Offence,Fine,True,False,True,False,Anil Kapoor,Ananya Sen,1374,Case details here
+375,IPC,Economic Offence,Both,False,False,False,True,Priya Verma,Kiran Malhotra,1375,Case details here
+376,PMLA,Cyber Crime,Fine,True,False,True,False,Priya Verma,Deepak Joshi,1376,Case details here
+377,NDPS,Crimes Against SCs and STs,Imprisonment,False,False,False,True,Sunita Mehta,Manoj Tiwari,1377,Case details here
+378,CrPC,Cyber Crime,Imprisonment,False,True,True,False,Priya Verma,Rahul Gupta,1378,Case details here
+379,CrPC,Crimes Against Children,Both,False,False,True,True,Anil Kapoor,Ananya Sen,1379,Case details here
+380,SCST Act,Crimes Against Foreigners,Imprisonment,False,False,False,True,Rajesh Kumar,Sneha Roy,1380,Case details here
+381,CrPC,Crimes Against Women,Fine,False,True,False,False,Amit Sharma,Sandeep Yadav,1381,Case details here
+382,SCST Act,Crimes Against SCs and STs,Imprisonment,False,False,True,False,Anil Kapoor,Ananya Sen,1382,Case details here
+383,IPC,Cyber Crime,Both,False,False,True,True,Sunita Mehta,Manoj Tiwari,1383,Case details here
+384,NDPS,Offences Against the State,Imprisonment,False,True,False,True,Anil Kapoor,Deepak Joshi,1384,Case details here
+385,SCST Act,Crimes Against SCs and STs,Imprisonment,False,True,True,False,Amit Sharma,Rahul Gupta,1385,Case details here
+386,IPC,Crimes Against Foreigners,Imprisonment,True,True,False,True,Anil Kapoor,Deepak Joshi,1386,Case details here
+387,CrPC,Crimes Against SCs and STs,Both,True,False,True,False,Vikram Choudhary,Deepak Joshi,1387,Case details here
+388,CrPC,Crimes Against Foreigners,Imprisonment,False,False,False,False,Priya Verma,Rahul Gupta,1388,Case details here
+389,IPC,Cyber Crime,Imprisonment,True,True,True,True,Sunita Mehta,Manoj Tiwari,1389,Case details here
+390,CrPC,Crimes Against Foreigners,Fine,False,True,False,False,Amit Sharma,Manoj Tiwari,1390,Case details here
+391,IPC,Crimes Against SCs and STs,Both,False,False,False,True,Rajesh Kumar,Sneha Roy,1391,Case details here
+392,SCST Act,Offences Against the State,Imprisonment,True,True,True,True,Anil Kapoor,Deepak Joshi,1392,Case details here
+393,SCST Act,Economic Offence,Both,False,False,False,False,Vikram Choudhary,Manoj Tiwari,1393,Case details here
+394,IPC,Crimes Against SCs and STs,Imprisonment,False,True,True,True,Sunita Mehta,Kiran Malhotra,1394,Case details here
+395,SCST Act,Crimes Against Foreigners,Imprisonment,True,True,False,False,Vikram Choudhary,Rahul Gupta,1395,Case details here
+396,SCST Act,Economic Offence,Imprisonment,True,False,False,False,Neha Singh,Sneha Roy,1396,Case details here
+397,SCST Act,Crimes Against Foreigners,Fine,False,True,False,False,Rajesh Kumar,Ananya Sen,1397,Case details here
+398,PMLA,Offences Against the State,Fine,True,True,True,True,Sunita Mehta,Ananya Sen,1398,Case details here
+399,NDPS,Crimes Against Foreigners,Fine,True,True,False,False,Priya Verma,Sneha Roy,1399,Case details here
+400,CrPC,Cyber Crime,Both,False,False,True,True,Priya Verma,Kiran Malhotra,1400,Case details here
+401,PMLA,Crimes Against Women,Both,True,True,False,False,Sunita Mehta,Sneha Roy,1401,Case details here
+402,SCST Act,Crimes Against SCs and STs,Fine,True,True,True,False,Rajesh Kumar,Sandeep Yadav,1402,Case details here
+403,IPC,Crimes Against Women,Both,False,True,True,False,Anil Kapoor,Ananya Sen,1403,Case details here
+404,SCST Act,Crimes Against Foreigners,Imprisonment,True,True,True,True,Sunita Mehta,Ananya Sen,1404,Case details here
+405,NDPS,Offences Against the State,Imprisonment,True,True,False,True,Anil Kapoor,Deepak Joshi,1405,Case details here
+406,SCST Act,Crimes Against SCs and STs,Imprisonment,False,True,True,False,Amit Sharma,Ananya Sen,1406,Case details here
+407,IPC,Crimes Against Foreigners,Fine,False,False,False,False,Amit Sharma,Ananya Sen,1407,Case details here
+408,NDPS,Economic Offence,Both,False,False,True,True,Neha Singh,Deepak Joshi,1408,Case details here
+409,SCST Act,Crimes Against Children,Fine,True,True,True,True,Sunita Mehta,Rahul Gupta,1409,Case details here
+410,NDPS,Crimes Against Foreigners,Both,False,False,True,True,Amit Sharma,Ananya Sen,1410,Case details here
+411,CrPC,Crimes Against Women,Imprisonment,False,False,True,False,Amit Sharma,Manoj Tiwari,1411,Case details here
+412,CrPC,Crimes Against SCs and STs,Fine,True,True,False,True,Priya Verma,Manoj Tiwari,1412,Case details here
+413,SCST Act,Crimes Against Women,Both,False,False,True,False,Sunita Mehta,Manoj Tiwari,1413,Case details here
+414,NDPS,Crimes Against SCs and STs,Both,False,False,True,True,Neha Singh,Manoj Tiwari,1414,Case details here
+415,IPC,Crimes Against Foreigners,Imprisonment,False,False,False,False,Anil Kapoor,Ananya Sen,1415,Case details here
+416,SCST Act,Cyber Crime,Fine,False,False,True,False,Neha Singh,Deepak Joshi,1416,Case details here
+417,CrPC,Economic Offence,Fine,True,False,True,False,Sunita Mehta,Manoj Tiwari,1417,Case details here
+418,CrPC,Crimes Against Foreigners,Fine,False,False,True,True,Rajesh Kumar,Sandeep Yadav,1418,Case details here
+419,SCST Act,Crimes Against Women,Imprisonment,False,False,True,True,Vikram Choudhary,Ananya Sen,1419,Case details here
+420,NDPS,Crimes Against Children,Fine,True,False,False,True,Priya Verma,Sneha Roy,1420,Case details here
+421,CrPC,Crimes Against Children,Imprisonment,False,True,False,False,Priya Verma,Sandeep Yadav,1421,Case details here
+422,NDPS,Offences Against the State,Imprisonment,True,True,True,False,Rajesh Kumar,Sandeep Yadav,1422,Case details here
+423,CrPC,Crimes Against SCs and STs,Imprisonment,True,False,False,True,Amit Sharma,Deepak Joshi,1423,Case details here
+424,CrPC,Crimes Against Women,Both,True,False,False,False,Priya Verma,Sneha Roy,1424,Case details here
+425,PMLA,Offences Against the State,Fine,False,True,True,False,Priya Verma,Deepak Joshi,1425,Case details here
+426,CrPC,Crimes Against Women,Fine,True,False,False,False,Sunita Mehta,Sandeep Yadav,1426,Case details here
+427,IPC,Crimes Against SCs and STs,Imprisonment,True,False,True,True,Sunita Mehta,Kiran Malhotra,1427,Case details here
+428,SCST Act,Crimes Against Foreigners,Imprisonment,True,True,False,False,Priya Verma,Kiran Malhotra,1428,Case details here
+429,SCST Act,Crimes Against Foreigners,Fine,False,True,False,True,Neha Singh,Sandeep Yadav,1429,Case details here
+430,NDPS,Crimes Against Children,Imprisonment,False,True,False,True,Sunita Mehta,Ananya Sen,1430,Case details here
+431,CrPC,Crimes Against Foreigners,Fine,False,False,True,True,Neha Singh,Sneha Roy,1431,Case details here
+432,IPC,Crimes Against Foreigners,Both,False,False,False,True,Neha Singh,Ananya Sen,1432,Case details here
+433,NDPS,Cyber Crime,Imprisonment,False,True,True,True,Neha Singh,Ananya Sen,1433,Case details here
+434,PMLA,Crimes Against Children,Fine,False,True,True,False,Amit Sharma,Deepak Joshi,1434,Case details here
+435,NDPS,Offences Against the State,Imprisonment,False,False,False,True,Sunita Mehta,Sandeep Yadav,1435,Case details here
+436,NDPS,Economic Offence,Fine,True,True,True,True,Priya Verma,Deepak Joshi,1436,Case details here
+437,CrPC,Cyber Crime,Fine,True,False,False,True,Neha Singh,Manoj Tiwari,1437,Case details here
+438,PMLA,Offences Against the State,Imprisonment,True,False,True,False,Rajesh Kumar,Ananya Sen,1438,Case details here
+439,NDPS,Crimes Against SCs and STs,Both,True,True,True,False,Priya Verma,Sneha Roy,1439,Case details here
+440,IPC,Cyber Crime,Fine,False,True,False,False,Amit Sharma,Manoj Tiwari,1440,Case details here
+441,IPC,Offences Against the State,Fine,True,False,False,False,Sunita Mehta,Sandeep Yadav,1441,Case details here
+442,SCST Act,Crimes Against SCs and STs,Fine,True,True,False,True,Anil Kapoor,Manoj Tiwari,1442,Case details here
+443,PMLA,Crimes Against Children,Both,True,True,False,True,Anil Kapoor,Deepak Joshi,1443,Case details here
+444,PMLA,Economic Offence,Both,True,True,True,False,Sunita Mehta,Rahul Gupta,1444,Case details here
+445,SCST Act,Crimes Against SCs and STs,Imprisonment,False,True,True,False,Vikram Choudhary,Kiran Malhotra,1445,Case details here
+446,NDPS,Crimes Against Foreigners,Both,False,False,True,False,Neha Singh,Deepak Joshi,1446,Case details here
+447,PMLA,Crimes Against Women,Imprisonment,False,False,False,False,Vikram Choudhary,Rahul Gupta,1447,Case details here
+448,IPC,Crimes Against SCs and STs,Imprisonment,True,False,True,True,Vikram Choudhary,Sneha Roy,1448,Case details here
+449,IPC,Crimes Against SCs and STs,Both,False,False,False,False,Sunita Mehta,Sneha Roy,1449,Case details here
+450,CrPC,Economic Offence,Imprisonment,True,True,True,False,Neha Singh,Kiran Malhotra,1450,Case details here
+451,PMLA,Crimes Against Women,Both,False,True,False,False,Sunita Mehta,Manoj Tiwari,1451,Case details here
+452,NDPS,Crimes Against Foreigners,Imprisonment,False,False,True,False,Sunita Mehta,Rahul Gupta,1452,Case details here
+453,SCST Act,Offences Against the State,Both,False,False,True,False,Vikram Choudhary,Manoj Tiwari,1453,Case details here
+454,SCST Act,Offences Against the State,Both,False,True,False,False,Priya Verma,Sandeep Yadav,1454,Case details here
+455,NDPS,Crimes Against SCs and STs,Imprisonment,False,False,True,False,Anil Kapoor,Sneha Roy,1455,Case details here
+456,CrPC,Crimes Against Women,Fine,True,False,False,True,Vikram Choudhary,Ananya Sen,1456,Case details here
+457,SCST Act,Crimes Against Women,Imprisonment,False,True,True,True,Anil Kapoor,Ananya Sen,1457,Case details here
+458,PMLA,Crimes Against Foreigners,Both,True,False,True,True,Priya Verma,Ananya Sen,1458,Case details here
+459,CrPC,Economic Offence,Fine,True,True,False,True,Priya Verma,Deepak Joshi,1459,Case details here
+460,PMLA,Crimes Against Children,Imprisonment,True,True,False,True,Anil Kapoor,Sneha Roy,1460,Case details here
+461,IPC,Offences Against the State,Imprisonment,True,False,True,True,Neha Singh,Manoj Tiwari,1461,Case details here
+462,CrPC,Economic Offence,Imprisonment,True,True,True,False,Sunita Mehta,Sandeep Yadav,1462,Case details here
+463,SCST Act,Cyber Crime,Fine,False,False,True,False,Sunita Mehta,Rahul Gupta,1463,Case details here
+464,CrPC,Offences Against the State,Both,False,True,True,True,Priya Verma,Rahul Gupta,1464,Case details here
+465,CrPC,Economic Offence,Imprisonment,False,False,True,False,Priya Verma,Deepak Joshi,1465,Case details here
+466,CrPC,Offences Against the State,Imprisonment,False,False,True,True,Amit Sharma,Deepak Joshi,1466,Case details here
+467,CrPC,Crimes Against Children,Imprisonment,True,False,False,False,Priya Verma,Rahul Gupta,1467,Case details here
+468,PMLA,Cyber Crime,Imprisonment,False,True,False,False,Priya Verma,Sneha Roy,1468,Case details here
+469,IPC,Crimes Against Children,Imprisonment,False,True,False,False,Anil Kapoor,Rahul Gupta,1469,Case details here
+470,NDPS,Crimes Against Foreigners,Both,True,False,True,False,Priya Verma,Ananya Sen,1470,Case details here
+471,CrPC,Cyber Crime,Both,True,True,True,False,Rajesh Kumar,Manoj Tiwari,1471,Case details here
+472,SCST Act,Crimes Against SCs and STs,Imprisonment,False,False,True,False,Anil Kapoor,Rahul Gupta,1472,Case details here
+473,CrPC,Economic Offence,Fine,False,False,False,True,Vikram Choudhary,Ananya Sen,1473,Case details here
+474,SCST Act,Cyber Crime,Both,True,True,False,True,Anil Kapoor,Sandeep Yadav,1474,Case details here
+475,PMLA,Crimes Against Foreigners,Fine,False,False,True,False,Sunita Mehta,Kiran Malhotra,1475,Case details here
+476,SCST Act,Crimes Against Foreigners,Both,False,True,True,True,Vikram Choudhary,Deepak Joshi,1476,Case details here
+477,NDPS,Crimes Against Children,Imprisonment,False,False,False,False,Rajesh Kumar,Deepak Joshi,1477,Case details here
+478,IPC,Offences Against the State,Both,False,True,False,True,Vikram Choudhary,Sneha Roy,1478,Case details here
+479,SCST Act,Cyber Crime,Imprisonment,True,False,False,False,Vikram Choudhary,Sandeep Yadav,1479,Case details here
+480,SCST Act,Economic Offence,Both,True,False,True,True,Rajesh Kumar,Sandeep Yadav,1480,Case details here
+481,IPC,Cyber Crime,Imprisonment,True,True,True,False,Amit Sharma,Deepak Joshi,1481,Case details here
+482,NDPS,Crimes Against Women,Imprisonment,False,False,True,True,Neha Singh,Rahul Gupta,1482,Case details here
+483,CrPC,Offences Against the State,Imprisonment,False,False,False,False,Rajesh Kumar,Ananya Sen,1483,Case details here
+484,SCST Act,Economic Offence,Imprisonment,False,True,False,True,Rajesh Kumar,Sandeep Yadav,1484,Case details here
+485,IPC,Economic Offence,Fine,False,False,True,False,Neha Singh,Sandeep Yadav,1485,Case details here
+486,PMLA,Crimes Against SCs and STs,Imprisonment,False,True,True,False,Priya Verma,Rahul Gupta,1486,Case details here
+487,IPC,Crimes Against Children,Fine,True,False,False,False,Vikram Choudhary,Kiran Malhotra,1487,Case details here
+488,PMLA,Crimes Against SCs and STs,Fine,False,True,True,True,Sunita Mehta,Rahul Gupta,1488,Case details here
+489,NDPS,Economic Offence,Imprisonment,False,False,False,True,Neha Singh,Sneha Roy,1489,Case details here
+490,CrPC,Offences Against the State,Fine,True,False,False,True,Priya Verma,Sandeep Yadav,1490,Case details here
+491,IPC,Cyber Crime,Both,False,False,True,False,Priya Verma,Deepak Joshi,1491,Case details here
+492,SCST Act,Cyber Crime,Imprisonment,True,True,False,True,Priya Verma,Kiran Malhotra,1492,Case details here
+493,NDPS,Offences Against the State,Fine,True,True,True,False,Amit Sharma,Sandeep Yadav,1493,Case details here
+494,IPC,Economic Offence,Imprisonment,True,True,False,True,Anil Kapoor,Ananya Sen,1494,Case details here
+495,SCST Act,Crimes Against Foreigners,Imprisonment,True,True,False,True,Rajesh Kumar,Deepak Joshi,1495,Case details here
+496,IPC,Cyber Crime,Imprisonment,True,False,True,True,Neha Singh,Kiran Malhotra,1496,Case details here
+497,PMLA,Crimes Against Foreigners,Fine,False,False,False,True,Anil Kapoor,Sandeep Yadav,1497,Case details here
+498,IPC,Cyber Crime,Both,True,True,True,False,Neha Singh,Sneha Roy,1498,Case details here
+499,IPC,Cyber Crime,Both,True,True,True,True,Priya Verma,Sneha Roy,1499,Case details here
+500,IPC,Crimes Against Children,Fine,False,True,False,True,Vikram Choudhary,Manoj Tiwari,1500,Case details here
+501,NDPS,Crimes Against Children,Imprisonment,False,False,True,False,Vikram Choudhary,Kiran Malhotra,1501,Case details here
+502,IPC,Crimes Against Women,Fine,True,True,True,False,Amit Sharma,Rahul Gupta,1502,Case details here
+503,SCST Act,Crimes Against SCs and STs,Fine,False,True,True,True,Vikram Choudhary,Deepak Joshi,1503,Case details here
+504,PMLA,Offences Against the State,Fine,False,False,True,True,Amit Sharma,Manoj Tiwari,1504,Case details here
+505,PMLA,Offences Against the State,Imprisonment,True,False,True,False,Sunita Mehta,Deepak Joshi,1505,Case details here
+506,IPC,Offences Against the State,Fine,True,True,True,False,Amit Sharma,Ananya Sen,1506,Case details here
+507,NDPS,Crimes Against Women,Imprisonment,False,False,False,False,Anil Kapoor,Kiran Malhotra,1507,Case details here
+508,NDPS,Crimes Against Children,Fine,True,True,True,True,Anil Kapoor,Sneha Roy,1508,Case details here
+509,SCST Act,Economic Offence,Both,True,False,False,True,Sunita Mehta,Manoj Tiwari,1509,Case details here
+510,IPC,Crimes Against Foreigners,Fine,False,True,False,True,Vikram Choudhary,Ananya Sen,1510,Case details here
+511,PMLA,Crimes Against Foreigners,Fine,True,True,True,False,Anil Kapoor,Rahul Gupta,1511,Case details here
+512,NDPS,Economic Offence,Both,True,True,False,False,Rajesh Kumar,Rahul Gupta,1512,Case details here
+513,IPC,Crimes Against Women,Imprisonment,True,True,False,False,Neha Singh,Rahul Gupta,1513,Case details here
+514,NDPS,Economic Offence,Imprisonment,True,False,True,True,Vikram Choudhary,Kiran Malhotra,1514,Case details here
+515,NDPS,Offences Against the State,Fine,True,False,True,False,Anil Kapoor,Deepak Joshi,1515,Case details here
+516,PMLA,Crimes Against SCs and STs,Both,False,False,True,True,Sunita Mehta,Sneha Roy,1516,Case details here
+517,CrPC,Cyber Crime,Imprisonment,False,False,False,False,Vikram Choudhary,Sandeep Yadav,1517,Case details here
+518,SCST Act,Crimes Against Foreigners,Fine,True,True,False,True,Neha Singh,Sneha Roy,1518,Case details here
+519,SCST Act,Crimes Against Children,Both,False,True,True,True,Amit Sharma,Manoj Tiwari,1519,Case details here
+520,PMLA,Crimes Against Children,Imprisonment,True,False,True,False,Sunita Mehta,Rahul Gupta,1520,Case details here
+521,NDPS,Crimes Against Women,Imprisonment,True,False,False,True,Neha Singh,Deepak Joshi,1521,Case details here
+522,IPC,Crimes Against Children,Both,True,False,False,False,Vikram Choudhary,Rahul Gupta,1522,Case details here
+523,NDPS,Offences Against the State,Both,True,False,False,True,Amit Sharma,Rahul Gupta,1523,Case details here
+524,PMLA,Crimes Against Foreigners,Both,True,False,False,False,Amit Sharma,Sneha Roy,1524,Case details here
+525,SCST Act,Economic Offence,Both,False,True,True,False,Priya Verma,Kiran Malhotra,1525,Case details here
+526,NDPS,Offences Against the State,Fine,False,True,False,True,Rajesh Kumar,Ananya Sen,1526,Case details here
+527,SCST Act,Crimes Against Women,Both,True,True,False,False,Neha Singh,Sandeep Yadav,1527,Case details here
+528,IPC,Offences Against the State,Imprisonment,False,False,False,True,Vikram Choudhary,Ananya Sen,1528,Case details here
+529,SCST Act,Economic Offence,Imprisonment,True,False,False,False,Amit Sharma,Rahul Gupta,1529,Case details here
+530,SCST Act,Crimes Against SCs and STs,Fine,False,False,True,False,Anil Kapoor,Manoj Tiwari,1530,Case details here
+531,CrPC,Crimes Against Women,Imprisonment,True,False,True,False,Amit Sharma,Ananya Sen,1531,Case details here
+532,CrPC,Crimes Against SCs and STs,Imprisonment,False,True,False,False,Amit Sharma,Manoj Tiwari,1532,Case details here
+533,CrPC,Cyber Crime,Both,True,True,False,True,Priya Verma,Sandeep Yadav,1533,Case details here
+534,SCST Act,Crimes Against SCs and STs,Imprisonment,True,False,True,False,Vikram Choudhary,Rahul Gupta,1534,Case details here
+535,PMLA,Cyber Crime,Fine,False,True,True,False,Vikram Choudhary,Sandeep Yadav,1535,Case details here
+536,SCST Act,Cyber Crime,Both,False,True,False,True,Amit Sharma,Kiran Malhotra,1536,Case details here
+537,PMLA,Crimes Against SCs and STs,Both,True,False,False,True,Sunita Mehta,Sneha Roy,1537,Case details here
+538,PMLA,Crimes Against Women,Fine,False,False,True,True,Sunita Mehta,Ananya Sen,1538,Case details here
+539,CrPC,Economic Offence,Both,True,False,True,True,Priya Verma,Ananya Sen,1539,Case details here
+540,NDPS,Offences Against the State,Both,False,False,True,True,Priya Verma,Kiran Malhotra,1540,Case details here
+541,IPC,Offences Against the State,Fine,False,False,True,True,Neha Singh,Ananya Sen,1541,Case details here
+542,CrPC,Economic Offence,Both,True,False,True,False,Neha Singh,Manoj Tiwari,1542,Case details here
+543,CrPC,Crimes Against Foreigners,Fine,False,True,True,True,Rajesh Kumar,Sandeep Yadav,1543,Case details here
+544,NDPS,Crimes Against Foreigners,Fine,False,True,False,False,Priya Verma,Sneha Roy,1544,Case details here
+545,IPC,Cyber Crime,Imprisonment,True,False,True,True,Amit Sharma,Sandeep Yadav,1545,Case details here
+546,SCST Act,Cyber Crime,Imprisonment,False,True,True,False,Sunita Mehta,Manoj Tiwari,1546,Case details here
+547,SCST Act,Crimes Against Women,Both,True,False,True,False,Anil Kapoor,Sneha Roy,1547,Case details here
+548,CrPC,Crimes Against Children,Both,True,False,True,False,Anil Kapoor,Manoj Tiwari,1548,Case details here
+549,IPC,Crimes Against SCs and STs,Fine,True,False,False,True,Amit Sharma,Ananya Sen,1549,Case details here
+550,CrPC,Cyber Crime,Both,True,False,False,True,Sunita Mehta,Deepak Joshi,1550,Case details here
+551,PMLA,Offences Against the State,Fine,True,True,True,True,Amit Sharma,Rahul Gupta,1551,Case details here
+552,CrPC,Crimes Against Women,Fine,False,False,False,True,Neha Singh,Manoj Tiwari,1552,Case details here
+553,CrPC,Crimes Against SCs and STs,Both,True,True,False,False,Priya Verma,Deepak Joshi,1553,Case details here
+554,SCST Act,Crimes Against Women,Fine,True,False,False,True,Rajesh Kumar,Rahul Gupta,1554,Case details here
+555,SCST Act,Crimes Against SCs and STs,Imprisonment,False,False,False,False,Rajesh Kumar,Rahul Gupta,1555,Case details here
+556,SCST Act,Crimes Against SCs and STs,Both,False,False,False,False,Anil Kapoor,Ananya Sen,1556,Case details here
+557,PMLA,Economic Offence,Imprisonment,False,True,False,True,Neha Singh,Kiran Malhotra,1557,Case details here
+558,SCST Act,Cyber Crime,Both,True,False,True,True,Neha Singh,Rahul Gupta,1558,Case details here
+559,IPC,Crimes Against Women,Fine,True,False,True,True,Priya Verma,Kiran Malhotra,1559,Case details here
+560,NDPS,Crimes Against Women,Both,True,False,True,False,Sunita Mehta,Deepak Joshi,1560,Case details here
+561,IPC,Economic Offence,Imprisonment,False,True,True,True,Rajesh Kumar,Deepak Joshi,1561,Case details here
+562,IPC,Offences Against the State,Fine,True,True,True,False,Amit Sharma,Kiran Malhotra,1562,Case details here
+563,SCST Act,Offences Against the State,Both,False,True,False,True,Vikram Choudhary,Kiran Malhotra,1563,Case details here
+564,NDPS,Crimes Against Foreigners,Both,True,False,True,False,Neha Singh,Kiran Malhotra,1564,Case details here
+565,NDPS,Cyber Crime,Both,False,True,True,True,Vikram Choudhary,Deepak Joshi,1565,Case details here
+566,NDPS,Cyber Crime,Imprisonment,True,False,False,True,Sunita Mehta,Ananya Sen,1566,Case details here
+567,PMLA,Crimes Against Children,Imprisonment,True,True,False,False,Rajesh Kumar,Ananya Sen,1567,Case details here
+568,SCST Act,Economic Offence,Both,True,True,True,True,Rajesh Kumar,Sandeep Yadav,1568,Case details here
+569,NDPS,Offences Against the State,Fine,False,False,False,True,Anil Kapoor,Deepak Joshi,1569,Case details here
+570,PMLA,Crimes Against SCs and STs,Fine,False,True,False,True,Priya Verma,Kiran Malhotra,1570,Case details here
+571,CrPC,Crimes Against Women,Imprisonment,True,False,False,True,Sunita Mehta,Manoj Tiwari,1571,Case details here
+572,CrPC,Cyber Crime,Fine,True,False,False,True,Vikram Choudhary,Ananya Sen,1572,Case details here
+573,PMLA,Crimes Against Women,Imprisonment,True,True,True,True,Priya Verma,Manoj Tiwari,1573,Case details here
+574,PMLA,Crimes Against Women,Both,False,False,False,True,Sunita Mehta,Kiran Malhotra,1574,Case details here
+575,SCST Act,Crimes Against Children,Imprisonment,True,False,True,False,Amit Sharma,Kiran Malhotra,1575,Case details here
+576,SCST Act,Offences Against the State,Imprisonment,True,True,True,False,Anil Kapoor,Ananya Sen,1576,Case details here
+577,CrPC,Cyber Crime,Both,True,True,False,True,Priya Verma,Deepak Joshi,1577,Case details here
+578,NDPS,Crimes Against Women,Fine,True,False,False,True,Vikram Choudhary,Deepak Joshi,1578,Case details here
+579,CrPC,Cyber Crime,Imprisonment,False,True,False,True,Sunita Mehta,Rahul Gupta,1579,Case details here
+580,NDPS,Crimes Against SCs and STs,Imprisonment,False,False,True,False,Anil Kapoor,Sandeep Yadav,1580,Case details here
+581,NDPS,Crimes Against Children,Both,True,False,False,False,Vikram Choudhary,Sneha Roy,1581,Case details here
+582,SCST Act,Crimes Against SCs and STs,Fine,True,True,False,True,Priya Verma,Ananya Sen,1582,Case details here
+583,IPC,Cyber Crime,Imprisonment,False,True,False,False,Anil Kapoor,Manoj Tiwari,1583,Case details here
+584,IPC,Crimes Against Foreigners,Both,False,True,False,True,Vikram Choudhary,Rahul Gupta,1584,Case details here
+585,PMLA,Cyber Crime,Imprisonment,True,True,False,True,Vikram Choudhary,Kiran Malhotra,1585,Case details here
+586,SCST Act,Offences Against the State,Both,False,False,True,True,Rajesh Kumar,Manoj Tiwari,1586,Case details here
+587,NDPS,Crimes Against Women,Fine,False,False,False,True,Rajesh Kumar,Rahul Gupta,1587,Case details here
+588,IPC,Crimes Against Women,Fine,True,True,False,False,Neha Singh,Ananya Sen,1588,Case details here
+589,NDPS,Crimes Against SCs and STs,Fine,False,True,False,False,Amit Sharma,Ananya Sen,1589,Case details here
+590,IPC,Crimes Against Children,Fine,False,False,True,True,Neha Singh,Rahul Gupta,1590,Case details here
+591,IPC,Crimes Against Foreigners,Imprisonment,True,False,False,False,Neha Singh,Sandeep Yadav,1591,Case details here
+592,IPC,Economic Offence,Imprisonment,True,False,True,False,Priya Verma,Manoj Tiwari,1592,Case details here
+593,SCST Act,Crimes Against Women,Fine,False,False,True,True,Priya Verma,Sandeep Yadav,1593,Case details here
+594,CrPC,Offences Against the State,Fine,True,True,False,False,Rajesh Kumar,Ananya Sen,1594,Case details here
+595,NDPS,Crimes Against SCs and STs,Fine,False,False,False,True,Amit Sharma,Kiran Malhotra,1595,Case details here
+596,SCST Act,Crimes Against SCs and STs,Imprisonment,True,False,False,True,Rajesh Kumar,Sneha Roy,1596,Case details here
+597,SCST Act,Economic Offence,Fine,False,True,True,True,Anil Kapoor,Kiran Malhotra,1597,Case details here
+598,SCST Act,Offences Against the State,Fine,True,False,True,True,Rajesh Kumar,Deepak Joshi,1598,Case details here
+599,SCST Act,Crimes Against Children,Fine,False,False,True,False,Amit Sharma,Manoj Tiwari,1599,Case details here
+600,SCST Act,Offences Against the State,Both,False,True,True,True,Sunita Mehta,Sandeep Yadav,1600,Case details here
+601,PMLA,Crimes Against Children,Fine,False,True,True,False,Rajesh Kumar,Sneha Roy,1601,Case details here
+602,NDPS,Offences Against the State,Both,True,True,True,True,Neha Singh,Rahul Gupta,1602,Case details here
+603,SCST Act,Offences Against the State,Both,True,False,False,True,Sunita Mehta,Deepak Joshi,1603,Case details here
+604,NDPS,Cyber Crime,Fine,False,False,False,False,Neha Singh,Kiran Malhotra,1604,Case details here
+605,PMLA,Crimes Against SCs and STs,Both,False,True,True,True,Amit Sharma,Rahul Gupta,1605,Case details here
+606,PMLA,Offences Against the State,Fine,True,True,False,False,Neha Singh,Sandeep Yadav,1606,Case details here
+607,NDPS,Economic Offence,Imprisonment,True,False,False,False,Priya Verma,Deepak Joshi,1607,Case details here
+608,IPC,Offences Against the State,Imprisonment,True,True,True,True,Sunita Mehta,Sneha Roy,1608,Case details here
+609,CrPC,Crimes Against Women,Imprisonment,True,True,True,True,Amit Sharma,Kiran Malhotra,1609,Case details here
+610,IPC,Crimes Against SCs and STs,Imprisonment,True,True,False,True,Vikram Choudhary,Deepak Joshi,1610,Case details here
+611,IPC,Crimes Against Women,Both,True,False,True,True,Sunita Mehta,Kiran Malhotra,1611,Case details here
+612,IPC,Crimes Against SCs and STs,Fine,False,False,True,True,Priya Verma,Deepak Joshi,1612,Case details here
+613,SCST Act,Crimes Against Women,Fine,True,False,False,True,Sunita Mehta,Manoj Tiwari,1613,Case details here
+614,PMLA,Offences Against the State,Fine,False,False,True,False,Sunita Mehta,Manoj Tiwari,1614,Case details here
+615,IPC,Offences Against the State,Imprisonment,True,False,False,False,Amit Sharma,Kiran Malhotra,1615,Case details here
+616,PMLA,Cyber Crime,Imprisonment,True,False,False,True,Priya Verma,Sneha Roy,1616,Case details here
+617,NDPS,Economic Offence,Fine,False,True,False,False,Amit Sharma,Sandeep Yadav,1617,Case details here
+618,CrPC,Crimes Against Women,Imprisonment,False,False,False,False,Rajesh Kumar,Manoj Tiwari,1618,Case details here
+619,NDPS,Crimes Against Children,Fine,True,False,False,True,Sunita Mehta,Kiran Malhotra,1619,Case details here
+620,NDPS,Cyber Crime,Fine,False,True,True,True,Neha Singh,Sandeep Yadav,1620,Case details here
+621,SCST Act,Crimes Against Women,Fine,False,False,True,False,Priya Verma,Ananya Sen,1621,Case details here
+622,CrPC,Crimes Against Women,Fine,False,False,True,True,Neha Singh,Manoj Tiwari,1622,Case details here
+623,NDPS,Cyber Crime,Fine,False,True,True,False,Priya Verma,Ananya Sen,1623,Case details here
+624,NDPS,Offences Against the State,Fine,True,True,False,True,Vikram Choudhary,Sneha Roy,1624,Case details here
+625,CrPC,Crimes Against Women,Fine,False,True,False,False,Amit Sharma,Deepak Joshi,1625,Case details here
+626,CrPC,Offences Against the State,Imprisonment,True,False,True,False,Neha Singh,Sneha Roy,1626,Case details here
+627,NDPS,Cyber Crime,Fine,True,True,False,False,Sunita Mehta,Sneha Roy,1627,Case details here
+628,CrPC,Offences Against the State,Fine,True,False,True,False,Rajesh Kumar,Kiran Malhotra,1628,Case details here
+629,NDPS,Crimes Against SCs and STs,Imprisonment,True,False,True,True,Priya Verma,Sneha Roy,1629,Case details here
+630,NDPS,Crimes Against Children,Imprisonment,False,False,True,True,Priya Verma,Deepak Joshi,1630,Case details here
+631,SCST Act,Crimes Against Foreigners,Imprisonment,False,False,False,False,Sunita Mehta,Kiran Malhotra,1631,Case details here
+632,IPC,Crimes Against Women,Fine,True,True,False,False,Amit Sharma,Ananya Sen,1632,Case details here
+633,NDPS,Economic Offence,Both,True,True,False,True,Rajesh Kumar,Sandeep Yadav,1633,Case details here
+634,PMLA,Crimes Against Children,Both,True,False,False,True,Priya Verma,Sandeep Yadav,1634,Case details here
+635,IPC,Crimes Against Foreigners,Imprisonment,True,True,True,False,Vikram Choudhary,Rahul Gupta,1635,Case details here
+636,IPC,Offences Against the State,Both,False,False,False,False,Anil Kapoor,Ananya Sen,1636,Case details here
+637,IPC,Crimes Against Women,Imprisonment,True,False,False,False,Amit Sharma,Sandeep Yadav,1637,Case details here
+638,SCST Act,Offences Against the State,Fine,False,False,False,False,Vikram Choudhary,Deepak Joshi,1638,Case details here
+639,NDPS,Crimes Against SCs and STs,Both,True,True,True,False,Amit Sharma,Sandeep Yadav,1639,Case details here
+640,SCST Act,Cyber Crime,Fine,True,False,True,True,Vikram Choudhary,Rahul Gupta,1640,Case details here
+641,NDPS,Crimes Against Women,Both,True,False,False,False,Rajesh Kumar,Kiran Malhotra,1641,Case details here
+642,SCST Act,Crimes Against Foreigners,Fine,True,True,False,True,Amit Sharma,Manoj Tiwari,1642,Case details here
+643,SCST Act,Crimes Against Foreigners,Both,False,True,False,True,Amit Sharma,Deepak Joshi,1643,Case details here
+644,PMLA,Crimes Against SCs and STs,Fine,False,True,False,True,Anil Kapoor,Manoj Tiwari,1644,Case details here
+645,SCST Act,Crimes Against SCs and STs,Fine,False,True,True,False,Sunita Mehta,Rahul Gupta,1645,Case details here
+646,CrPC,Crimes Against Women,Both,True,False,False,True,Sunita Mehta,Deepak Joshi,1646,Case details here
+647,PMLA,Offences Against the State,Fine,True,True,False,True,Vikram Choudhary,Ananya Sen,1647,Case details here
+648,SCST Act,Economic Offence,Fine,False,False,False,True,Sunita Mehta,Ananya Sen,1648,Case details here
+649,IPC,Crimes Against Foreigners,Fine,False,True,True,True,Rajesh Kumar,Ananya Sen,1649,Case details here
+650,CrPC,Crimes Against Foreigners,Both,True,True,True,False,Neha Singh,Sneha Roy,1650,Case details here
+651,CrPC,Crimes Against SCs and STs,Both,True,True,False,False,Anil Kapoor,Kiran Malhotra,1651,Case details here
+652,CrPC,Crimes Against Children,Fine,False,True,False,True,Priya Verma,Kiran Malhotra,1652,Case details here
+653,PMLA,Crimes Against SCs and STs,Fine,True,True,False,True,Priya Verma,Sneha Roy,1653,Case details here
+654,SCST Act,Economic Offence,Both,True,True,False,False,Vikram Choudhary,Ananya Sen,1654,Case details here
+655,SCST Act,Offences Against the State,Both,False,False,False,False,Neha Singh,Sandeep Yadav,1655,Case details here
+656,IPC,Offences Against the State,Fine,True,True,True,False,Vikram Choudhary,Rahul Gupta,1656,Case details here
+657,IPC,Crimes Against Children,Fine,False,True,True,True,Priya Verma,Sneha Roy,1657,Case details here
+658,CrPC,Crimes Against Foreigners,Fine,True,True,True,False,Vikram Choudhary,Kiran Malhotra,1658,Case details here
+659,IPC,Crimes Against SCs and STs,Imprisonment,False,True,False,True,Anil Kapoor,Manoj Tiwari,1659,Case details here
+660,PMLA,Offences Against the State,Both,True,False,True,True,Vikram Choudhary,Deepak Joshi,1660,Case details here
+661,SCST Act,Economic Offence,Imprisonment,False,True,True,False,Amit Sharma,Kiran Malhotra,1661,Case details here
+662,CrPC,Crimes Against Women,Both,False,True,True,True,Neha Singh,Kiran Malhotra,1662,Case details here
+663,IPC,Cyber Crime,Both,False,True,False,False,Sunita Mehta,Sneha Roy,1663,Case details here
+664,PMLA,Cyber Crime,Both,False,True,False,True,Sunita Mehta,Manoj Tiwari,1664,Case details here
+665,PMLA,Cyber Crime,Both,True,False,True,False,Rajesh Kumar,Deepak Joshi,1665,Case details here
+666,IPC,Crimes Against Foreigners,Both,True,True,False,True,Sunita Mehta,Manoj Tiwari,1666,Case details here
+667,SCST Act,Crimes Against SCs and STs,Both,False,False,True,True,Priya Verma,Manoj Tiwari,1667,Case details here
+668,IPC,Crimes Against Children,Both,True,True,True,False,Neha Singh,Rahul Gupta,1668,Case details here
+669,CrPC,Offences Against the State,Imprisonment,True,False,True,False,Neha Singh,Deepak Joshi,1669,Case details here
+670,IPC,Crimes Against Women,Fine,True,False,True,False,Anil Kapoor,Sandeep Yadav,1670,Case details here
+671,PMLA,Economic Offence,Fine,True,True,False,False,Amit Sharma,Deepak Joshi,1671,Case details here
+672,IPC,Crimes Against Women,Imprisonment,True,True,False,True,Neha Singh,Deepak Joshi,1672,Case details here
+673,SCST Act,Economic Offence,Imprisonment,False,False,False,False,Neha Singh,Kiran Malhotra,1673,Case details here
+674,NDPS,Crimes Against Foreigners,Imprisonment,False,False,False,False,Anil Kapoor,Deepak Joshi,1674,Case details here
+675,IPC,Crimes Against SCs and STs,Imprisonment,False,True,True,True,Neha Singh,Deepak Joshi,1675,Case details here
+676,SCST Act,Cyber Crime,Both,False,False,False,False,Vikram Choudhary,Deepak Joshi,1676,Case details here
+677,SCST Act,Crimes Against SCs and STs,Fine,True,False,True,False,Sunita Mehta,Rahul Gupta,1677,Case details here
+678,PMLA,Crimes Against Foreigners,Both,True,False,False,True,Priya Verma,Sandeep Yadav,1678,Case details here
+679,SCST Act,Crimes Against Children,Fine,False,True,False,False,Rajesh Kumar,Sneha Roy,1679,Case details here
+680,SCST Act,Crimes Against Children,Fine,True,False,False,False,Sunita Mehta,Sneha Roy,1680,Case details here
+681,SCST Act,Crimes Against Foreigners,Imprisonment,True,False,True,False,Amit Sharma,Manoj Tiwari,1681,Case details here
+682,SCST Act,Economic Offence,Both,False,False,True,False,Neha Singh,Rahul Gupta,1682,Case details here
+683,CrPC,Offences Against the State,Imprisonment,True,True,True,False,Rajesh Kumar,Kiran Malhotra,1683,Case details here
+684,CrPC,Offences Against the State,Both,False,True,True,False,Priya Verma,Sneha Roy,1684,Case details here
+685,PMLA,Economic Offence,Fine,False,False,False,True,Rajesh Kumar,Kiran Malhotra,1685,Case details here
+686,IPC,Crimes Against Children,Imprisonment,True,True,True,False,Sunita Mehta,Manoj Tiwari,1686,Case details here
+687,SCST Act,Crimes Against Children,Imprisonment,True,False,True,True,Amit Sharma,Sandeep Yadav,1687,Case details here
+688,IPC,Crimes Against Children,Fine,False,True,False,True,Vikram Choudhary,Kiran Malhotra,1688,Case details here
+689,IPC,Crimes Against SCs and STs,Fine,False,True,False,True,Amit Sharma,Manoj Tiwari,1689,Case details here
+690,PMLA,Crimes Against Children,Fine,True,False,True,True,Anil Kapoor,Sneha Roy,1690,Case details here
+691,SCST Act,Crimes Against Women,Imprisonment,False,True,False,False,Priya Verma,Kiran Malhotra,1691,Case details here
+692,SCST Act,Cyber Crime,Both,False,True,True,False,Sunita Mehta,Kiran Malhotra,1692,Case details here
+693,NDPS,Crimes Against Children,Imprisonment,False,True,False,False,Priya Verma,Manoj Tiwari,1693,Case details here
+694,IPC,Economic Offence,Both,True,False,True,True,Anil Kapoor,Rahul Gupta,1694,Case details here
+695,IPC,Cyber Crime,Imprisonment,False,True,True,False,Rajesh Kumar,Rahul Gupta,1695,Case details here
+696,CrPC,Crimes Against SCs and STs,Imprisonment,True,True,True,False,Priya Verma,Deepak Joshi,1696,Case details here
+697,NDPS,Economic Offence,Fine,False,False,True,False,Rajesh Kumar,Sneha Roy,1697,Case details here
+698,CrPC,Cyber Crime,Both,True,True,True,True,Neha Singh,Deepak Joshi,1698,Case details here
+699,CrPC,Economic Offence,Imprisonment,False,True,False,True,Vikram Choudhary,Rahul Gupta,1699,Case details here
+700,CrPC,Crimes Against SCs and STs,Imprisonment,True,True,True,False,Rajesh Kumar,Deepak Joshi,1700,Case details here
+701,PMLA,Crimes Against Women,Fine,True,True,True,True,Rajesh Kumar,Kiran Malhotra,1701,Case details here
+702,PMLA,Crimes Against SCs and STs,Fine,True,True,True,True,Rajesh Kumar,Rahul Gupta,1702,Case details here
+703,CrPC,Crimes Against SCs and STs,Both,False,False,True,False,Rajesh Kumar,Kiran Malhotra,1703,Case details here
+704,NDPS,Economic Offence,Imprisonment,False,False,True,True,Priya Verma,Deepak Joshi,1704,Case details here
+705,IPC,Crimes Against Foreigners,Both,False,True,False,True,Sunita Mehta,Rahul Gupta,1705,Case details here
+706,NDPS,Offences Against the State,Imprisonment,True,True,False,False,Priya Verma,Manoj Tiwari,1706,Case details here
+707,SCST Act,Crimes Against Children,Both,False,True,True,True,Vikram Choudhary,Ananya Sen,1707,Case details here
+708,PMLA,Crimes Against Children,Fine,True,False,False,True,Priya Verma,Sandeep Yadav,1708,Case details here
+709,IPC,Crimes Against Women,Imprisonment,False,False,True,True,Rajesh Kumar,Manoj Tiwari,1709,Case details here
+710,IPC,Crimes Against Women,Both,True,True,False,True,Sunita Mehta,Ananya Sen,1710,Case details here
+711,SCST Act,Crimes Against Children,Fine,True,True,False,True,Anil Kapoor,Rahul Gupta,1711,Case details here
+712,SCST Act,Offences Against the State,Fine,True,False,True,True,Priya Verma,Sneha Roy,1712,Case details here
+713,CrPC,Crimes Against Children,Both,False,True,False,True,Amit Sharma,Deepak Joshi,1713,Case details here
+714,PMLA,Crimes Against Foreigners,Imprisonment,False,False,False,True,Priya Verma,Sandeep Yadav,1714,Case details here
+715,PMLA,Offences Against the State,Imprisonment,False,False,True,False,Rajesh Kumar,Ananya Sen,1715,Case details here
+716,NDPS,Crimes Against Women,Fine,True,True,True,False,Neha Singh,Kiran Malhotra,1716,Case details here
+717,CrPC,Cyber Crime,Imprisonment,True,False,False,False,Rajesh Kumar,Sneha Roy,1717,Case details here
+718,CrPC,Economic Offence,Imprisonment,False,True,False,False,Rajesh Kumar,Kiran Malhotra,1718,Case details here
+719,CrPC,Crimes Against Foreigners,Imprisonment,False,True,False,True,Sunita Mehta,Kiran Malhotra,1719,Case details here
+720,CrPC,Crimes Against Foreigners,Fine,False,True,True,False,Anil Kapoor,Manoj Tiwari,1720,Case details here
+721,PMLA,Crimes Against Women,Both,True,True,False,False,Vikram Choudhary,Deepak Joshi,1721,Case details here
+722,PMLA,Crimes Against Women,Imprisonment,True,True,False,True,Neha Singh,Sandeep Yadav,1722,Case details here
+723,CrPC,Crimes Against SCs and STs,Fine,True,True,False,True,Neha Singh,Kiran Malhotra,1723,Case details here
+724,NDPS,Crimes Against Foreigners,Fine,True,False,True,True,Sunita Mehta,Deepak Joshi,1724,Case details here
+725,IPC,Crimes Against SCs and STs,Both,True,False,True,True,Amit Sharma,Manoj Tiwari,1725,Case details here
+726,IPC,Crimes Against SCs and STs,Imprisonment,False,False,True,True,Amit Sharma,Kiran Malhotra,1726,Case details here
+727,NDPS,Economic Offence,Imprisonment,True,False,True,False,Vikram Choudhary,Kiran Malhotra,1727,Case details here
+728,CrPC,Crimes Against SCs and STs,Both,True,True,False,True,Rajesh Kumar,Ananya Sen,1728,Case details here
+729,PMLA,Offences Against the State,Both,True,False,True,False,Rajesh Kumar,Sandeep Yadav,1729,Case details here
+730,IPC,Crimes Against Children,Fine,True,False,False,False,Sunita Mehta,Manoj Tiwari,1730,Case details here
+731,SCST Act,Cyber Crime,Fine,True,False,False,True,Vikram Choudhary,Deepak Joshi,1731,Case details here
+732,SCST Act,Crimes Against Women,Both,False,True,False,False,Amit Sharma,Kiran Malhotra,1732,Case details here
+733,NDPS,Offences Against the State,Imprisonment,True,False,False,False,Rajesh Kumar,Kiran Malhotra,1733,Case details here
+734,CrPC,Cyber Crime,Fine,True,True,True,True,Anil Kapoor,Sandeep Yadav,1734,Case details here
+735,IPC,Crimes Against Foreigners,Fine,True,False,True,False,Rajesh Kumar,Deepak Joshi,1735,Case details here
+736,CrPC,Crimes Against Foreigners,Imprisonment,False,True,True,False,Rajesh Kumar,Manoj Tiwari,1736,Case details here
+737,IPC,Crimes Against Foreigners,Fine,False,True,True,False,Anil Kapoor,Kiran Malhotra,1737,Case details here
+738,NDPS,Offences Against the State,Imprisonment,False,False,True,True,Priya Verma,Ananya Sen,1738,Case details here
+739,NDPS,Offences Against the State,Imprisonment,True,True,False,True,Anil Kapoor,Sandeep Yadav,1739,Case details here
+740,SCST Act,Crimes Against Women,Imprisonment,False,True,True,True,Anil Kapoor,Sneha Roy,1740,Case details here
+741,CrPC,Crimes Against Children,Both,True,False,True,False,Priya Verma,Sneha Roy,1741,Case details here
+742,SCST Act,Crimes Against SCs and STs,Both,True,False,True,True,Neha Singh,Kiran Malhotra,1742,Case details here
+743,CrPC,Crimes Against Foreigners,Both,False,False,True,False,Rajesh Kumar,Sneha Roy,1743,Case details here
+744,SCST Act,Economic Offence,Imprisonment,True,True,False,True,Vikram Choudhary,Deepak Joshi,1744,Case details here
+745,PMLA,Crimes Against Children,Imprisonment,True,True,False,False,Amit Sharma,Kiran Malhotra,1745,Case details here
+746,PMLA,Economic Offence,Both,True,True,False,True,Vikram Choudhary,Sandeep Yadav,1746,Case details here
+747,PMLA,Crimes Against Women,Fine,False,False,False,True,Anil Kapoor,Deepak Joshi,1747,Case details here
+748,PMLA,Crimes Against Women,Imprisonment,True,True,False,False,Amit Sharma,Sneha Roy,1748,Case details here
+749,IPC,Crimes Against Women,Fine,True,True,True,True,Vikram Choudhary,Ananya Sen,1749,Case details here
+750,PMLA,Cyber Crime,Fine,False,True,False,False,Anil Kapoor,Ananya Sen,1750,Case details here
+751,NDPS,Economic Offence,Imprisonment,True,True,False,True,Anil Kapoor,Sneha Roy,1751,Case details here
+752,NDPS,Crimes Against Children,Imprisonment,True,True,False,True,Neha Singh,Ananya Sen,1752,Case details here
+753,IPC,Crimes Against Children,Fine,False,True,True,False,Amit Sharma,Rahul Gupta,1753,Case details here
+754,PMLA,Offences Against the State,Fine,True,True,True,False,Amit Sharma,Sneha Roy,1754,Case details here
+755,PMLA,Offences Against the State,Both,True,False,False,False,Anil Kapoor,Rahul Gupta,1755,Case details here
+756,PMLA,Crimes Against Foreigners,Both,True,False,True,True,Amit Sharma,Kiran Malhotra,1756,Case details here
+757,SCST Act,Offences Against the State,Imprisonment,True,False,True,False,Priya Verma,Rahul Gupta,1757,Case details here
+758,CrPC,Crimes Against Women,Both,True,True,False,True,Neha Singh,Sandeep Yadav,1758,Case details here
+759,SCST Act,Crimes Against Children,Both,False,True,True,False,Amit Sharma,Sandeep Yadav,1759,Case details here
+760,CrPC,Economic Offence,Both,False,False,True,False,Vikram Choudhary,Ananya Sen,1760,Case details here
+761,PMLA,Crimes Against Women,Both,False,True,True,False,Amit Sharma,Ananya Sen,1761,Case details here
+762,PMLA,Cyber Crime,Fine,False,False,False,False,Vikram Choudhary,Sneha Roy,1762,Case details here
+763,SCST Act,Offences Against the State,Imprisonment,True,True,False,False,Anil Kapoor,Ananya Sen,1763,Case details here
+764,SCST Act,Crimes Against Women,Both,True,True,False,False,Neha Singh,Rahul Gupta,1764,Case details here
+765,CrPC,Crimes Against Women,Fine,True,False,True,True,Neha Singh,Sandeep Yadav,1765,Case details here
+766,NDPS,Cyber Crime,Fine,True,False,False,False,Neha Singh,Kiran Malhotra,1766,Case details here
+767,CrPC,Crimes Against SCs and STs,Fine,True,False,True,True,Neha Singh,Sandeep Yadav,1767,Case details here
+768,SCST Act,Crimes Against Children,Both,False,False,True,False,Priya Verma,Manoj Tiwari,1768,Case details here
+769,SCST Act,Economic Offence,Both,False,False,True,False,Anil Kapoor,Deepak Joshi,1769,Case details here
+770,IPC,Crimes Against Foreigners,Imprisonment,True,True,False,False,Anil Kapoor,Kiran Malhotra,1770,Case details here
+771,SCST Act,Crimes Against SCs and STs,Both,True,True,False,True,Rajesh Kumar,Manoj Tiwari,1771,Case details here
+772,IPC,Offences Against the State,Both,True,True,False,True,Priya Verma,Deepak Joshi,1772,Case details here
+773,NDPS,Crimes Against Women,Fine,False,False,False,False,Amit Sharma,Rahul Gupta,1773,Case details here
+774,CrPC,Cyber Crime,Imprisonment,True,False,True,True,Amit Sharma,Sneha Roy,1774,Case details here
+775,CrPC,Cyber Crime,Both,True,False,False,False,Sunita Mehta,Sandeep Yadav,1775,Case details here
+776,IPC,Crimes Against Children,Both,True,False,True,False,Vikram Choudhary,Manoj Tiwari,1776,Case details here
+777,CrPC,Crimes Against SCs and STs,Fine,False,False,False,True,Vikram Choudhary,Kiran Malhotra,1777,Case details here
+778,SCST Act,Crimes Against Foreigners,Fine,True,False,False,True,Amit Sharma,Ananya Sen,1778,Case details here
+779,PMLA,Crimes Against Children,Both,False,True,False,True,Vikram Choudhary,Sneha Roy,1779,Case details here
+780,IPC,Crimes Against Women,Imprisonment,False,True,True,True,Priya Verma,Manoj Tiwari,1780,Case details here
+781,CrPC,Crimes Against Children,Imprisonment,False,True,True,False,Sunita Mehta,Rahul Gupta,1781,Case details here
+782,IPC,Economic Offence,Fine,False,True,True,True,Rajesh Kumar,Sandeep Yadav,1782,Case details here
+783,IPC,Cyber Crime,Fine,False,True,True,True,Neha Singh,Rahul Gupta,1783,Case details here
+784,PMLA,Cyber Crime,Both,False,False,True,False,Rajesh Kumar,Sandeep Yadav,1784,Case details here
+785,SCST Act,Offences Against the State,Fine,True,False,False,True,Priya Verma,Sandeep Yadav,1785,Case details here
+786,IPC,Offences Against the State,Both,True,False,True,True,Rajesh Kumar,Sneha Roy,1786,Case details here
+787,CrPC,Crimes Against Foreigners,Imprisonment,True,False,True,True,Amit Sharma,Sandeep Yadav,1787,Case details here
+788,NDPS,Crimes Against Women,Imprisonment,False,False,True,True,Rajesh Kumar,Deepak Joshi,1788,Case details here
+789,IPC,Economic Offence,Both,True,False,True,False,Rajesh Kumar,Manoj Tiwari,1789,Case details here
+790,IPC,Crimes Against SCs and STs,Fine,False,True,False,False,Vikram Choudhary,Rahul Gupta,1790,Case details here
+791,PMLA,Crimes Against Children,Imprisonment,False,False,True,True,Priya Verma,Rahul Gupta,1791,Case details here
+792,SCST Act,Crimes Against Foreigners,Fine,False,False,False,True,Vikram Choudhary,Kiran Malhotra,1792,Case details here
+793,NDPS,Crimes Against Women,Imprisonment,True,False,False,False,Sunita Mehta,Rahul Gupta,1793,Case details here
+794,CrPC,Offences Against the State,Both,False,False,False,True,Sunita Mehta,Kiran Malhotra,1794,Case details here
+795,NDPS,Crimes Against Children,Both,False,True,True,True,Sunita Mehta,Ananya Sen,1795,Case details here
+796,CrPC,Offences Against the State,Both,True,True,False,True,Amit Sharma,Sandeep Yadav,1796,Case details here
+797,SCST Act,Crimes Against Children,Imprisonment,True,False,True,True,Sunita Mehta,Manoj Tiwari,1797,Case details here
+798,CrPC,Crimes Against SCs and STs,Fine,False,True,True,True,Neha Singh,Manoj Tiwari,1798,Case details here
+799,PMLA,Crimes Against Women,Fine,False,True,True,True,Vikram Choudhary,Deepak Joshi,1799,Case details here
+800,PMLA,Crimes Against Children,Fine,True,False,True,True,Vikram Choudhary,Ananya Sen,1800,Case details here
+801,PMLA,Economic Offence,Imprisonment,True,False,True,True,Sunita Mehta,Manoj Tiwari,1801,Case details here
+802,PMLA,Crimes Against Foreigners,Imprisonment,True,False,False,True,Vikram Choudhary,Ananya Sen,1802,Case details here
+803,NDPS,Cyber Crime,Imprisonment,False,False,False,False,Priya Verma,Sneha Roy,1803,Case details here
+804,SCST Act,Economic Offence,Imprisonment,True,False,True,False,Anil Kapoor,Sandeep Yadav,1804,Case details here
+805,CrPC,Economic Offence,Imprisonment,True,True,False,False,Sunita Mehta,Ananya Sen,1805,Case details here
+806,CrPC,Crimes Against Foreigners,Fine,True,False,True,True,Sunita Mehta,Manoj Tiwari,1806,Case details here
+807,PMLA,Cyber Crime,Imprisonment,False,False,False,True,Priya Verma,Sneha Roy,1807,Case details here
+808,PMLA,Economic Offence,Imprisonment,True,False,False,False,Priya Verma,Kiran Malhotra,1808,Case details here
+809,IPC,Crimes Against Children,Fine,True,True,False,True,Vikram Choudhary,Kiran Malhotra,1809,Case details here
+810,SCST Act,Crimes Against Children,Imprisonment,True,False,False,False,Amit Sharma,Deepak Joshi,1810,Case details here
+811,NDPS,Crimes Against Children,Fine,True,False,False,True,Rajesh Kumar,Sandeep Yadav,1811,Case details here
+812,CrPC,Cyber Crime,Fine,True,False,True,False,Anil Kapoor,Sneha Roy,1812,Case details here
+813,IPC,Economic Offence,Both,False,True,True,False,Priya Verma,Kiran Malhotra,1813,Case details here
+814,IPC,Cyber Crime,Both,False,False,False,False,Priya Verma,Manoj Tiwari,1814,Case details here
+815,CrPC,Crimes Against Children,Both,False,False,True,True,Sunita Mehta,Rahul Gupta,1815,Case details here
+816,NDPS,Crimes Against Foreigners,Both,True,False,False,False,Rajesh Kumar,Manoj Tiwari,1816,Case details here
+817,IPC,Economic Offence,Imprisonment,False,True,True,True,Amit Sharma,Kiran Malhotra,1817,Case details here
+818,IPC,Economic Offence,Both,False,False,False,True,Anil Kapoor,Sandeep Yadav,1818,Case details here
+819,SCST Act,Offences Against the State,Fine,False,False,False,True,Amit Sharma,Ananya Sen,1819,Case details here
+820,NDPS,Offences Against the State,Imprisonment,True,False,False,True,Anil Kapoor,Sandeep Yadav,1820,Case details here
+821,IPC,Crimes Against SCs and STs,Both,True,True,True,True,Anil Kapoor,Manoj Tiwari,1821,Case details here
+822,NDPS,Crimes Against Women,Fine,False,False,True,True,Vikram Choudhary,Deepak Joshi,1822,Case details here
+823,CrPC,Offences Against the State,Imprisonment,False,False,False,True,Sunita Mehta,Kiran Malhotra,1823,Case details here
+824,PMLA,Cyber Crime,Imprisonment,True,False,False,False,Rajesh Kumar,Sandeep Yadav,1824,Case details here
+825,IPC,Offences Against the State,Both,True,True,True,False,Priya Verma,Deepak Joshi,1825,Case details here
+826,SCST Act,Crimes Against SCs and STs,Imprisonment,False,True,True,False,Rajesh Kumar,Kiran Malhotra,1826,Case details here
+827,CrPC,Economic Offence,Fine,True,False,True,True,Sunita Mehta,Manoj Tiwari,1827,Case details here
+828,NDPS,Crimes Against SCs and STs,Imprisonment,False,True,True,True,Rajesh Kumar,Sneha Roy,1828,Case details here
+829,CrPC,Economic Offence,Fine,True,True,True,True,Amit Sharma,Deepak Joshi,1829,Case details here
+830,IPC,Crimes Against Foreigners,Imprisonment,False,True,False,True,Rajesh Kumar,Deepak Joshi,1830,Case details here
+831,NDPS,Crimes Against Foreigners,Both,False,False,True,False,Sunita Mehta,Rahul Gupta,1831,Case details here
+832,PMLA,Economic Offence,Fine,True,False,False,True,Amit Sharma,Ananya Sen,1832,Case details here
+833,CrPC,Crimes Against Women,Imprisonment,False,True,False,False,Anil Kapoor,Ananya Sen,1833,Case details here
+834,IPC,Offences Against the State,Imprisonment,False,True,True,True,Priya Verma,Kiran Malhotra,1834,Case details here
+835,SCST Act,Cyber Crime,Imprisonment,False,True,True,False,Neha Singh,Manoj Tiwari,1835,Case details here
+836,NDPS,Cyber Crime,Fine,True,False,False,True,Vikram Choudhary,Ananya Sen,1836,Case details here
+837,CrPC,Crimes Against Children,Fine,True,False,True,False,Priya Verma,Manoj Tiwari,1837,Case details here
+838,CrPC,Economic Offence,Fine,True,True,False,True,Vikram Choudhary,Manoj Tiwari,1838,Case details here
+839,PMLA,Cyber Crime,Both,False,True,True,False,Priya Verma,Manoj Tiwari,1839,Case details here
+840,PMLA,Crimes Against Women,Both,True,True,True,True,Sunita Mehta,Rahul Gupta,1840,Case details here
+841,SCST Act,Economic Offence,Fine,False,True,True,False,Sunita Mehta,Rahul Gupta,1841,Case details here
+842,SCST Act,Crimes Against Women,Imprisonment,False,False,False,False,Neha Singh,Kiran Malhotra,1842,Case details here
+843,IPC,Cyber Crime,Both,True,True,True,True,Amit Sharma,Sneha Roy,1843,Case details here
+844,IPC,Cyber Crime,Fine,True,False,False,False,Vikram Choudhary,Deepak Joshi,1844,Case details here
+845,SCST Act,Crimes Against Children,Imprisonment,False,True,True,True,Anil Kapoor,Deepak Joshi,1845,Case details here
+846,SCST Act,Cyber Crime,Both,False,True,False,True,Amit Sharma,Ananya Sen,1846,Case details here
+847,NDPS,Economic Offence,Imprisonment,True,True,True,True,Priya Verma,Sandeep Yadav,1847,Case details here
+848,PMLA,Crimes Against Foreigners,Imprisonment,True,True,False,False,Amit Sharma,Ananya Sen,1848,Case details here
+849,IPC,Economic Offence,Imprisonment,True,True,False,False,Rajesh Kumar,Kiran Malhotra,1849,Case details here
+850,PMLA,Economic Offence,Imprisonment,False,False,False,True,Neha Singh,Ananya Sen,1850,Case details here
+851,PMLA,Crimes Against Children,Both,False,True,False,True,Neha Singh,Sandeep Yadav,1851,Case details here
+852,SCST Act,Crimes Against Children,Both,False,True,False,False,Amit Sharma,Sneha Roy,1852,Case details here
+853,NDPS,Cyber Crime,Both,False,True,False,False,Rajesh Kumar,Sandeep Yadav,1853,Case details here
+854,CrPC,Crimes Against SCs and STs,Fine,False,False,True,False,Neha Singh,Deepak Joshi,1854,Case details here
+855,NDPS,Crimes Against SCs and STs,Both,True,False,False,True,Amit Sharma,Deepak Joshi,1855,Case details here
+856,NDPS,Crimes Against Children,Imprisonment,True,False,False,True,Priya Verma,Manoj Tiwari,1856,Case details here
+857,PMLA,Cyber Crime,Both,False,False,False,True,Sunita Mehta,Sneha Roy,1857,Case details here
+858,NDPS,Crimes Against SCs and STs,Imprisonment,False,True,True,True,Amit Sharma,Ananya Sen,1858,Case details here
+859,IPC,Cyber Crime,Fine,True,True,True,True,Neha Singh,Deepak Joshi,1859,Case details here
+860,PMLA,Cyber Crime,Imprisonment,True,True,True,False,Amit Sharma,Sandeep Yadav,1860,Case details here
+861,IPC,Cyber Crime,Imprisonment,True,False,False,True,Priya Verma,Rahul Gupta,1861,Case details here
+862,CrPC,Offences Against the State,Imprisonment,True,True,True,False,Amit Sharma,Sandeep Yadav,1862,Case details here
+863,PMLA,Economic Offence,Fine,False,True,True,False,Rajesh Kumar,Sneha Roy,1863,Case details here
+864,CrPC,Cyber Crime,Both,True,False,False,True,Amit Sharma,Sneha Roy,1864,Case details here
+865,PMLA,Offences Against the State,Both,False,False,False,False,Vikram Choudhary,Rahul Gupta,1865,Case details here
+866,SCST Act,Crimes Against Children,Fine,True,False,True,True,Vikram Choudhary,Kiran Malhotra,1866,Case details here
+867,NDPS,Crimes Against SCs and STs,Imprisonment,True,True,False,False,Neha Singh,Deepak Joshi,1867,Case details here
+868,SCST Act,Economic Offence,Both,True,True,False,True,Amit Sharma,Manoj Tiwari,1868,Case details here
+869,CrPC,Crimes Against Foreigners,Fine,False,False,False,True,Neha Singh,Ananya Sen,1869,Case details here
+870,NDPS,Crimes Against SCs and STs,Both,False,True,False,False,Amit Sharma,Sandeep Yadav,1870,Case details here
+871,PMLA,Economic Offence,Fine,True,False,True,True,Neha Singh,Rahul Gupta,1871,Case details here
+872,NDPS,Crimes Against Foreigners,Imprisonment,False,False,False,False,Rajesh Kumar,Rahul Gupta,1872,Case details here
+873,IPC,Crimes Against SCs and STs,Both,False,True,True,True,Anil Kapoor,Deepak Joshi,1873,Case details here
+874,NDPS,Economic Offence,Fine,True,False,True,True,Rajesh Kumar,Kiran Malhotra,1874,Case details here
+875,IPC,Crimes Against SCs and STs,Both,True,False,True,True,Anil Kapoor,Sandeep Yadav,1875,Case details here
+876,NDPS,Crimes Against SCs and STs,Both,False,False,True,False,Priya Verma,Deepak Joshi,1876,Case details here
+877,IPC,Crimes Against Foreigners,Both,False,True,False,False,Neha Singh,Sneha Roy,1877,Case details here
+878,CrPC,Crimes Against SCs and STs,Both,False,False,False,True,Sunita Mehta,Rahul Gupta,1878,Case details here
+879,SCST Act,Crimes Against SCs and STs,Fine,True,False,False,False,Amit Sharma,Sandeep Yadav,1879,Case details here
+880,PMLA,Crimes Against Foreigners,Imprisonment,True,False,True,True,Priya Verma,Sneha Roy,1880,Case details here
+881,NDPS,Crimes Against Children,Fine,False,False,True,False,Priya Verma,Rahul Gupta,1881,Case details here
+882,SCST Act,Cyber Crime,Fine,True,False,True,False,Neha Singh,Manoj Tiwari,1882,Case details here
+883,PMLA,Crimes Against Women,Fine,True,False,False,True,Anil Kapoor,Sneha Roy,1883,Case details here
+884,PMLA,Offences Against the State,Imprisonment,False,False,True,True,Neha Singh,Rahul Gupta,1884,Case details here
+885,IPC,Crimes Against Women,Both,False,True,False,True,Anil Kapoor,Ananya Sen,1885,Case details here
+886,CrPC,Crimes Against Women,Both,True,True,False,True,Sunita Mehta,Rahul Gupta,1886,Case details here
+887,CrPC,Economic Offence,Both,True,False,False,True,Amit Sharma,Kiran Malhotra,1887,Case details here
+888,SCST Act,Cyber Crime,Imprisonment,False,True,False,False,Vikram Choudhary,Ananya Sen,1888,Case details here
+889,CrPC,Economic Offence,Both,True,True,True,False,Vikram Choudhary,Sneha Roy,1889,Case details here
+890,NDPS,Cyber Crime,Imprisonment,True,False,False,True,Amit Sharma,Sneha Roy,1890,Case details here
+891,CrPC,Crimes Against Foreigners,Both,False,True,True,True,Anil Kapoor,Ananya Sen,1891,Case details here
+892,SCST Act,Crimes Against Foreigners,Both,False,False,False,True,Priya Verma,Kiran Malhotra,1892,Case details here
+893,CrPC,Cyber Crime,Fine,True,False,True,False,Sunita Mehta,Kiran Malhotra,1893,Case details here
+894,NDPS,Crimes Against SCs and STs,Imprisonment,True,False,True,True,Neha Singh,Deepak Joshi,1894,Case details here
+895,IPC,Crimes Against Children,Fine,True,False,False,True,Sunita Mehta,Sandeep Yadav,1895,Case details here
+896,SCST Act,Crimes Against SCs and STs,Fine,False,False,False,False,Anil Kapoor,Deepak Joshi,1896,Case details here
+897,IPC,Crimes Against Children,Fine,True,True,False,False,Priya Verma,Sandeep Yadav,1897,Case details here
+898,IPC,Economic Offence,Imprisonment,True,False,True,False,Vikram Choudhary,Deepak Joshi,1898,Case details here
+899,IPC,Crimes Against Children,Imprisonment,False,True,False,False,Anil Kapoor,Deepak Joshi,1899,Case details here
+900,PMLA,Economic Offence,Both,False,False,False,True,Sunita Mehta,Ananya Sen,1900,Case details here
+901,PMLA,Crimes Against Foreigners,Fine,True,False,True,False,Vikram Choudhary,Sneha Roy,1901,Case details here
+902,IPC,Crimes Against Women,Both,False,False,False,False,Neha Singh,Rahul Gupta,1902,Case details here
+903,SCST Act,Crimes Against Foreigners,Fine,False,True,True,True,Sunita Mehta,Sneha Roy,1903,Case details here
+904,NDPS,Crimes Against Foreigners,Imprisonment,True,False,False,True,Priya Verma,Rahul Gupta,1904,Case details here
+905,NDPS,Crimes Against Women,Imprisonment,False,False,True,True,Vikram Choudhary,Rahul Gupta,1905,Case details here
+906,CrPC,Crimes Against Children,Imprisonment,False,False,True,False,Neha Singh,Sandeep Yadav,1906,Case details here
+907,SCST Act,Crimes Against Children,Fine,True,False,False,True,Amit Sharma,Manoj Tiwari,1907,Case details here
+908,PMLA,Economic Offence,Imprisonment,False,True,True,False,Rajesh Kumar,Manoj Tiwari,1908,Case details here
+909,IPC,Crimes Against SCs and STs,Fine,True,False,False,False,Rajesh Kumar,Deepak Joshi,1909,Case details here
+910,CrPC,Economic Offence,Both,True,True,False,False,Priya Verma,Kiran Malhotra,1910,Case details here
+911,NDPS,Crimes Against SCs and STs,Fine,False,False,True,True,Amit Sharma,Manoj Tiwari,1911,Case details here
+912,PMLA,Crimes Against Foreigners,Both,False,True,False,False,Amit Sharma,Rahul Gupta,1912,Case details here
+913,PMLA,Crimes Against Women,Fine,False,True,True,True,Priya Verma,Deepak Joshi,1913,Case details here
+914,IPC,Crimes Against Foreigners,Both,True,False,True,True,Sunita Mehta,Deepak Joshi,1914,Case details here
+915,NDPS,Cyber Crime,Imprisonment,False,False,True,True,Neha Singh,Sandeep Yadav,1915,Case details here
+916,SCST Act,Crimes Against Children,Both,True,True,True,False,Anil Kapoor,Kiran Malhotra,1916,Case details here
+917,PMLA,Crimes Against SCs and STs,Imprisonment,False,False,True,False,Anil Kapoor,Rahul Gupta,1917,Case details here
+918,IPC,Economic Offence,Imprisonment,False,False,True,False,Vikram Choudhary,Deepak Joshi,1918,Case details here
+919,SCST Act,Crimes Against Women,Both,False,False,True,True,Vikram Choudhary,Kiran Malhotra,1919,Case details here
+920,NDPS,Crimes Against SCs and STs,Fine,True,True,True,False,Sunita Mehta,Ananya Sen,1920,Case details here
+921,PMLA,Economic Offence,Fine,False,False,False,False,Sunita Mehta,Ananya Sen,1921,Case details here
+922,SCST Act,Crimes Against Children,Fine,False,False,False,False,Priya Verma,Rahul Gupta,1922,Case details here
+923,SCST Act,Crimes Against Foreigners,Fine,True,False,True,False,Priya Verma,Kiran Malhotra,1923,Case details here
+924,SCST Act,Crimes Against Children,Fine,True,True,False,False,Amit Sharma,Sneha Roy,1924,Case details here
+925,PMLA,Offences Against the State,Imprisonment,False,False,False,True,Anil Kapoor,Kiran Malhotra,1925,Case details here
+926,PMLA,Cyber Crime,Fine,False,True,False,True,Priya Verma,Rahul Gupta,1926,Case details here
+927,CrPC,Offences Against the State,Imprisonment,False,False,False,True,Anil Kapoor,Ananya Sen,1927,Case details here
+928,NDPS,Crimes Against Women,Imprisonment,True,True,False,True,Amit Sharma,Sandeep Yadav,1928,Case details here
+929,IPC,Crimes Against SCs and STs,Imprisonment,True,False,False,False,Vikram Choudhary,Ananya Sen,1929,Case details here
+930,SCST Act,Crimes Against Women,Both,True,False,True,True,Priya Verma,Manoj Tiwari,1930,Case details here
+931,CrPC,Crimes Against Foreigners,Both,True,True,False,False,Anil Kapoor,Sneha Roy,1931,Case details here
+932,IPC,Economic Offence,Imprisonment,False,True,False,True,Vikram Choudhary,Sandeep Yadav,1932,Case details here
+933,CrPC,Crimes Against Children,Both,True,True,False,True,Sunita Mehta,Sandeep Yadav,1933,Case details here
+934,PMLA,Offences Against the State,Fine,True,False,False,True,Priya Verma,Sneha Roy,1934,Case details here
+935,SCST Act,Offences Against the State,Fine,True,False,True,False,Amit Sharma,Sandeep Yadav,1935,Case details here
+936,IPC,Crimes Against Foreigners,Imprisonment,False,False,True,False,Amit Sharma,Deepak Joshi,1936,Case details here
+937,IPC,Offences Against the State,Fine,False,False,True,True,Amit Sharma,Manoj Tiwari,1937,Case details here
+938,IPC,Crimes Against Foreigners,Imprisonment,True,True,True,False,Neha Singh,Deepak Joshi,1938,Case details here
+939,IPC,Crimes Against Women,Imprisonment,True,False,False,True,Rajesh Kumar,Manoj Tiwari,1939,Case details here
+940,IPC,Crimes Against Children,Fine,False,False,True,True,Anil Kapoor,Rahul Gupta,1940,Case details here
+941,CrPC,Crimes Against SCs and STs,Both,False,False,True,True,Priya Verma,Kiran Malhotra,1941,Case details here
+942,SCST Act,Economic Offence,Fine,False,False,True,False,Rajesh Kumar,Manoj Tiwari,1942,Case details here
+943,PMLA,Crimes Against SCs and STs,Fine,False,False,True,True,Sunita Mehta,Manoj Tiwari,1943,Case details here
+944,PMLA,Crimes Against Women,Imprisonment,False,False,False,True,Rajesh Kumar,Manoj Tiwari,1944,Case details here
+945,PMLA,Economic Offence,Imprisonment,False,False,True,True,Rajesh Kumar,Manoj Tiwari,1945,Case details here
+946,PMLA,Offences Against the State,Imprisonment,False,True,False,False,Rajesh Kumar,Sandeep Yadav,1946,Case details here
+947,CrPC,Cyber Crime,Imprisonment,False,False,True,True,Amit Sharma,Rahul Gupta,1947,Case details here
+948,NDPS,Crimes Against Women,Both,True,False,False,False,Sunita Mehta,Manoj Tiwari,1948,Case details here
+949,SCST Act,Crimes Against Women,Both,True,False,False,True,Rajesh Kumar,Rahul Gupta,1949,Case details here
+950,IPC,Crimes Against Children,Both,True,False,True,False,Anil Kapoor,Ananya Sen,1950,Case details here
+951,NDPS,Crimes Against SCs and STs,Imprisonment,True,True,True,True,Neha Singh,Sneha Roy,1951,Case details here
+952,PMLA,Crimes Against Women,Imprisonment,True,True,True,True,Sunita Mehta,Ananya Sen,1952,Case details here
+953,NDPS,Crimes Against Women,Imprisonment,True,True,True,False,Amit Sharma,Ananya Sen,1953,Case details here
+954,SCST Act,Offences Against the State,Both,False,True,False,False,Rajesh Kumar,Sneha Roy,1954,Case details here
+955,IPC,Offences Against the State,Imprisonment,False,True,False,True,Anil Kapoor,Sandeep Yadav,1955,Case details here
+956,IPC,Economic Offence,Fine,True,True,True,False,Rajesh Kumar,Ananya Sen,1956,Case details here
+957,SCST Act,Crimes Against Foreigners,Fine,True,False,True,True,Anil Kapoor,Sneha Roy,1957,Case details here
+958,SCST Act,Crimes Against Foreigners,Imprisonment,False,True,False,True,Sunita Mehta,Sandeep Yadav,1958,Case details here
+959,PMLA,Cyber Crime,Fine,False,True,True,True,Anil Kapoor,Ananya Sen,1959,Case details here
+960,IPC,Crimes Against Foreigners,Fine,False,False,False,False,Sunita Mehta,Kiran Malhotra,1960,Case details here
+961,NDPS,Crimes Against Children,Both,True,True,True,True,Sunita Mehta,Rahul Gupta,1961,Case details here
+962,CrPC,Cyber Crime,Imprisonment,False,False,False,False,Anil Kapoor,Sandeep Yadav,1962,Case details here
+963,CrPC,Economic Offence,Imprisonment,True,False,False,True,Neha Singh,Kiran Malhotra,1963,Case details here
+964,SCST Act,Offences Against the State,Both,True,True,False,False,Sunita Mehta,Sandeep Yadav,1964,Case details here
+965,PMLA,Crimes Against Foreigners,Fine,False,False,False,False,Anil Kapoor,Sneha Roy,1965,Case details here
+966,CrPC,Crimes Against SCs and STs,Fine,False,True,False,True,Anil Kapoor,Sneha Roy,1966,Case details here
+967,IPC,Offences Against the State,Imprisonment,True,True,True,False,Rajesh Kumar,Manoj Tiwari,1967,Case details here
+968,SCST Act,Crimes Against Children,Fine,False,False,False,True,Sunita Mehta,Deepak Joshi,1968,Case details here
+969,NDPS,Offences Against the State,Both,False,False,True,True,Priya Verma,Ananya Sen,1969,Case details here
+970,SCST Act,Crimes Against Children,Both,True,True,False,True,Amit Sharma,Sneha Roy,1970,Case details here
+971,NDPS,Crimes Against Children,Imprisonment,False,False,False,True,Neha Singh,Sandeep Yadav,1971,Case details here
+972,SCST Act,Crimes Against Children,Both,True,False,True,True,Anil Kapoor,Sneha Roy,1972,Case details here
+973,SCST Act,Economic Offence,Both,True,True,True,False,Neha Singh,Manoj Tiwari,1973,Case details here
+974,SCST Act,Crimes Against Children,Imprisonment,False,True,True,True,Sunita Mehta,Sandeep Yadav,1974,Case details here
+975,NDPS,Crimes Against Children,Both,True,False,True,False,Anil Kapoor,Ananya Sen,1975,Case details here
+976,NDPS,Crimes Against SCs and STs,Both,True,True,False,False,Sunita Mehta,Deepak Joshi,1976,Case details here
+977,SCST Act,Cyber Crime,Both,False,True,True,True,Priya Verma,Manoj Tiwari,1977,Case details here
+978,CrPC,Crimes Against Women,Fine,False,True,False,False,Amit Sharma,Ananya Sen,1978,Case details here
+979,PMLA,Cyber Crime,Imprisonment,False,True,True,True,Amit Sharma,Ananya Sen,1979,Case details here
+980,PMLA,Crimes Against Children,Imprisonment,True,True,True,False,Vikram Choudhary,Sandeep Yadav,1980,Case details here
+981,PMLA,Crimes Against SCs and STs,Imprisonment,True,True,False,False,Neha Singh,Sneha Roy,1981,Case details here
+982,NDPS,Offences Against the State,Fine,False,True,False,False,Priya Verma,Rahul Gupta,1982,Case details here
+983,NDPS,Crimes Against SCs and STs,Fine,True,False,True,True,Rajesh Kumar,Sandeep Yadav,1983,Case details here
+984,CrPC,Crimes Against Children,Imprisonment,False,True,False,False,Amit Sharma,Ananya Sen,1984,Case details here
+985,PMLA,Crimes Against SCs and STs,Fine,False,False,False,True,Neha Singh,Manoj Tiwari,1985,Case details here
+986,PMLA,Crimes Against Foreigners,Imprisonment,True,False,False,False,Anil Kapoor,Manoj Tiwari,1986,Case details here
+987,SCST Act,Crimes Against SCs and STs,Fine,False,False,False,False,Rajesh Kumar,Deepak Joshi,1987,Case details here
+988,NDPS,Crimes Against Children,Both,True,True,False,False,Amit Sharma,Ananya Sen,1988,Case details here
+989,PMLA,Economic Offence,Both,True,True,False,False,Vikram Choudhary,Rahul Gupta,1989,Case details here
+990,CrPC,Crimes Against Foreigners,Imprisonment,False,False,False,True,Vikram Choudhary,Deepak Joshi,1990,Case details here
+991,CrPC,Crimes Against SCs and STs,Fine,True,True,False,True,Anil Kapoor,Rahul Gupta,1991,Case details here
+992,PMLA,Crimes Against Women,Fine,False,False,True,False,Amit Sharma,Manoj Tiwari,1992,Case details here
+993,NDPS,Crimes Against Women,Both,True,True,False,False,Sunita Mehta,Rahul Gupta,1993,Case details here
+994,CrPC,Crimes Against SCs and STs,Both,True,True,True,True,Anil Kapoor,Sneha Roy,1994,Case details here
+995,SCST Act,Economic Offence,Fine,True,False,False,True,Neha Singh,Deepak Joshi,1995,Case details here
+996,CrPC,Offences Against the State,Fine,False,False,False,True,Vikram Choudhary,Deepak Joshi,1996,Case details here
+997,IPC,Crimes Against Children,Fine,True,False,False,True,Sunita Mehta,Sandeep Yadav,1997,Case details here
+998,IPC,Crimes Against Women,Fine,False,True,False,False,Neha Singh,Sneha Roy,1998,Case details here
+999,NDPS,Offences Against the State,Fine,True,False,True,False,Rajesh Kumar,Deepak Joshi,1999,Case details here
+1000,PMLA,Crimes Against SCs and STs,Fine,True,True,True,True,Priya Verma,Sandeep Yadav,2000,Case details here

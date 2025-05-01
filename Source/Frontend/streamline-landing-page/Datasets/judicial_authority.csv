@@ -1,0 +1,1001 @@
+case_id,statute,offense_category,risk_score,penalty_severity,bail_eligibility,fines_applicable
+1,NDPS,Crimes Against Children,0,50,False,True
+2,SCST Act,Crimes Against Children,0,351,False,True
+3,PMLA,Crimes Against Children,0,68,False,True
+4,SCST Act,Crimes Against Children,1,318,True,True
+5,SCST Act,Offences Against the State,0,142,False,True
+6,CrPC,Offences Against the State,1,172,False,False
+7,PMLA,Crimes Against Foreigners,2,357,False,False
+8,PMLA,Crimes Against SCs and STs,0,66,False,False
+9,PMLA,Cyber Crime,1,162,False,True
+10,SCST Act,Crimes Against Children,1,48,False,True
+11,NDPS,Crimes Against Foreigners,1,122,False,True
+12,PMLA,Crimes Against SCs and STs,0,183,False,False
+13,SCST Act,Cyber Crime,2,98,False,True
+14,CrPC,Economic Offence,2,28,False,True
+15,NDPS,Crimes Against Women,2,116,False,False
+16,CrPC,Offences Against the State,0,43,False,True
+17,NDPS,Economic Offence,3,41,False,False
+18,SCST Act,Cyber Crime,1,78,False,False
+19,IPC,Economic Offence,1,172,False,True
+20,NDPS,Crimes Against Women,0,49,False,False
+21,CrPC,Crimes Against Foreigners,2,51,False,True
+22,SCST Act,Cyber Crime,3,196,False,False
+23,NDPS,Economic Offence,1,210,True,True
+24,IPC,Offences Against the State,1,110,False,False
+25,IPC,Offences Against the State,2,140,False,True
+26,PMLA,Crimes Against SCs and STs,1,294,False,False
+27,PMLA,Economic Offence,1,130,True,False
+28,CrPC,Crimes Against Children,1,74,True,False
+29,NDPS,Economic Offence,0,255,False,True
+30,NDPS,Crimes Against Foreigners,2,5,False,True
+31,PMLA,Cyber Crime,2,2,False,False
+32,NDPS,Cyber Crime,1,44,True,True
+33,NDPS,Crimes Against Foreigners,2,336,False,False
+34,IPC,Economic Offence,0,57,False,True
+35,PMLA,Crimes Against Foreigners,0,66,False,False
+36,SCST Act,Crimes Against Women,2,222,False,True
+37,PMLA,Crimes Against Foreigners,2,98,False,False
+38,SCST Act,Offences Against the State,2,16,False,False
+39,IPC,Crimes Against Foreigners,3,336,False,False
+40,CrPC,Cyber Crime,1,153,False,False
+41,NDPS,Offences Against the State,2,117,False,True
+42,IPC,Cyber Crime,1,258,False,False
+43,NDPS,Crimes Against SCs and STs,2,152,False,True
+44,CrPC,Crimes Against Children,2,264,False,True
+45,CrPC,Cyber Crime,1,222,False,False
+46,IPC,Offences Against the State,2,80,False,True
+47,CrPC,Crimes Against SCs and STs,2,76,False,True
+48,SCST Act,Cyber Crime,1,60,False,True
+49,CrPC,Crimes Against Women,2,118,False,False
+50,NDPS,Crimes Against Foreigners,0,20,False,True
+51,NDPS,Crimes Against Children,2,99,False,True
+52,NDPS,Cyber Crime,0,64,False,False
+53,NDPS,Crimes Against SCs and STs,2,115,False,False
+54,SCST Act,Crimes Against Women,3,189,False,True
+55,PMLA,Economic Offence,1,49,False,False
+56,IPC,Crimes Against SCs and STs,1,64,False,True
+57,NDPS,Crimes Against Foreigners,1,64,False,True
+58,CrPC,Crimes Against SCs and STs,1,7,False,True
+59,NDPS,Crimes Against Women,1,63,True,False
+60,CrPC,Crimes Against SCs and STs,2,20,False,True
+61,CrPC,Crimes Against Women,2,78,False,False
+62,NDPS,Cyber Crime,1,68,False,False
+63,SCST Act,Crimes Against Women,2,110,False,True
+64,CrPC,Crimes Against Women,2,116,False,False
+65,CrPC,Crimes Against Children,1,86,False,False
+66,NDPS,Crimes Against Women,3,45,False,False
+67,CrPC,Crimes Against Women,2,312,False,False
+68,CrPC,Economic Offence,2,170,False,False
+69,NDPS,Cyber Crime,1,237,False,True
+70,NDPS,Crimes Against Foreigners,3,86,False,False
+71,IPC,Crimes Against Children,1,232,False,True
+72,SCST Act,Economic Offence,3,184,False,True
+73,SCST Act,Offences Against the State,2,28,False,True
+74,CrPC,Cyber Crime,1,27,False,True
+75,SCST Act,Cyber Crime,0,315,False,True
+76,CrPC,Offences Against the State,2,40,False,True
+77,IPC,Crimes Against Foreigners,1,116,False,False
+78,NDPS,Crimes Against Women,1,28,False,False
+79,NDPS,Economic Offence,1,26,False,False
+80,NDPS,Crimes Against SCs and STs,2,339,False,True
+81,SCST Act,Crimes Against Children,3,189,False,False
+82,IPC,Crimes Against SCs and STs,2,132,False,False
+83,SCST Act,Offences Against the State,0,25,False,False
+84,SCST Act,Cyber Crime,2,3,False,True
+85,IPC,Crimes Against Foreigners,0,216,False,False
+86,IPC,Cyber Crime,1,44,True,True
+87,IPC,Crimes Against Children,2,97,False,False
+88,IPC,Cyber Crime,2,42,False,True
+89,NDPS,Cyber Crime,1,348,False,True
+90,PMLA,Crimes Against Children,1,198,True,True
+91,PMLA,Economic Offence,2,12,False,False
+92,IPC,Economic Offence,1,39,True,False
+93,PMLA,Crimes Against Children,3,104,False,True
+94,PMLA,Crimes Against Foreigners,1,69,False,False
+95,IPC,Offences Against the State,0,267,False,True
+96,PMLA,Cyber Crime,2,100,False,True
+97,SCST Act,Crimes Against Foreigners,2,86,False,False
+98,CrPC,Cyber Crime,1,19,False,False
+99,CrPC,Offences Against the State,2,138,False,False
+100,IPC,Economic Offence,1,51,False,True
+101,NDPS,Crimes Against Foreigners,2,11,False,True
+102,IPC,Crimes Against Women,3,36,False,False
+103,NDPS,Crimes Against Women,1,222,False,True
+104,CrPC,Crimes Against Women,1,24,False,False
+105,IPC,Economic Offence,2,72,False,True
+106,SCST Act,Economic Offence,2,184,False,False
+107,PMLA,Offences Against the State,2,123,False,False
+108,NDPS,Cyber Crime,2,72,False,True
+109,PMLA,Offences Against the State,1,303,False,False
+110,PMLA,Offences Against the State,0,170,False,False
+111,IPC,Economic Offence,3,72,False,True
+112,PMLA,Crimes Against Women,2,110,False,False
+113,SCST Act,Crimes Against SCs and STs,1,18,True,True
+114,PMLA,Cyber Crime,2,141,False,False
+115,IPC,Economic Offence,1,30,False,True
+116,SCST Act,Crimes Against Women,0,48,False,False
+117,CrPC,Crimes Against Foreigners,2,110,False,False
+118,PMLA,Crimes Against SCs and STs,2,312,False,False
+119,IPC,Crimes Against SCs and STs,2,82,False,False
+120,CrPC,Economic Offence,1,84,False,True
+121,CrPC,Crimes Against Children,2,60,False,True
+122,NDPS,Cyber Crime,1,252,False,True
+123,SCST Act,Crimes Against SCs and STs,3,140,False,True
+124,PMLA,Economic Offence,1,36,False,True
+125,IPC,Economic Offence,2,4,False,True
+126,NDPS,Crimes Against Women,2,7,False,True
+127,SCST Act,Crimes Against Foreigners,2,240,False,False
+128,NDPS,Crimes Against Children,1,9,True,False
+129,SCST Act,Cyber Crime,3,218,False,False
+130,SCST Act,Offences Against the State,1,9,False,False
+131,PMLA,Crimes Against Foreigners,0,54,False,True
+132,SCST Act,Crimes Against Foreigners,2,228,False,True
+133,NDPS,Crimes Against Women,3,214,False,True
+134,SCST Act,Crimes Against SCs and STs,3,80,False,False
+135,PMLA,Crimes Against SCs and STs,0,102,False,True
+136,PMLA,Crimes Against Women,1,66,False,False
+137,NDPS,Economic Offence,1,276,True,True
+138,CrPC,Crimes Against SCs and STs,1,1,False,True
+139,CrPC,Crimes Against Children,2,357,False,True
+140,SCST Act,Cyber Crime,1,8,True,True
+141,IPC,Crimes Against Foreigners,2,202,False,False
+142,SCST Act,Crimes Against Foreigners,0,32,False,False
+143,NDPS,Crimes Against Children,1,48,False,True
+144,NDPS,Crimes Against SCs and STs,1,321,False,False
+145,NDPS,Crimes Against Foreigners,2,303,False,True
+146,NDPS,Offences Against the State,1,8,True,True
+147,NDPS,Cyber Crime,3,94,False,True
+148,PMLA,Cyber Crime,2,70,False,True
+149,CrPC,Crimes Against Foreigners,1,110,False,False
+150,NDPS,Crimes Against Women,2,236,False,True
+151,IPC,Crimes Against Foreigners,0,38,False,True
+152,IPC,Crimes Against Women,1,64,True,False
+153,IPC,Crimes Against Foreigners,2,18,False,True
+154,IPC,Offences Against the State,2,24,False,False
+155,PMLA,Economic Offence,0,33,False,True
+156,IPC,Cyber Crime,2,46,False,True
+157,NDPS,Crimes Against Foreigners,1,119,True,True
+158,SCST Act,Offences Against the State,2,16,False,True
+159,IPC,Crimes Against Women,2,1,False,True
+160,PMLA,Crimes Against Women,2,63,False,True
+161,PMLA,Cyber Crime,1,109,True,False
+162,IPC,Crimes Against Children,1,119,False,True
+163,SCST Act,Crimes Against Foreigners,3,117,False,False
+164,IPC,Crimes Against SCs and STs,3,63,False,False
+165,PMLA,Crimes Against Women,3,30,False,True
+166,CrPC,Economic Offence,1,39,True,False
+167,NDPS,Economic Offence,2,68,False,True
+168,PMLA,Crimes Against Women,0,4,False,False
+169,IPC,Crimes Against Children,1,56,True,True
+170,NDPS,Crimes Against Children,3,204,False,False
+171,IPC,Offences Against the State,2,190,False,False
+172,IPC,Economic Offence,1,177,False,True
+173,CrPC,Offences Against the State,2,238,False,False
+174,NDPS,Economic Offence,1,54,True,True
+175,NDPS,Crimes Against Foreigners,1,138,True,True
+176,CrPC,Crimes Against Foreigners,0,25,False,True
+177,PMLA,Crimes Against SCs and STs,1,3,False,True
+178,IPC,Crimes Against Foreigners,2,291,False,True
+179,SCST Act,Crimes Against SCs and STs,1,204,True,False
+180,IPC,Crimes Against Foreigners,1,25,True,False
+181,IPC,Cyber Crime,1,60,False,False
+182,PMLA,Crimes Against Foreigners,1,34,True,True
+183,IPC,Offences Against the State,2,52,False,False
+184,CrPC,Crimes Against Women,1,10,False,False
+185,CrPC,Offences Against the State,2,297,False,False
+186,NDPS,Crimes Against Women,1,61,True,False
+187,SCST Act,Crimes Against Children,1,92,False,False
+188,IPC,Offences Against the State,2,279,False,True
+189,IPC,Crimes Against Children,2,9,False,True
+190,PMLA,Crimes Against SCs and STs,2,232,False,False
+191,CrPC,Crimes Against SCs and STs,3,306,False,True
+192,SCST Act,Cyber Crime,1,150,False,True
+193,NDPS,Crimes Against Foreigners,2,6,False,False
+194,CrPC,Offences Against the State,0,249,False,False
+195,NDPS,Crimes Against Children,2,60,False,True
+196,PMLA,Crimes Against Women,1,44,False,False
+197,PMLA,Crimes Against SCs and STs,1,11,False,True
+198,IPC,Crimes Against Foreigners,2,66,False,True
+199,SCST Act,Crimes Against SCs and STs,2,47,False,False
+200,NDPS,Crimes Against Women,1,324,True,True
+201,CrPC,Crimes Against Foreigners,1,216,False,True
+202,PMLA,Crimes Against Foreigners,1,146,False,True
+203,IPC,Crimes Against Children,1,255,False,False
+204,IPC,Crimes Against Children,1,264,True,False
+205,NDPS,Offences Against the State,1,196,True,False
+206,PMLA,Offences Against the State,1,172,False,False
+207,SCST Act,Economic Offence,3,6,False,True
+208,PMLA,Economic Offence,1,152,False,False
+209,NDPS,Cyber Crime,1,184,False,False
+210,NDPS,Crimes Against SCs and STs,1,30,False,False
+211,PMLA,Offences Against the State,2,270,False,False
+212,NDPS,Crimes Against Children,1,112,False,True
+213,PMLA,Crimes Against Women,1,42,False,True
+214,CrPC,Crimes Against Children,2,56,False,True
+215,PMLA,Crimes Against SCs and STs,2,180,False,False
+216,PMLA,Economic Offence,3,62,False,False
+217,NDPS,Crimes Against Children,1,33,True,True
+218,NDPS,Cyber Crime,0,170,False,False
+219,IPC,Crimes Against SCs and STs,2,35,False,False
+220,IPC,Economic Offence,0,52,False,True
+221,CrPC,Crimes Against Women,3,68,False,True
+222,IPC,Economic Offence,1,41,False,False
+223,PMLA,Crimes Against Foreigners,2,153,False,False
+224,NDPS,Cyber Crime,0,141,False,False
+225,IPC,Crimes Against SCs and STs,2,246,False,True
+226,IPC,Crimes Against Women,1,174,True,True
+227,CrPC,Cyber Crime,1,150,True,True
+228,CrPC,Economic Offence,1,114,False,True
+229,PMLA,Cyber Crime,2,46,False,False
+230,NDPS,Crimes Against SCs and STs,2,144,False,True
+231,CrPC,Offences Against the State,3,66,False,True
+232,IPC,Cyber Crime,2,17,False,False
+233,NDPS,Crimes Against Foreigners,1,69,False,False
+234,NDPS,Cyber Crime,3,324,False,False
+235,IPC,Economic Offence,1,33,False,True
+236,CrPC,Economic Offence,1,282,False,False
+237,IPC,Crimes Against Women,1,45,False,False
+238,NDPS,Economic Offence,1,91,False,True
+239,SCST Act,Crimes Against Children,2,105,False,True
+240,SCST Act,Crimes Against SCs and STs,1,33,False,False
+241,PMLA,Crimes Against SCs and STs,1,252,False,True
+242,IPC,Offences Against the State,1,48,False,False
+243,IPC,Offences Against the State,1,102,False,False
+244,PMLA,Crimes Against SCs and STs,2,66,False,True
+245,PMLA,Crimes Against Foreigners,3,99,False,False
+246,PMLA,Offences Against the State,1,80,False,True
+247,NDPS,Crimes Against Women,1,84,False,True
+248,IPC,Economic Offence,1,94,False,True
+249,NDPS,Crimes Against SCs and STs,2,78,False,False
+250,PMLA,Offences Against the State,2,70,False,True
+251,IPC,Crimes Against SCs and STs,2,73,False,True
+252,NDPS,Crimes Against Children,2,40,False,False
+253,NDPS,Cyber Crime,2,3,False,False
+254,PMLA,Economic Offence,1,72,False,False
+255,IPC,Crimes Against SCs and STs,3,357,False,False
+256,PMLA,Cyber Crime,3,261,False,True
+257,IPC,Offences Against the State,2,126,False,True
+258,SCST Act,Cyber Crime,2,134,False,True
+259,CrPC,Economic Offence,3,8,False,False
+260,CrPC,Crimes Against SCs and STs,2,116,False,False
+261,CrPC,Crimes Against Children,1,25,False,True
+262,PMLA,Crimes Against Foreigners,1,47,True,False
+263,SCST Act,Offences Against the State,0,76,False,False
+264,IPC,Crimes Against SCs and STs,1,15,False,True
+265,NDPS,Economic Offence,1,126,True,True
+266,IPC,Offences Against the State,3,63,False,False
+267,NDPS,Crimes Against Women,3,297,False,False
+268,IPC,Cyber Crime,2,171,False,False
+269,SCST Act,Crimes Against Foreigners,2,234,False,True
+270,NDPS,Economic Offence,2,159,False,True
+271,PMLA,Crimes Against Women,1,46,False,True
+272,IPC,Crimes Against SCs and STs,1,348,False,True
+273,IPC,Crimes Against Children,2,42,False,True
+274,NDPS,Offences Against the State,1,300,False,False
+275,PMLA,Cyber Crime,0,76,False,False
+276,PMLA,Offences Against the State,2,34,False,False
+277,SCST Act,Crimes Against Foreigners,0,39,False,True
+278,PMLA,Crimes Against SCs and STs,1,18,False,True
+279,PMLA,Offences Against the State,2,198,False,True
+280,PMLA,Cyber Crime,3,231,False,False
+281,CrPC,Crimes Against SCs and STs,0,158,False,True
+282,SCST Act,Offences Against the State,1,82,False,True
+283,IPC,Crimes Against Children,2,115,False,False
+284,NDPS,Economic Offence,1,194,False,True
+285,IPC,Crimes Against SCs and STs,2,18,False,False
+286,SCST Act,Economic Offence,1,273,True,True
+287,NDPS,Crimes Against SCs and STs,1,23,False,True
+288,SCST Act,Crimes Against Children,2,177,False,False
+289,PMLA,Economic Offence,1,182,False,False
+290,NDPS,Crimes Against Women,1,196,False,False
+291,PMLA,Cyber Crime,2,46,False,False
+292,IPC,Crimes Against Women,1,76,True,False
+293,IPC,Offences Against the State,1,14,False,False
+294,NDPS,Crimes Against Children,1,200,True,True
+295,NDPS,Crimes Against Women,1,117,False,True
+296,SCST Act,Crimes Against SCs and STs,2,216,False,False
+297,SCST Act,Offences Against the State,1,124,True,True
+298,PMLA,Offences Against the State,1,70,False,False
+299,NDPS,Crimes Against Women,1,19,False,True
+300,IPC,Crimes Against Women,1,30,True,False
+301,SCST Act,Crimes Against Children,2,156,False,True
+302,SCST Act,Cyber Crime,2,84,False,True
+303,IPC,Crimes Against Women,1,226,False,True
+304,SCST Act,Crimes Against Foreigners,2,75,False,True
+305,PMLA,Crimes Against Women,3,40,False,True
+306,NDPS,Economic Offence,2,176,False,False
+307,IPC,Crimes Against SCs and STs,1,42,True,False
+308,NDPS,Crimes Against Foreigners,1,78,False,False
+309,SCST Act,Crimes Against Foreigners,0,204,False,True
+310,SCST Act,Economic Offence,1,87,True,False
+311,IPC,Economic Offence,1,44,False,True
+312,PMLA,Offences Against the State,2,144,False,True
+313,CrPC,Cyber Crime,2,166,False,True
+314,IPC,Crimes Against SCs and STs,2,110,False,False
+315,CrPC,Crimes Against Children,2,153,False,True
+316,CrPC,Crimes Against Foreigners,2,6,False,False
+317,PMLA,Crimes Against Children,2,42,False,False
+318,CrPC,Crimes Against Women,2,57,False,True
+319,CrPC,Crimes Against Women,2,73,False,True
+320,PMLA,Crimes Against Children,1,84,False,False
+321,CrPC,Crimes Against Women,3,168,False,False
+322,CrPC,Cyber Crime,0,45,False,False
+323,CrPC,Economic Offence,2,213,False,False
+324,IPC,Crimes Against Women,1,78,False,False
+325,IPC,Offences Against the State,1,63,False,False
+326,IPC,Crimes Against Women,1,146,False,True
+327,PMLA,Crimes Against SCs and STs,3,119,False,False
+328,SCST Act,Cyber Crime,2,57,False,False
+329,CrPC,Crimes Against SCs and STs,2,141,False,False
+330,CrPC,Crimes Against SCs and STs,3,348,False,False
+331,PMLA,Offences Against the State,3,42,False,True
+332,CrPC,Cyber Crime,1,76,False,True
+333,IPC,Cyber Crime,1,53,False,False
+334,SCST Act,Cyber Crime,0,122,False,False
+335,NDPS,Cyber Crime,1,36,False,False
+336,CrPC,Cyber Crime,1,40,False,True
+337,IPC,Offences Against the State,2,81,False,True
+338,NDPS,Crimes Against Women,1,60,False,True
+339,SCST Act,Crimes Against SCs and STs,2,9,False,True
+340,NDPS,Cyber Crime,2,128,False,True
+341,IPC,Crimes Against Foreigners,3,99,False,True
+342,NDPS,Crimes Against Women,1,156,False,False
+343,PMLA,Crimes Against Women,2,89,False,True
+344,NDPS,Crimes Against SCs and STs,2,28,False,True
+345,CrPC,Offences Against the State,1,225,False,False
+346,CrPC,Crimes Against Children,1,106,True,True
+347,PMLA,Crimes Against Children,0,198,False,False
+348,IPC,Crimes Against Women,1,105,True,True
+349,CrPC,Economic Offence,2,177,False,False
+350,SCST Act,Economic Offence,3,78,False,False
+351,CrPC,Crimes Against SCs and STs,3,94,False,False
+352,CrPC,Crimes Against Children,2,123,False,False
+353,IPC,Crimes Against Women,0,204,False,False
+354,NDPS,Offences Against the State,2,136,False,True
+355,CrPC,Crimes Against Children,1,276,False,True
+356,PMLA,Crimes Against Women,3,16,False,False
+357,NDPS,Crimes Against Women,0,4,False,False
+358,SCST Act,Cyber Crime,3,210,False,False
+359,IPC,Offences Against the State,1,330,False,True
+360,SCST Act,Cyber Crime,2,86,False,False
+361,NDPS,Crimes Against SCs and STs,2,82,False,False
+362,NDPS,Cyber Crime,3,55,False,False
+363,NDPS,Crimes Against Foreigners,1,16,True,False
+364,SCST Act,Cyber Crime,1,279,False,True
+365,NDPS,Crimes Against Foreigners,2,62,False,False
+366,SCST Act,Crimes Against Children,2,113,False,False
+367,NDPS,Economic Offence,2,144,False,True
+368,PMLA,Crimes Against Women,3,60,False,False
+369,NDPS,Crimes Against Foreigners,2,12,False,False
+370,SCST Act,Offences Against the State,2,105,False,True
+371,CrPC,Cyber Crime,2,11,False,True
+372,NDPS,Crimes Against Foreigners,3,64,False,True
+373,CrPC,Offences Against the State,2,220,False,False
+374,PMLA,Economic Offence,1,50,False,False
+375,IPC,Economic Offence,1,255,True,True
+376,PMLA,Cyber Crime,1,21,False,True
+377,NDPS,Crimes Against SCs and STs,0,138,False,True
+378,CrPC,Cyber Crime,1,96,False,False
+379,CrPC,Crimes Against Children,0,60,False,False
+380,SCST Act,Crimes Against Foreigners,0,202,False,True
+381,CrPC,Crimes Against Women,1,67,False,False
+382,SCST Act,Crimes Against SCs and STs,0,88,False,True
+383,IPC,Cyber Crime,1,99,True,False
+384,NDPS,Offences Against the State,2,234,False,False
+385,SCST Act,Crimes Against SCs and STs,1,146,False,False
+386,IPC,Crimes Against Foreigners,3,122,False,False
+387,CrPC,Crimes Against SCs and STs,2,27,False,True
+388,CrPC,Crimes Against Foreigners,0,136,False,False
+389,IPC,Cyber Crime,3,70,False,False
+390,CrPC,Crimes Against Foreigners,1,81,False,True
+391,IPC,Crimes Against SCs and STs,1,294,True,False
+392,SCST Act,Offences Against the State,2,176,False,True
+393,SCST Act,Economic Offence,0,288,False,True
+394,IPC,Crimes Against SCs and STs,2,130,False,False
+395,SCST Act,Crimes Against Foreigners,3,16,False,False
+396,SCST Act,Economic Offence,1,90,False,True
+397,SCST Act,Crimes Against Foreigners,1,87,False,True
+398,PMLA,Offences Against the State,2,47,False,True
+399,NDPS,Crimes Against Foreigners,3,40,False,False
+400,CrPC,Cyber Crime,1,228,True,True
+401,PMLA,Crimes Against Women,3,162,False,True
+402,SCST Act,Crimes Against SCs and STs,3,76,False,True
+403,IPC,Crimes Against Women,1,138,False,False
+404,SCST Act,Crimes Against Foreigners,2,94,False,True
+405,NDPS,Offences Against the State,2,30,False,False
+406,SCST Act,Crimes Against SCs and STs,1,210,False,False
+407,IPC,Crimes Against Foreigners,1,19,True,True
+408,NDPS,Economic Offence,0,78,False,False
+409,SCST Act,Crimes Against Children,2,52,False,True
+410,NDPS,Crimes Against Foreigners,1,279,True,False
+411,CrPC,Crimes Against Women,1,44,True,False
+412,CrPC,Crimes Against SCs and STs,2,104,False,True
+413,SCST Act,Crimes Against Women,1,63,True,True
+414,NDPS,Crimes Against SCs and STs,0,153,False,True
+415,IPC,Crimes Against Foreigners,1,76,True,False
+416,SCST Act,Cyber Crime,1,20,True,False
+417,CrPC,Economic Offence,1,29,False,True
+418,CrPC,Crimes Against Foreigners,1,51,True,True
+419,SCST Act,Crimes Against Women,0,8,False,False
+420,NDPS,Crimes Against Children,2,55,False,False
+421,CrPC,Crimes Against Children,2,142,False,False
+422,NDPS,Offences Against the State,3,184,False,True
+423,CrPC,Crimes Against SCs and STs,2,56,False,False
+424,CrPC,Crimes Against Women,2,12,False,True
+425,PMLA,Offences Against the State,1,22,False,False
+426,CrPC,Crimes Against Women,2,76,False,False
+427,IPC,Crimes Against SCs and STs,1,90,False,True
+428,SCST Act,Crimes Against Foreigners,3,134,False,True
+429,SCST Act,Crimes Against Foreigners,1,86,False,True
+430,NDPS,Crimes Against Children,2,216,False,False
+431,CrPC,Crimes Against Foreigners,0,66,False,False
+432,IPC,Crimes Against Foreigners,0,264,False,False
+433,NDPS,Cyber Crime,2,68,False,True
+434,PMLA,Crimes Against Children,2,91,False,False
+435,NDPS,Offences Against the State,1,110,True,True
+436,NDPS,Economic Offence,2,105,False,True
+437,CrPC,Cyber Crime,1,1,False,True
+438,PMLA,Offences Against the State,2,144,False,False
+439,NDPS,Crimes Against SCs and STs,3,261,False,False
+440,IPC,Cyber Crime,1,38,False,True
+441,IPC,Offences Against the State,1,6,False,False
+442,SCST Act,Crimes Against SCs and STs,3,86,False,True
+443,PMLA,Crimes Against Children,2,75,False,True
+444,PMLA,Economic Offence,3,246,False,False
+445,SCST Act,Crimes Against SCs and STs,2,34,False,True
+446,NDPS,Crimes Against Foreigners,1,183,True,True
+447,PMLA,Crimes Against Women,0,24,False,False
+448,IPC,Crimes Against SCs and STs,1,12,False,True
+449,IPC,Crimes Against SCs and STs,0,270,False,True
+450,CrPC,Economic Offence,2,54,False,True
+451,PMLA,Crimes Against Women,2,24,False,True
+452,NDPS,Crimes Against Foreigners,0,166,False,True
+453,SCST Act,Offences Against the State,1,318,True,True
+454,SCST Act,Offences Against the State,2,195,False,True
+455,NDPS,Crimes Against SCs and STs,1,114,True,False
+456,CrPC,Crimes Against Women,1,93,False,False
+457,SCST Act,Crimes Against Women,2,218,False,True
+458,PMLA,Crimes Against Foreigners,2,339,False,True
+459,CrPC,Economic Offence,2,99,False,False
+460,PMLA,Crimes Against Children,3,80,False,False
+461,IPC,Offences Against the State,1,28,False,False
+462,CrPC,Economic Offence,2,70,False,False
+463,SCST Act,Cyber Crime,0,48,False,False
+464,CrPC,Offences Against the State,2,327,False,True
+465,CrPC,Economic Offence,0,168,False,False
+466,CrPC,Offences Against the State,0,112,False,False
+467,CrPC,Crimes Against Children,1,98,False,False
+468,PMLA,Cyber Crime,1,26,False,True
+469,IPC,Crimes Against Children,2,122,False,True
+470,NDPS,Crimes Against Foreigners,1,306,False,True
+471,CrPC,Cyber Crime,3,147,False,True
+472,SCST Act,Crimes Against SCs and STs,0,92,False,True
+473,CrPC,Economic Offence,1,113,True,True
+474,SCST Act,Cyber Crime,2,186,False,False
+475,PMLA,Crimes Against Foreigners,1,8,True,True
+476,SCST Act,Crimes Against Foreigners,1,129,False,True
+477,NDPS,Crimes Against Children,1,40,True,False
+478,IPC,Offences Against the State,2,291,False,True
+479,SCST Act,Cyber Crime,2,180,False,False
+480,SCST Act,Economic Offence,1,117,False,False
+481,IPC,Cyber Crime,3,170,False,True
+482,NDPS,Crimes Against Women,1,234,True,False
+483,CrPC,Offences Against the State,1,98,True,False
+484,SCST Act,Economic Offence,2,128,False,False
+485,IPC,Economic Offence,0,62,False,False
+486,PMLA,Crimes Against SCs and STs,2,212,False,True
+487,IPC,Crimes Against Children,2,107,False,False
+488,PMLA,Crimes Against SCs and STs,2,54,False,True
+489,NDPS,Economic Offence,0,210,False,False
+490,CrPC,Offences Against the State,2,9,False,False
+491,IPC,Cyber Crime,1,264,True,False
+492,SCST Act,Cyber Crime,3,74,False,True
+493,NDPS,Offences Against the State,3,49,False,True
+494,IPC,Economic Offence,2,82,False,True
+495,SCST Act,Crimes Against Foreigners,3,34,False,False
+496,IPC,Cyber Crime,2,176,False,False
+497,PMLA,Crimes Against Foreigners,0,21,False,False
+498,IPC,Cyber Crime,2,153,False,False
+499,IPC,Cyber Crime,2,177,False,True
+500,IPC,Crimes Against Children,2,39,False,False
+501,NDPS,Crimes Against Children,0,110,False,True
+502,IPC,Crimes Against Women,3,41,False,False
+503,SCST Act,Crimes Against SCs and STs,1,39,False,True
+504,PMLA,Offences Against the State,1,13,True,True
+505,PMLA,Offences Against the State,1,128,False,False
+506,IPC,Offences Against the State,3,11,False,False
+507,NDPS,Crimes Against Women,0,220,False,True
+508,NDPS,Crimes Against Children,3,19,False,False
+509,SCST Act,Economic Offence,2,33,False,False
+510,IPC,Crimes Against Foreigners,2,77,False,True
+511,PMLA,Crimes Against Foreigners,3,46,False,True
+512,NDPS,Economic Offence,3,135,False,True
+513,IPC,Crimes Against Women,3,2,False,True
+514,NDPS,Economic Offence,2,80,False,False
+515,NDPS,Offences Against the State,2,108,False,True
+516,PMLA,Crimes Against SCs and STs,0,57,False,True
+517,CrPC,Cyber Crime,1,152,True,True
+518,SCST Act,Crimes Against Foreigners,3,72,False,False
+519,SCST Act,Crimes Against Children,1,216,False,True
+520,PMLA,Crimes Against Children,2,122,False,False
+521,NDPS,Crimes Against Women,1,234,False,True
+522,IPC,Crimes Against Children,2,327,False,True
+523,NDPS,Offences Against the State,1,36,False,False
+524,PMLA,Crimes Against Foreigners,1,183,False,True
+525,SCST Act,Economic Offence,2,336,False,True
+526,NDPS,Offences Against the State,1,33,False,False
+527,SCST Act,Crimes Against Women,3,135,False,True
+528,IPC,Offences Against the State,1,180,True,True
+529,SCST Act,Economic Offence,2,206,False,True
+530,SCST Act,Crimes Against SCs and STs,1,92,True,True
+531,CrPC,Crimes Against Women,1,138,False,False
+532,CrPC,Crimes Against SCs and STs,2,16,False,True
+533,CrPC,Cyber Crime,2,75,False,False
+534,SCST Act,Crimes Against SCs and STs,1,182,False,True
+535,PMLA,Cyber Crime,2,46,False,False
+536,SCST Act,Cyber Crime,2,261,False,True
+537,PMLA,Crimes Against SCs and STs,2,90,False,False
+538,PMLA,Crimes Against Women,1,109,True,True
+539,CrPC,Economic Offence,1,141,False,False
+540,NDPS,Offences Against the State,1,261,True,False
+541,IPC,Offences Against the State,0,49,False,True
+542,CrPC,Economic Offence,2,141,False,False
+543,CrPC,Crimes Against Foreigners,2,84,False,True
+544,NDPS,Crimes Against Foreigners,2,82,False,True
+545,IPC,Cyber Crime,2,36,False,True
+546,SCST Act,Cyber Crime,1,132,False,True
+547,SCST Act,Crimes Against Women,1,204,False,True
+548,CrPC,Crimes Against Children,2,282,False,False
+549,IPC,Crimes Against SCs and STs,1,33,False,True
+550,CrPC,Cyber Crime,1,108,False,True
+551,PMLA,Offences Against the State,3,82,False,True
+552,CrPC,Crimes Against Women,1,101,True,True
+553,CrPC,Crimes Against SCs and STs,2,57,False,True
+554,SCST Act,Crimes Against Women,1,111,False,True
+555,SCST Act,Crimes Against SCs and STs,0,56,False,False
+556,SCST Act,Crimes Against SCs and STs,0,120,False,False
+557,PMLA,Economic Offence,2,168,False,True
+558,SCST Act,Cyber Crime,2,339,False,False
+559,IPC,Crimes Against Women,1,97,False,True
+560,NDPS,Crimes Against Women,2,228,False,True
+561,IPC,Economic Offence,1,230,False,True
+562,IPC,Offences Against the State,2,15,False,True
+563,SCST Act,Offences Against the State,2,123,False,True
+564,NDPS,Crimes Against Foreigners,1,117,False,False
+565,NDPS,Cyber Crime,1,6,False,False
+566,NDPS,Cyber Crime,2,126,False,False
+567,PMLA,Crimes Against Children,3,58,False,False
+568,SCST Act,Economic Offence,2,315,False,True
+569,NDPS,Offences Against the State,0,74,False,False
+570,PMLA,Crimes Against SCs and STs,2,66,False,True
+571,CrPC,Crimes Against Women,1,102,False,False
+572,CrPC,Cyber Crime,1,75,False,False
+573,PMLA,Crimes Against Women,3,154,False,False
+574,PMLA,Crimes Against Women,1,30,True,False
+575,SCST Act,Crimes Against Children,2,28,False,True
+576,SCST Act,Offences Against the State,3,164,False,False
+577,CrPC,Cyber Crime,3,153,False,False
+578,NDPS,Crimes Against Women,2,118,False,True
+579,CrPC,Cyber Crime,1,146,False,True
+580,NDPS,Crimes Against SCs and STs,0,78,False,False
+581,NDPS,Crimes Against Children,2,84,False,True
+582,SCST Act,Crimes Against SCs and STs,3,3,False,True
+583,IPC,Cyber Crime,1,168,False,True
+584,IPC,Crimes Against Foreigners,1,210,False,False
+585,PMLA,Cyber Crime,2,54,False,True
+586,SCST Act,Offences Against the State,1,351,True,False
+587,NDPS,Crimes Against Women,1,2,True,False
+588,IPC,Crimes Against Women,2,93,False,False
+589,NDPS,Crimes Against SCs and STs,2,38,False,False
+590,IPC,Crimes Against Children,1,3,True,True
+591,IPC,Crimes Against Foreigners,2,32,False,False
+592,IPC,Economic Offence,1,188,False,True
+593,SCST Act,Crimes Against Women,0,40,False,False
+594,CrPC,Offences Against the State,3,2,False,True
+595,NDPS,Crimes Against SCs and STs,1,81,True,False
+596,SCST Act,Crimes Against SCs and STs,2,82,False,True
+597,SCST Act,Economic Offence,2,12,False,False
+598,SCST Act,Offences Against the State,2,35,False,False
+599,SCST Act,Crimes Against Children,0,107,False,True
+600,SCST Act,Offences Against the State,2,195,False,False
+601,PMLA,Crimes Against Children,2,55,False,False
+602,NDPS,Offences Against the State,3,135,False,False
+603,SCST Act,Offences Against the State,1,237,False,True
+604,NDPS,Cyber Crime,0,90,False,False
+605,PMLA,Crimes Against SCs and STs,2,303,False,False
+606,PMLA,Offences Against the State,2,85,False,True
+607,NDPS,Economic Offence,1,124,False,True
+608,IPC,Offences Against the State,2,98,False,True
+609,CrPC,Crimes Against Women,2,190,False,True
+610,IPC,Crimes Against SCs and STs,2,50,False,True
+611,IPC,Crimes Against Women,1,69,False,False
+612,IPC,Crimes Against SCs and STs,1,24,True,False
+613,SCST Act,Crimes Against Women,1,38,False,False
+614,PMLA,Offences Against the State,0,28,False,True
+615,IPC,Offences Against the State,2,42,False,False
+616,PMLA,Cyber Crime,2,108,False,True
+617,NDPS,Economic Offence,2,107,False,True
+618,CrPC,Crimes Against Women,1,36,True,False
+619,NDPS,Crimes Against Children,1,36,False,True
+620,NDPS,Cyber Crime,1,99,False,True
+621,SCST Act,Crimes Against Women,0,45,False,False
+622,CrPC,Crimes Against Women,0,119,False,True
+623,NDPS,Cyber Crime,2,73,False,True
+624,NDPS,Offences Against the State,2,53,False,False
+625,CrPC,Crimes Against Women,1,102,False,True
+626,CrPC,Offences Against the State,2,60,False,True
+627,NDPS,Cyber Crime,2,60,False,False
+628,CrPC,Offences Against the State,1,108,False,False
+629,NDPS,Crimes Against SCs and STs,1,196,False,False
+630,NDPS,Crimes Against Children,0,64,False,False
+631,SCST Act,Crimes Against Foreigners,1,134,True,True
+632,IPC,Crimes Against Women,3,67,False,True
+633,NDPS,Economic Offence,3,84,False,False
+634,PMLA,Crimes Against Children,2,132,False,True
+635,IPC,Crimes Against Foreigners,3,158,False,True
+636,IPC,Offences Against the State,0,123,False,False
+637,IPC,Crimes Against Women,1,126,False,False
+638,SCST Act,Offences Against the State,1,23,True,True
+639,NDPS,Crimes Against SCs and STs,3,312,False,False
+640,SCST Act,Cyber Crime,2,75,False,False
+641,NDPS,Crimes Against Women,1,144,False,False
+642,SCST Act,Crimes Against Foreigners,3,32,False,True
+643,SCST Act,Crimes Against Foreigners,1,171,False,False
+644,PMLA,Crimes Against SCs and STs,1,118,False,True
+645,SCST Act,Crimes Against SCs and STs,1,100,False,True
+646,CrPC,Crimes Against Women,1,99,False,True
+647,PMLA,Offences Against the State,3,24,False,False
+648,SCST Act,Economic Offence,0,39,False,False
+649,IPC,Crimes Against Foreigners,1,34,False,False
+650,CrPC,Crimes Against Foreigners,3,168,False,False
+651,CrPC,Crimes Against SCs and STs,2,84,False,False
+652,CrPC,Crimes Against Children,1,37,False,True
+653,PMLA,Crimes Against SCs and STs,2,7,False,True
+654,SCST Act,Economic Offence,3,204,False,True
+655,SCST Act,Offences Against the State,0,111,False,False
+656,IPC,Offences Against the State,2,56,False,True
+657,IPC,Crimes Against Children,2,65,False,True
+658,CrPC,Crimes Against Foreigners,3,65,False,False
+659,IPC,Crimes Against SCs and STs,1,94,False,False
+660,PMLA,Offences Against the State,1,60,False,True
+661,SCST Act,Economic Offence,2,38,False,True
+662,CrPC,Crimes Against Women,1,87,False,False
+663,IPC,Cyber Crime,2,222,False,False
+664,PMLA,Cyber Crime,1,180,False,False
+665,PMLA,Cyber Crime,2,54,False,False
+666,IPC,Crimes Against Foreigners,2,276,False,True
+667,SCST Act,Crimes Against SCs and STs,1,105,True,True
+668,IPC,Crimes Against Children,3,129,False,False
+669,CrPC,Offences Against the State,2,222,False,True
+670,IPC,Crimes Against Women,2,95,False,True
+671,PMLA,Economic Offence,3,91,False,False
+672,IPC,Crimes Against Women,2,22,False,True
+673,SCST Act,Economic Offence,0,98,False,True
+674,NDPS,Crimes Against Foreigners,1,226,True,True
+675,IPC,Crimes Against SCs and STs,1,76,False,False
+676,SCST Act,Cyber Crime,0,192,False,False
+677,SCST Act,Crimes Against SCs and STs,1,69,False,True
+678,PMLA,Crimes Against Foreigners,1,24,False,False
+679,SCST Act,Crimes Against Children,1,34,False,False
+680,SCST Act,Crimes Against Children,1,48,False,False
+681,SCST Act,Crimes Against Foreigners,2,232,False,True
+682,SCST Act,Economic Offence,0,168,False,True
+683,CrPC,Offences Against the State,2,152,False,False
+684,CrPC,Offences Against the State,1,306,False,True
+685,PMLA,Economic Offence,1,65,True,True
+686,IPC,Crimes Against Children,2,62,False,True
+687,SCST Act,Crimes Against Children,1,8,False,True
+688,IPC,Crimes Against Children,1,113,False,True
+689,IPC,Crimes Against SCs and STs,2,109,False,False
+690,PMLA,Crimes Against Children,1,50,False,True
+691,SCST Act,Crimes Against Women,2,138,False,True
+692,SCST Act,Cyber Crime,1,90,False,True
+693,NDPS,Crimes Against Children,2,176,False,False
+694,IPC,Economic Offence,2,177,False,False
+695,IPC,Cyber Crime,2,134,False,False
+696,CrPC,Crimes Against SCs and STs,2,150,False,True
+697,NDPS,Economic Offence,1,45,True,False
+698,CrPC,Cyber Crime,3,12,False,False
+699,CrPC,Economic Offence,2,52,False,False
+700,CrPC,Crimes Against SCs and STs,3,54,False,False
+701,PMLA,Crimes Against Women,2,46,False,True
+702,PMLA,Crimes Against SCs and STs,2,118,False,False
+703,CrPC,Crimes Against SCs and STs,0,321,False,False
+704,NDPS,Economic Offence,0,128,False,True
+705,IPC,Crimes Against Foreigners,2,273,False,True
+706,NDPS,Offences Against the State,2,212,False,False
+707,SCST Act,Crimes Against Children,2,153,False,True
+708,PMLA,Crimes Against Children,1,50,False,False
+709,IPC,Crimes Against Women,0,12,False,True
+710,IPC,Crimes Against Women,2,177,False,True
+711,SCST Act,Crimes Against Children,3,15,False,False
+712,SCST Act,Offences Against the State,1,117,False,True
+713,CrPC,Crimes Against Children,1,90,False,False
+714,PMLA,Crimes Against Foreigners,0,84,False,True
+715,PMLA,Offences Against the State,1,202,True,False
+716,NDPS,Crimes Against Women,2,37,False,True
+717,CrPC,Cyber Crime,1,84,False,True
+718,CrPC,Economic Offence,2,202,False,True
+719,CrPC,Crimes Against Foreigners,2,70,False,True
+720,CrPC,Crimes Against Foreigners,1,87,False,True
+721,PMLA,Crimes Against Women,2,18,False,False
+722,PMLA,Crimes Against Women,2,136,False,True
+723,CrPC,Crimes Against SCs and STs,3,18,False,False
+724,NDPS,Crimes Against Foreigners,2,73,False,False
+725,IPC,Crimes Against SCs and STs,2,339,False,False
+726,IPC,Crimes Against SCs and STs,0,58,False,True
+727,NDPS,Economic Offence,2,154,False,False
+728,CrPC,Crimes Against SCs and STs,2,177,False,True
+729,PMLA,Offences Against the State,2,141,False,False
+730,IPC,Crimes Against Children,2,116,False,False
+731,SCST Act,Cyber Crime,2,17,False,False
+732,SCST Act,Crimes Against Women,1,327,False,False
+733,NDPS,Offences Against the State,1,192,False,False
+734,CrPC,Cyber Crime,2,112,False,True
+735,IPC,Crimes Against Foreigners,1,22,False,False
+736,CrPC,Crimes Against Foreigners,2,136,False,False
+737,IPC,Crimes Against Foreigners,1,69,False,True
+738,NDPS,Offences Against the State,1,74,True,True
+739,NDPS,Offences Against the State,2,210,False,True
+740,SCST Act,Crimes Against Women,1,98,False,False
+741,CrPC,Crimes Against Children,2,39,False,False
+742,SCST Act,Crimes Against SCs and STs,2,102,False,False
+743,CrPC,Crimes Against Foreigners,0,327,False,False
+744,SCST Act,Economic Offence,2,172,False,False
+745,PMLA,Crimes Against Children,3,106,False,False
+746,PMLA,Economic Offence,3,261,False,True
+747,PMLA,Crimes Against Women,1,51,True,True
+748,PMLA,Crimes Against Women,3,6,False,False
+749,IPC,Crimes Against Women,3,42,False,False
+750,PMLA,Cyber Crime,1,98,False,False
+751,NDPS,Economic Offence,2,64,False,False
+752,NDPS,Crimes Against Children,2,218,False,False
+753,IPC,Crimes Against Children,1,51,False,True
+754,PMLA,Offences Against the State,3,113,False,True
+755,PMLA,Offences Against the State,2,255,False,False
+756,PMLA,Crimes Against Foreigners,2,138,False,True
+757,SCST Act,Offences Against the State,1,216,False,False
+758,CrPC,Crimes Against Women,3,63,False,False
+759,SCST Act,Crimes Against Children,2,132,False,False
+760,CrPC,Economic Offence,0,33,False,True
+761,PMLA,Crimes Against Women,1,309,False,True
+762,PMLA,Cyber Crime,0,68,False,False
+763,SCST Act,Offences Against the State,3,230,False,True
+764,SCST Act,Crimes Against Women,3,3,False,True
+765,CrPC,Crimes Against Women,1,92,False,False
+766,NDPS,Cyber Crime,1,63,False,True
+767,CrPC,Crimes Against SCs and STs,2,24,False,True
+768,SCST Act,Crimes Against Children,0,297,False,False
+769,SCST Act,Economic Offence,1,39,True,False
+770,IPC,Crimes Against Foreigners,2,222,False,True
+771,SCST Act,Crimes Against SCs and STs,2,294,False,False
+772,IPC,Offences Against the State,2,33,False,True
+773,NDPS,Crimes Against Women,1,100,True,False
+774,CrPC,Cyber Crime,2,102,False,False
+775,CrPC,Cyber Crime,1,51,False,False
+776,IPC,Crimes Against Children,2,297,False,False
+777,CrPC,Crimes Against SCs and STs,0,82,False,True
+778,SCST Act,Crimes Against Foreigners,1,104,False,False
+779,PMLA,Crimes Against Children,2,258,False,False
+780,IPC,Crimes Against Women,2,48,False,False
+781,CrPC,Crimes Against Children,2,38,False,True
+782,IPC,Economic Offence,2,37,False,True
+783,IPC,Cyber Crime,1,103,False,False
+784,PMLA,Cyber Crime,1,255,True,False
+785,SCST Act,Offences Against the State,2,8,False,False
+786,IPC,Offences Against the State,1,84,False,False
+787,CrPC,Crimes Against Foreigners,1,10,False,False
+788,NDPS,Crimes Against Women,0,34,False,False
+789,IPC,Economic Offence,1,303,False,True
+790,IPC,Crimes Against SCs and STs,2,36,False,False
+791,PMLA,Crimes Against Children,1,236,True,False
+792,SCST Act,Crimes Against Foreigners,0,19,False,False
+793,NDPS,Crimes Against Women,1,128,False,False
+794,CrPC,Offences Against the State,1,273,True,False
+795,NDPS,Crimes Against Children,2,351,False,False
+796,CrPC,Offences Against the State,3,294,False,True
+797,SCST Act,Crimes Against Children,2,22,False,True
+798,CrPC,Crimes Against SCs and STs,2,54,False,True
+799,PMLA,Crimes Against Women,1,45,False,True
+800,PMLA,Crimes Against Children,1,47,False,True
+801,PMLA,Economic Offence,1,24,False,True
+802,PMLA,Crimes Against Foreigners,1,236,False,False
+803,NDPS,Cyber Crime,1,42,True,False
+804,SCST Act,Economic Offence,1,236,False,False
+805,CrPC,Economic Offence,3,22,False,False
+806,CrPC,Crimes Against Foreigners,2,103,False,False
+807,PMLA,Cyber Crime,1,184,True,False
+808,PMLA,Economic Offence,2,10,False,True
+809,IPC,Crimes Against Children,3,81,False,False
+810,SCST Act,Crimes Against Children,2,112,False,True
+811,NDPS,Crimes Against Children,2,20,False,True
+812,CrPC,Cyber Crime,1,41,False,False
+813,IPC,Economic Offence,2,138,False,False
+814,IPC,Cyber Crime,0,36,False,False
+815,CrPC,Crimes Against Children,0,210,False,False
+816,NDPS,Crimes Against Foreigners,2,51,False,False
+817,IPC,Economic Offence,2,230,False,False
+818,IPC,Economic Offence,0,57,False,False
+819,SCST Act,Offences Against the State,0,26,False,True
+820,NDPS,Offences Against the State,1,96,False,False
+821,IPC,Crimes Against SCs and STs,2,324,False,False
+822,NDPS,Crimes Against Women,1,108,True,True
+823,CrPC,Offences Against the State,1,104,True,False
+824,PMLA,Cyber Crime,2,192,False,False
+825,IPC,Offences Against the State,2,210,False,True
+826,SCST Act,Crimes Against SCs and STs,2,110,False,False
+827,CrPC,Economic Offence,1,100,False,False
+828,NDPS,Crimes Against SCs and STs,2,204,False,False
+829,CrPC,Economic Offence,2,75,False,False
+830,IPC,Crimes Against Foreigners,2,66,False,False
+831,NDPS,Crimes Against Foreigners,1,186,True,False
+832,PMLA,Economic Offence,1,88,False,True
+833,CrPC,Crimes Against Women,1,46,False,False
+834,IPC,Offences Against the State,1,30,False,False
+835,SCST Act,Cyber Crime,1,54,False,True
+836,NDPS,Cyber Crime,1,75,False,True
+837,CrPC,Crimes Against Children,2,64,False,False
+838,CrPC,Economic Offence,2,115,False,True
+839,PMLA,Cyber Crime,2,342,False,False
+840,PMLA,Crimes Against Women,3,243,False,False
+841,SCST Act,Economic Offence,2,51,False,True
+842,SCST Act,Crimes Against Women,1,106,True,False
+843,IPC,Cyber Crime,3,234,False,False
+844,IPC,Cyber Crime,1,91,False,True
+845,SCST Act,Crimes Against Children,1,164,False,True
+846,SCST Act,Cyber Crime,2,276,False,True
+847,NDPS,Economic Offence,3,102,False,True
+848,PMLA,Crimes Against Foreigners,2,94,False,False
+849,IPC,Economic Offence,2,222,False,True
+850,PMLA,Economic Offence,1,8,True,True
+851,PMLA,Crimes Against Children,1,21,False,True
+852,SCST Act,Crimes Against Children,1,327,False,True
+853,NDPS,Cyber Crime,1,105,False,True
+854,CrPC,Crimes Against SCs and STs,1,48,True,False
+855,NDPS,Crimes Against SCs and STs,1,219,False,True
+856,NDPS,Crimes Against Children,2,144,False,False
+857,PMLA,Cyber Crime,1,348,True,True
+858,NDPS,Crimes Against SCs and STs,2,90,False,True
+859,IPC,Cyber Crime,3,81,False,True
+860,PMLA,Cyber Crime,3,162,False,True
+861,IPC,Cyber Crime,1,226,False,True
+862,CrPC,Offences Against the State,3,194,False,True
+863,PMLA,Economic Offence,2,96,False,True
+864,CrPC,Cyber Crime,2,216,False,True
+865,PMLA,Offences Against the State,0,57,False,False
+866,SCST Act,Crimes Against Children,1,63,False,True
+867,NDPS,Crimes Against SCs and STs,2,76,False,False
+868,SCST Act,Economic Offence,2,201,False,True
+869,CrPC,Crimes Against Foreigners,0,59,False,False
+870,NDPS,Crimes Against SCs and STs,1,207,False,True
+871,PMLA,Economic Offence,1,13,False,True
+872,NDPS,Crimes Against Foreigners,1,94,True,True
+873,IPC,Crimes Against SCs and STs,2,330,False,False
+874,NDPS,Economic Offence,1,61,False,False
+875,IPC,Crimes Against SCs and STs,2,93,False,False
+876,NDPS,Crimes Against SCs and STs,1,357,True,False
+877,IPC,Crimes Against Foreigners,1,240,False,True
+878,CrPC,Crimes Against SCs and STs,1,342,True,True
+879,SCST Act,Crimes Against SCs and STs,2,96,False,True
+880,PMLA,Crimes Against Foreigners,1,44,False,False
+881,NDPS,Crimes Against Children,1,93,True,True
+882,SCST Act,Cyber Crime,1,86,False,False
+883,PMLA,Crimes Against Women,1,43,False,False
+884,PMLA,Offences Against the State,1,134,True,False
+885,IPC,Crimes Against Women,2,162,False,False
+886,CrPC,Crimes Against Women,3,30,False,False
+887,CrPC,Economic Offence,1,126,False,True
+888,SCST Act,Cyber Crime,1,128,False,False
+889,CrPC,Economic Offence,2,63,False,False
+890,NDPS,Cyber Crime,2,160,False,True
+891,CrPC,Crimes Against Foreigners,2,228,False,False
+892,SCST Act,Crimes Against Foreigners,0,198,False,False
+893,CrPC,Cyber Crime,2,41,False,True
+894,NDPS,Crimes Against SCs and STs,2,48,False,True
+895,IPC,Crimes Against Children,1,35,False,True
+896,SCST Act,Crimes Against SCs and STs,0,56,False,False
+897,IPC,Crimes Against Children,3,30,False,True
+898,IPC,Economic Offence,1,114,False,True
+899,IPC,Crimes Against Children,2,188,False,True
+900,PMLA,Economic Offence,0,141,False,False
+901,PMLA,Crimes Against Foreigners,1,35,False,True
+902,IPC,Crimes Against Women,0,57,False,False
+903,SCST Act,Crimes Against Foreigners,2,114,False,False
+904,NDPS,Crimes Against Foreigners,2,16,False,True
+905,NDPS,Crimes Against Women,0,52,False,False
+906,CrPC,Crimes Against Children,0,226,False,False
+907,SCST Act,Crimes Against Children,1,104,False,True
+908,PMLA,Economic Offence,2,142,False,False
+909,IPC,Crimes Against SCs and STs,1,30,False,True
+910,CrPC,Economic Offence,2,21,False,False
+911,NDPS,Crimes Against SCs and STs,0,67,False,False
+912,PMLA,Crimes Against Foreigners,1,195,False,True
+913,PMLA,Crimes Against Women,2,36,False,True
+914,IPC,Crimes Against Foreigners,2,75,False,False
+915,NDPS,Cyber Crime,0,74,False,False
+916,SCST Act,Crimes Against Children,3,3,False,True
+917,PMLA,Crimes Against SCs and STs,1,30,True,False
+918,IPC,Economic Offence,1,74,True,False
+919,SCST Act,Crimes Against Women,0,39,False,False
+920,NDPS,Crimes Against SCs and STs,3,104,False,False
+921,PMLA,Economic Offence,1,8,True,True
+922,SCST Act,Crimes Against Children,1,5,True,True
+923,SCST Act,Crimes Against Foreigners,1,60,False,True
+924,SCST Act,Crimes Against Children,2,73,False,True
+925,PMLA,Offences Against the State,1,2,True,True
+926,PMLA,Cyber Crime,2,36,False,True
+927,CrPC,Offences Against the State,0,70,False,False
+928,NDPS,Crimes Against Women,2,132,False,True
+929,IPC,Crimes Against SCs and STs,2,126,False,False
+930,SCST Act,Crimes Against Women,2,312,False,False
+931,CrPC,Crimes Against Foreigners,2,69,False,False
+932,IPC,Economic Offence,1,18,False,True
+933,CrPC,Crimes Against Children,3,102,False,False
+934,PMLA,Offences Against the State,1,46,False,True
+935,SCST Act,Offences Against the State,2,78,False,False
+936,IPC,Crimes Against Foreigners,1,8,True,False
+937,IPC,Offences Against the State,1,30,True,True
+938,IPC,Crimes Against Foreigners,2,190,False,False
+939,IPC,Crimes Against Women,2,204,False,False
+940,IPC,Crimes Against Children,1,75,True,False
+941,CrPC,Crimes Against SCs and STs,0,297,False,False
+942,SCST Act,Economic Offence,0,72,False,True
+943,PMLA,Crimes Against SCs and STs,1,3,True,False
+944,PMLA,Crimes Against Women,1,28,True,False
+945,PMLA,Economic Offence,0,120,False,True
+946,PMLA,Offences Against the State,1,154,False,False
+947,CrPC,Cyber Crime,0,90,False,False
+948,NDPS,Crimes Against Women,2,288,False,False
+949,SCST Act,Crimes Against Women,2,102,False,False
+950,IPC,Crimes Against Children,2,135,False,True
+951,NDPS,Crimes Against SCs and STs,2,122,False,False
+952,PMLA,Crimes Against Women,3,166,False,True
+953,NDPS,Crimes Against Women,2,204,False,False
+954,SCST Act,Offences Against the State,2,48,False,False
+955,IPC,Offences Against the State,1,132,False,False
+956,IPC,Economic Offence,3,40,False,True
+957,SCST Act,Crimes Against Foreigners,2,17,False,False
+958,SCST Act,Crimes Against Foreigners,1,238,False,False
+959,PMLA,Cyber Crime,1,34,False,True
+960,IPC,Crimes Against Foreigners,1,106,True,True
+961,NDPS,Crimes Against Children,2,48,False,True
+962,CrPC,Cyber Crime,0,204,False,True
+963,CrPC,Economic Offence,2,120,False,False
+964,SCST Act,Offences Against the State,2,198,False,False
+965,PMLA,Crimes Against Foreigners,1,66,True,False
+966,CrPC,Crimes Against SCs and STs,2,90,False,False
+967,IPC,Offences Against the State,2,26,False,True
+968,SCST Act,Crimes Against Children,0,56,False,False
+969,NDPS,Offences Against the State,1,333,True,False
+970,SCST Act,Crimes Against Children,3,93,False,False
+971,NDPS,Crimes Against Children,1,68,True,False
+972,SCST Act,Crimes Against Children,2,117,False,True
+973,SCST Act,Economic Offence,3,201,False,False
+974,SCST Act,Crimes Against Children,2,16,False,False
+975,NDPS,Crimes Against Children,1,261,False,False
+976,NDPS,Crimes Against SCs and STs,2,234,False,True
+977,SCST Act,Cyber Crime,1,165,False,True
+978,CrPC,Crimes Against Women,2,27,False,False
+979,PMLA,Cyber Crime,1,236,False,False
+980,PMLA,Crimes Against Children,3,186,False,False
+981,PMLA,Crimes Against SCs and STs,3,206,False,True
+982,NDPS,Offences Against the State,1,53,False,False
+983,NDPS,Crimes Against SCs and STs,2,39,False,False
+984,CrPC,Crimes Against Children,2,130,False,False
+985,PMLA,Crimes Against SCs and STs,1,17,True,True
+986,PMLA,Crimes Against Foreigners,2,210,False,False
+987,SCST Act,Crimes Against SCs and STs,1,30,True,False
+988,NDPS,Crimes Against Children,3,159,False,True
+989,PMLA,Economic Offence,2,39,False,True
+990,CrPC,Crimes Against Foreigners,1,42,True,False
+991,CrPC,Crimes Against SCs and STs,3,19,False,True
+992,PMLA,Crimes Against Women,1,53,True,False
+993,NDPS,Crimes Against Women,3,57,False,True
+994,CrPC,Crimes Against SCs and STs,2,171,False,True
+995,SCST Act,Economic Offence,1,25,False,False
+996,CrPC,Offences Against the State,1,86,True,False
+997,IPC,Crimes Against Children,2,31,False,False
+998,IPC,Crimes Against Women,2,81,False,True
+999,NDPS,Offences Against the State,1,55,False,False
+1000,PMLA,Crimes Against SCs and STs,2,23,False,False
