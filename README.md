@@ -50,8 +50,7 @@ Built with **React.js + Next.js** for the frontend, Flask (Python) for the backe
 | **Operating System** | Windows/Linux/macOS |
 | **Frontend** | Next.js (React.js + TypeScript) |
 | **Backend** | Python (Flask) |
-| **Database** | MySQL |
-| **AI/ML Models** | Decision Trees / Logistic Regression |
+| **AI/ML Models** | GradientBoost Algorithm / CatBoost / XGBoost |
 | **NLP** | Legal text processing |
 | **Dataset** | Undertrial_prisoner.csv, judicial_authority.csv, Legal_aid_provider.csv |
 | **IDE** | VSCode |
