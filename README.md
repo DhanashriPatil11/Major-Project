@@ -22,7 +22,7 @@ The **Bail Reckoner** is an **AI-driven legal assistance system** designed to **
 
 It leverages **machine learning models** to analyze case details, offense severity, and legal precedents, providing an **automated assessment of bail eligibility**. Additionally, the system generates **AI-powered bail applications**, reducing manual effort and ensuring accuracy.  
 
-Built with **React.js + Next.js** for the frontend, Flask (Python) for the backend, and **MySQL for database management**, it ensures **seamless data handling**. By automating key aspects of bail determination, Bail Reckoner enhances **efficiency, transparency, and accessibility** in the judicial system.  
+Built with **React.js + Next.js** for the frontend, Flask (Python) for the backend. By automating key aspects of bail determination, Bail Reckoner enhances **efficiency, transparency, and accessibility** in the judicial system.  
 
 ---
 
